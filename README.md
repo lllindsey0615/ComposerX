@@ -14,9 +14,9 @@ This is out demo video [here](link to demo video)
 ## Preparation
 
 Clone this project and install requirements.
-Download and install MuseScore [here](https://musescore.org/en/download) and add it to environment PATH.
+Download and install MuseScore [here](https://musescore.org/en/download) and add it to your environment PATH.
 
-Download and install abc2midi [here](https://abcplus.sourceforge.net/) and add it to environment PATH.
+Download and install abc2midi [here](https://abcplus.sourceforge.net/) and add it to your environment PATH.
 
 Download AutoGen here: [here](https://github.com/microsoft/autogen)
 
@@ -25,20 +25,22 @@ prompt_set.json contains the curated prompt set using self-instruct
 
 
 ## Generate your music
--Prepare your MuseScore
+Prepare your MuseScore
+
 ```
 python prepare_musescore.py convert_abc_to_wav.py "your local musescore4 path"
 ```
 
--Prepare your API
-In music_generation/OAI_CONFIG_LIST, replace the api model and key with your own
+Prepare your API
 
--For one-time prompt input, run
+In music_generation/OAI_CONFIG_LIST, replace the API model and key with your own
+
+For one-time prompt input, run
 ```
 python multi_agent_pipe.py -p "input your prompt here" -o "directory to store the results"
 ```
 
--For multiple-time prompts input, run
+For multiple-time prompts input, run
 ```
 set_pipe.py -p "path to your JSON file that contains multiple prompts" -o "directory to store the results"
 ```
