@@ -13,6 +13,9 @@ ComposerX is a multi-agent based text-to-music generation system powered by GPT 
 -Download and install abc2midi [here](https://abcplus.sourceforge.net/) and add it to enviroment PATH.
 -Download AutoGen here: [here](https://github.com/microsoft/autogen)
 
+##Curated Prompt set:
+prompt_set.json contains the curated prompt set using self-instruct
+
 
 ## Generate your music
 -Prepare your MuseScore
