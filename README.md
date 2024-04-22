@@ -2,8 +2,10 @@
 
 ## Introduction
 
-This is code for paper "ComposerX: Multi-Agent Symbolic Music Composition with LLMs[here](paper link)
-ComposerX is a multi-agent based text-to-music generation system powered by GPT where each GPT plays a role in the process of music composition. This is our demo page[here](https://lllindsey0615.github.io/ComposerX_demo/)
+-This is code for paper "ComposerX: Multi-Agent Symbolic Music Composition with LLMs[here](paper link)
+-ComposerX is a multi-agent based text-to-music generation system powered by GPT where each GPT plays a role in the process of music composition. 
+-This is our demo page[here](https://lllindsey0615.github.io/ComposerX_demo/)
+-This is out demo video [here](link to demo video)
 
 
 ## Preparation
@@ -13,7 +15,7 @@ ComposerX is a multi-agent based text-to-music generation system powered by GPT 
 -Download and install abc2midi [here](https://abcplus.sourceforge.net/) and add it to enviroment PATH.
 -Download AutoGen here: [here](https://github.com/microsoft/autogen)
 
-##Curated Prompt set:
+## Curated Prompt set:
 prompt_set.json contains the curated prompt set using self-instruct
 
 
