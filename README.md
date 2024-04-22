@@ -15,7 +15,7 @@
 -Download and install abc2midi [here](https://abcplus.sourceforge.net/) and add it to enviroment PATH.
 -Download AutoGen here: [here](https://github.com/microsoft/autogen)
 
-## Curated Prompt set:
+## Curated prompt set:
 prompt_set.json contains the curated prompt set using self-instruct
 
 
@@ -33,7 +33,7 @@ In music_generation/OAI_CONFIG_LIST, replace the api model and key with your own
 python multi_agent_pipe.py -p "input your prompt here" -o "directory to store the results"
 ```
 
--For multiple time prompts input, run
+-For multiple-time prompts input, run
 ```
 set_pipe.py -p "path to your JSON file that contains multiple prompts" -o "directory to store the results"
 ```
