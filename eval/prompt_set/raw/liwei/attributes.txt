@@ -1,0 +1,1024 @@
+[
+    {
+        "title": "Whispers of the Ancient Grove",
+        "genre": "Ambient, Mystical",
+        "key": "Minor",
+        "chord_progression": "Am-G-F-Em",
+        "instruments": ["Pan flute", "String ensemble"],
+        "tempo": "Slow",
+        "rhythm": "Gentle, like a breeze",
+        "emotion": "Ethereal, Haunting"
+    },
+    {
+        "title": "Frostbitten Waltz",
+        "genre": "Classical Waltz",
+        "key": "B minor",
+        "chord_progression": "Bm-F#m-G-Em",
+        "instruments": ["Piano", "Strings"],
+        "tempo": "Traditional 3/4 waltz",
+        "emotion": "Crisp, Elegant, Graceful"
+    },
+    {
+        "title": "Neon Streets Symphony",
+        "genre": "Symphonic with Electronic Elements",
+        "key": "C minor",
+        "chord_progression": "Cm-Ab-Bb-G",
+        "instruments": ["Strings", "Brass", "Synthesizers"],
+        "tempo": "Fast",
+        "rhythm": "Driving",
+        "emotion": "Exhilarating"
+    },
+    {
+        "title": "Echoes of the Lost Empire",
+        "genre": "Historical",
+        "key": "D major",
+        "chord_progression": "D-A-Bm-G",
+        "instruments": ["Lyre or Harp"],
+        "tempo": "Moderate",
+        "emotion": "Awe, Melancholy"
+    },
+    {
+        "title": "Ocean Odyssey",
+        "genre": "Nautical-themed",
+        "key": "E major",
+        "chord_progression": "E-C#m-A-B",
+        "instruments": ["Accordion", "Violin"],
+        "tempo": "Lively",
+        "rhythm": "Mimicking rolling waves",
+        "emotion": "Majestic, Adventurous"
+    },
+    {
+        "title": "Sunrise Serenade",
+        "genre": "Uplifting",
+        "key": "G major",
+        "chord_progression": "G-Em-C-D",
+        "instruments": ["Flute", "Acoustic Guitar"],
+        "tempo": "Slow to Moderate",
+        "emotion": "Peaceful, Gradual"
+    },
+    {
+        "title": "Rhythms of the Rainforest",
+        "genre": "Nature-inspired",
+        "key": "C minor",
+        "chord_progression": "Cm-Gm-Ab-Bb",
+        "instruments": ["Various Percussion"],
+        "tempo": "Varied",
+        "emotion": "Vibrant, Organic"
+    },
+    {
+        "title": "Desert Mirage Dance",
+        "genre": "Middle Eastern",
+        "key": "E minor",
+        "chord_progression": "Em-Am-Dm-G",
+        "instruments": ["Oud", "Darbuka"],
+        "tempo": "Medium",
+        "emotion": "Exotic, Alluring"
+    },
+    {
+        "title": "Journey Through the Highlands",
+        "genre": "Scottish",
+        "key": "Varied",
+        "chord_progression": "A-D-E-A",
+        "instruments": ["Bagpipes"],
+        "tempo": "Brisk",
+        "rhythm": "Spirited",
+        "emotion": "Rugged, Natural"
+    },
+    {
+        "title": "Ballad of the Forgotten",
+        "genre": "Ballad",
+        "key": "F# minor",
+        "chord_progression": "F#m-D-A-E",
+        "instruments": ["Cello or Violin"],
+        "tempo": "Slow",
+        "emotion": "Melancholic, Soulful"
+    },
+    {
+        "title": "Regal Fanfare",
+        "genre": "Classical, Ceremonial",
+        "key": "Unspecified",
+        "chord_progression": "D-G-Bm-A",
+        "instruments": "Brass ensemble, Trumpets, Timpani, Snare drums",
+        "tempo": "Marching",
+        "rhythm": "Bold, Grand",
+        "emotion": "Majestic, Triumphant"
+    },
+    {
+        "title": "Island Breeze Calypso",
+        "genre": "Calypso, Caribbean",
+        "key": "Unspecified",
+        "chord_progression": "F-C-Dm-Bb",
+        "instruments": "Steel drums, Marimba, Conga drums",
+        "tempo": "Lively",
+        "rhythm": "Upbeat, Rhythmic",
+        "emotion": "Carefree, Joyful"
+    },
+    {
+        "title": "Appalachian Sunrise",
+        "genre": "Folk",
+        "key": "Unspecified",
+        "chord_progression": "G-C-Em-D",
+        "instruments": "Banjo, Fiddle, Dulcimer",
+        "tempo": "Gentle, Rolling",
+        "rhythm": "Tranquil",
+        "emotion": "Peaceful, Reflective"
+    },
+    {
+        "title": "Venetian Gondola Serenade",
+        "genre": "Romantic, Classical",
+        "key": "Unspecified",
+        "chord_progression": "Am-E7-F-C",
+        "instruments": "Classical guitar, Mandolin",
+        "tempo": "Moderate",
+        "rhythm": "Flowing, Sweet",
+        "emotion": "Romantic, Charming"
+    },
+    {
+        "title": "Samba de Rio",
+        "genre": "Samba, Brazilian",
+        "key": "Unspecified",
+        "chord_progression": "Dm-A7-Gm-A7",
+        "instruments": "Pandeiro, Cuica, Brass",
+        "tempo": "Fast",
+        "rhythm": "Festive",
+        "emotion": "Vibrant, Energetic"
+    },
+    {
+        "title": "Highland Bagpipe Reel",
+        "genre": "Scottish, Traditional",
+        "key": "Unspecified",
+        "chord_progression": "A-D-E-A",
+        "instruments": "Bagpipes, Bodhrán",
+        "tempo": "Quick",
+        "rhythm": "Snappy, Upbeat",
+        "emotion": "Lively, Spirited"
+    },
+    {
+        "title": "Balkan Brass Extravaganza",
+        "genre": "Balkan, Brass Band",
+        "key": "Unspecified",
+        "chord_progression": "E7-Am7-D7-G7",
+        "instruments": "Trumpets, Tubas, Trombones",
+        "tempo": "Fast",
+        "rhythm": "Energetic, Asymmetric",
+        "emotion": "Exuberant, Lively"
+    },
+    {
+        "title": "Flamenco Fury",
+        "genre": "Flamenco",
+        "key": "Unspecified",
+        "chord_progression": "Am-G-F-E",
+        "instruments": "Classical guitar, Palmas, Cajón",
+        "tempo": "Fast",
+        "rhythm": "Intense, Rhythmic",
+        "emotion": "Passionate, Fiery"
+    },
+    {
+        "title": "Japanese Koto Elegance",
+        "genre": "Traditional Japanese",
+        "key": "Unspecified",
+        "chord_progression": "Dm-Gm-C-Am",
+        "instruments": "Koto, Shakuhachi flute",
+        "tempo": "Slow",
+        "rhythm": "Contemplative",
+        "emotion": "Elegant, Refined"
+    },
+    {
+        "title": "African Djembe Rhythms",
+        "genre": "African, Traditional",
+        "key": "Unspecified",
+        "chord_progression": "G-C-D-G",
+        "instruments": "Djembe, Balafon, Kora",
+        "tempo": "Lively",
+        "rhythm": "Rhythmic, Vibrant",
+        "emotion": "Energetic, Spirited"
+    },
+    {
+        "title": "Lunar Lullaby",
+        "genre": "Ambient, Lullaby",
+        "key": "Unspecified",
+        "chord_progression": "Cmaj7-Am7-Dm7-G7",
+        "instruments": "Unspecified",
+        "tempo": "Calm, Steady",
+        "rhythm": "Gentle, Ascending",
+        "emotion": "Soothing, Tranquil"
+    },
+    {
+        "title": "Saharan Sands",
+        "genre": "Middle Eastern, Ambient",
+        "key": "Unspecified",
+        "chord_progression": "Am-G-F-E",
+        "instruments": "Oud, Hand drums",
+        "tempo": "Moderate",
+        "rhythm": "Repetitive, Hypnotic",
+        "emotion": "Mysterious, Vast"
+    },
+    {
+        "title": "Urban Pulse",
+        "genre": "Electronic, Urban",
+        "key": "Unspecified",
+        "chord_progression": "Em-Bm-C-D",
+        "instruments": "Electronic sounds, Urban beats",
+        "tempo": "Fast",
+        "rhythm": "Sharp, Syncopated",
+        "emotion": "Dynamic, Energetic"
+    },
+    {
+        "title": "Tropical Rainforest Rhapsody",
+        "genre": "Nature-inspired",
+        "key": "Unspecified",
+        "chord_progression": "Dm-C-Bb-A",
+        "instruments": "Unspecified",
+        "tempo": "Medium",
+        "rhythm": "Layered, Intricate",
+        "emotion": "Vibrant, Lush"
+    },
+
+    {
+        "title": "Arctic Solitude",
+        "genre": "Ambient",
+        "key": "G minor",
+        "chordProgression": "Gm-Eb-Bb-F",
+        "instruments": ["Sounds mimicking wind and ice"],
+        "tempo": "Slow",
+        "rhythm": "Reflective, echoing",
+        "emotion": "Isolation, Beauty"
+    },
+    {
+        "title": "Mountain Echoes",
+        "genre": "Nature-Inspired",
+        "key": "A minor",
+        "chordProgression": "Am-F-C-G",
+        "instruments": ["Flutes", "Strings"],
+        "tempo": "Variable",
+        "rhythm": "Cascading, echoing",
+        "emotion": "Majestic, Mysterious"
+    },
+    {
+        "title": "River Journey",
+        "genre": "Nature-Inspired",
+        "key": "C major",
+        "chordProgression": "C-G-Am-Em",
+        "instruments": ["Sounds mimicking water and wildlife"],
+        "tempo": "Tranquil yet lively",
+        "rhythm": "Fluid, meandering",
+        "emotion": "Peaceful, Dynamic"
+    },
+    {
+        "title": "Desert Night Sky",
+        "genre": "Ambient",
+        "key": "E minor",
+        "chordProgression": "Em-C-G-D",
+        "instruments": ["Instruments for vastness and wonder"],
+        "tempo": "Slow",
+        "rhythm": "Expansive",
+        "emotion": "Awe, Mystery"
+    },
+    {
+        "title": "Ancient Temple Mystery",
+        "genre": "Mystical",
+        "key": "D minor",
+        "chordProgression": "Dm-Am-E-Am",
+        "instruments": ["Gongs", "Chimes"],
+        "tempo": "Slow",
+        "rhythm": "Contemplative",
+        "emotion": "Mysterious, Ancient"
+    },
+    {
+        "title": "Urban Jazz Nights",
+        "genre": "Jazz",
+        "key": "F minor",
+        "chordProgression": "Fm7-Bb7-Ebmaj7-Abmaj7",
+        "instruments": ["Saxophone"],
+        "tempo": "Medium",
+        "rhythm": "Swing",
+        "emotion": "Vibrant, Urbane"
+    },
+    {
+        "title": "Afrobeat Awakening",
+        "genre": "Afrobeat",
+        "key": "Unspecified",
+        "chordProgression": "F7-Bb7-Eb7-Ab7",
+        "instruments": ["Djembe", "Shekere", "Brass"],
+        "tempo": "Lively",
+        "rhythm": "Traditional African",
+        "emotion": "Energetic, Authentic"
+    },
+    {
+        "title": "Andean Dreamscape",
+        "genre": "South American",
+        "key": "A minor",
+        "chordProgression": "Am-G-F-E",
+        "instruments": ["Pan flutes", "Charangos"],
+        "tempo": "Medium",
+        "rhythm": "Tranquil",
+        "emotion": "Mysterious, Cultural"
+    },
+    {
+        "title": "Arctic Echoes",
+        "genre": "Ambient",
+        "key": "E minor",
+        "chordProgression": "Em-C-G-D",
+        "instruments": ["Sounds mimicking natural Arctic elements"],
+        "tempo": "Slow",
+        "rhythm": "Sparse",
+        "emotion": "Serene, Vast"
+    },
+    {
+        "title": "Middle Eastern Mirage",
+        "genre": "Middle Eastern",
+        "key": "A minor",
+        "chordProgression": "Am-G-F-E7",
+        "instruments": ["Oud", "Darbuka"],
+        "tempo": "Moderate",
+        "rhythm": "Mystical",
+        "emotion": "Exotic, Enigmatic"
+    },
+    {
+        "title": "Celtic Highlands Journey",
+        "genre": "Celtic",
+        "key": "D minor",
+        "chordProgression": "Dm-C-Bb-A",
+        "instruments": ["Tin whistle", "Bodhrán"],
+        "tempo": "Variable",
+        "rhythm": "Dynamic",
+        "emotion": "Reflective, Spirited"
+    },
+    {
+        "title": "Southeast Asian Serenity",
+        "genre": "Southeast Asian",
+        "key": "C major",
+        "chordProgression": "C-Dm-G-Am",
+        "instruments": ["Gamelan", "Pipa"],
+        "tempo": "Gentle",
+        "rhythm": "Peaceful",
+        "emotion": "Tranquil, Intricate"
+    },
+    {
+        "title": "Caribbean Carnival Rhythm",
+        "genre": "Caribbean",
+        "key": "C major",
+        "chordProgression": "C-F-G-Am",
+        "instruments": ["Steel pans", "Calypso rhythms"],
+        "tempo": "Fast",
+        "rhythm": "Joyful",
+        "emotion": "Vibrant, Energetic"
+    },
+    {
+        "title": "Balkan Beats Fusion",
+        "genre": "Balkan Fusion",
+        "key": "E minor",
+        "chordProgression": "Em-Bm-Am-Em",
+        "instruments": ["Accordion", "Tapan"],
+        "tempo": "Fast",
+        "rhythm": "Asymmetric",
+        "emotion": "Traditional, Contemporary"
+    },
+    {
+        "title": "Nordic Fjord Folklore",
+        "genre": "Nordic",
+        "key": "G minor",
+        "chordProgression": "Gm-Dm-Cm-Gm",
+        "instruments": ["Nyckelharpa", "Hardanger fiddle"],
+        "tempo": "Fluctuating",
+        "rhythm": "Narrative",
+        "emotion": "Mystical, Ancient"
+    },
+    {
+        "title": "Japanese Zen Garden",
+        "genre": "Japanese",
+        "key": "F# minor",
+        "chordProgression": "F#m-E-D-C#m",
+        "instruments": ["Koto", "Shakuhachi"],
+        "tempo": "Very slow",
+        "rhythm": "Calm",
+        "emotion": "Tranquil, Elegant"
+    },
+    {
+        "title": "Autumnal Reflections",
+        "genre": "Acoustic",
+        "key": "A minor",
+        "chordProgression": "Am7-Fmaj7-C-G",
+        "instruments": ["Acoustic guitar"],
+        "tempo": "Moderate",
+        "rhythm": "Reflective",
+        "emotion": "Melancholic, Introspective"
+    },
+    {
+        "title": "Jazz Lounge Reverie",
+        "genre": "Jazz",
+        "key": "D minor",
+        "chordProgression": "Dm7-G7-Cmaj7-Am7",
+        "instruments": ["Saxophone"],
+        "tempo": "Relaxed",
+        "rhythm": "Swing",
+        "emotion": "Laid-back, Soulful"
+    },
+    {
+        "title": "Sunny Day Groove",
+        "genre": "Pop",
+        "key": "C major",
+        "chordProgression": "C-G-Am-F",
+        "instruments": ["Vocal lead"],
+        "tempo": "Lively",
+        "rhythm": "Upbeat",
+        "emotion": "Carefree, Joyful"
+    },
+    {
+        "title": "Blues Alley Tale",
+        "genre": "Blues",
+        "key": "E major",
+        "chordProgression": "12-bar blues (E7-A7-B7)",
+        "instruments": ["Harmonica", "Guitar"],
+        "tempo": "Moderate to slow",
+        "rhythm": "Bluesy",
+        "emotion": "Soulful, Narrative"
+    },
+    {
+        "title": "Festival of Lights",
+        "genre": "Indian Fusion",
+        "key": "C major",
+        "chordProgression": "Cmaj7-Dm7-G7",
+        "instruments": ["Sitar", "Tabla"],
+        "tempo": "Medium",
+        "rhythm": "Celebratory",
+        "emotion": "Vibrant, Joyful"
+    },
+    {
+        "title": "Enchanted Forest Waltz",
+        "genre": "Waltz",
+        "key": "E minor",
+        "chordProgression": "Em-B7-Am-D",
+        "instruments": ["Strings", "Woodwinds"],
+        "tempo": "3/4 time",
+        "rhythm": "Graceful",
+        "emotion": "Ethereal, Magical"
+    },
+   {
+    "title": "Rock Rebellion Anthem",
+    "genre": "Rock",
+    "key": "Unspecified",
+    "chordProgression": "A-D-G-E",
+    "instruments": "Distorted electric guitars",
+    "tempo": "Fast",
+    "rhythm": "Strong 4/4 beat",
+    "emotion": "Rebellious, Invigorating"
+  },
+  {
+    "title": "Mediterranean Sunset",
+    "genre": "Unspecified",
+    "key": "Unspecified",
+    "chordProgression": "Am-G-F-E7",
+    "instruments": "Classical guitar",
+    "tempo": "Moderate",
+    "rhythm": "Sways like the sea",
+    "emotion": "Romantic, Nostalgic"
+  },
+  {
+    "title": "Cosmic Odyssey",
+    "genre": "Ambient, Space-themed",
+    "key": "Unspecified",
+    "chordProgression": "Fmaj7-Gm7-Am7-Bb",
+    "instruments": "Synthesizers",
+    "tempo": "Slow",
+    "emotion": "Expansive, Intimate"
+  },
+  {
+    "title": "Gospel Revival",
+    "genre": "Gospel",
+    "key": "Unspecified",
+    "chordProgression": "C-F-C-G",
+    "instruments": "Choir",
+    "tempo": "Upbeat",
+    "rhythm": "Uplifting and soulful",
+    "emotion": "Celebratory, Spiritual"
+  },
+  {
+    "title": "Celestial Voyage",
+    "genre": "Symphonic",
+    "key": "D major",
+    "chordProgression": "Unspecified",
+    "instruments": "String instruments",
+    "tempo": "Slow",
+    "rhythm": "4/4",
+    "emotion": "Wonder, Unknown"
+  },
+  {
+    "title": "Rustic Dance",
+    "genre": "Folk",
+    "key": "Unspecified",
+    "chordProgression": "G-D-Em-C",
+    "instruments": "Fiddle, Hand claps, Tambourine",
+    "tempo": "Fast, Upbeat",
+    "rhythm": "6/8 time",
+    "emotion": "Joyful, Playful"
+  },
+  {
+    "title": "Urban Twilight",
+    "genre": "Jazz",
+    "key": "E minor",
+    "chordProgression": "Unspecified",
+    "instruments": "Saxophone, Piano",
+    "tempo": "Slow",
+    "rhythm": "Relaxed yet intricate",
+    "emotion": "Serene, Melancholic"
+  },
+  {
+    "title": "Ancient Echoes",
+    "genre": "Fusion",
+    "key": "Unspecified",
+    "chordProgression": "Unspecified",
+    "instruments": "Koto or Erhu, Electronic bassline",
+    "tempo": "Medium",
+    "number_of_bars": "32",
+    "emotion": "Ancient, Contemporary"
+  },
+  {
+    "title": "Ocean's Lullaby",
+    "genre": "Unspecified",
+    "key": "C major",
+    "chordProgression": "Unspecified",
+    "instruments": "Solo piano",
+    "tempo": "Very slow",
+    "rhythm": "Mimics ocean waves",
+    "emotion": "Calming, Soothing"
+  },
+  {
+    "title": "Highland Warrior",
+    "genre": "Unspecified",
+    "key": "Minor",
+    "chordProgression": "Unspecified",
+    "instruments": "Scottish bagpipes, Electric guitar, Drums",
+    "tempo": "Fast",
+    "rhythm": "Strong 4/4 beat",
+    "emotion": "Bold, Brave"
+  },
+  {
+    "title": "Desert Mirage",
+    "genre": "Ambient, Atmospheric",
+    "key": "A minor",
+    "chordProgression": "Unspecified",
+    "instruments": "Middle-Eastern instruments, Synths",
+    "tempo": "Moderate",
+    "rhythm": "Elusive and entrancing",
+    "emotion": "Endless, Hypnotic"
+  },
+  {
+    "title": "Raindrop Serenade",
+    "genre": "Classical",
+    "key": "G minor",
+    "chordProgression": "Unspecified",
+    "instruments": "String quartet",
+    "tempo": "Moderate",
+    "rhythm": "Alternates between pizzicato and legato",
+    "emotion": "Light, Flowing"
+  },
+  {
+    "title": "Neon Groove",
+    "genre": "Funky, Upbeat",
+    "key": "F major",
+    "chordProgression": "Unspecified",
+    "instruments": "Brass section",
+    "tempo": "Perfect for dancing",
+    "rhythm": "Strong backbeat",
+    "emotion": "Vibrant, Energetic"
+  },
+  {
+    "title": "Winter's Whisper",
+    "genre": "Minimalist",
+    "key": "B flat major",
+    "chordProgression": "Unspecified",
+    "instruments": "Solo flute",
+    "tempo": "Slow",
+    "rhythm": "Subtle",
+    "emotion": "Quiet, Peaceful"
+  },
+  {
+        "title": "Midnight Jazz in Paris",
+        "genre": "Jazz",
+        "key": "A minor",
+        "chord_progression": "Am7-Dm7-G7-Cmaj7",
+        "instruments": ["Saxophone", "Piano", "Double Bass"],
+        "tempo": "Moderate",
+        "rhythm": "Swinging",
+        "emotion": "Romantic, Nostalgic"
+    },
+    {
+        "title": "Underwater Dreamscape",
+        "genre": "Ambient, Electronic",
+        "key": "E major",
+        "chord_progression": "E-B-A-C#m",
+        "instruments": ["Synthesizers", "Electronic Harp"],
+        "tempo": "Slow",
+        "rhythm": "Fluid, Ethereal",
+        "emotion": "Mysterious, Calming"
+    },
+    {
+        "title": "Galactic Odyssey",
+        "genre": "Space Opera",
+        "key": "D minor",
+        "chord_progression": "Dm-C-Bb-A",
+        "instruments": ["Full Orchestra", "Choir"],
+        "tempo": "Epic",
+        "rhythm": "Grandiose",
+        "emotion": "Adventurous, Majestic"
+    },
+    {
+        "title": "Renaissance Faire Dance",
+        "genre": "Renaissance",
+        "key": "G major",
+        "chord_progression": "G-C-D-G",
+        "instruments": ["Lute", "Recorder", "Viola da Gamba"],
+        "tempo": "Lively",
+        "rhythm": "Dance-like",
+        "emotion": "Cheerful, Historical"
+    },
+    {
+        "title": "Sunset Serenata",
+        "genre": "Classical Guitar",
+        "key": "C minor",
+        "chord_progression": "Cm-Gm-Ab-Bb",
+        "instruments": ["Classical Guitar"],
+        "tempo": "Moderate",
+        "rhythm": "Melodic",
+        "emotion": "Melancholic, Beautiful"
+    },
+    {
+        "title": "Arabian Nights Fantasy",
+        "genre": "Middle Eastern",
+        "key": "F# minor",
+        "chord_progression": "F#m-D-E-C#",
+        "instruments": ["Oud", "Percussion", "Flute"],
+        "tempo": "Mystical",
+        "rhythm": "Hypnotic",
+        "emotion": "Exotic, Enchanting"
+    },
+    {
+        "title": "Polar Aurora Symphony",
+        "genre": "Orchestral",
+        "key": "Bb major",
+        "chord_progression": "Bb-F-Gm-Eb",
+        "instruments": ["Strings", "Celesta", "Woodwinds"],
+        "tempo": "Slow to Moderate",
+        "rhythm": "Luminous, Flowing",
+        "emotion": "Awe-inspiring, Serene"
+    },
+    {
+        "title": "Carnival in Rio Samba",
+        "genre": "Samba",
+        "key": "A major",
+        "chord_progression": "A-D-E-A",
+        "instruments": ["Percussion Ensemble", "Brass Section"],
+        "tempo": "Fast",
+        "rhythm": "Vibrant",
+        "emotion": "Joyful, Energetic"
+    },
+    {
+        "title": "Haunted Gothic Organ",
+        "genre": "Classical",
+        "key": "D minor",
+        "chord_progression": "Dm-A-C-G",
+        "instruments": ["Pipe Organ"],
+        "tempo": "Slow",
+        "rhythm": "Dramatic",
+        "emotion": "Mysterious, Somber"
+    },
+    {
+        "title": "Indian Classical Raga",
+        "genre": "Indian Classical",
+        "key": "Raga Scale",
+        "chord_progression": "Not Applicable",
+        "instruments": ["Sitar", "Tabla", "Tambura"],
+        "tempo": "Varied",
+        "rhythm": "Traditional",
+        "emotion": "Spiritual, Reflective"
+    },
+{
+"title": "Enchanted Winter Waltz",
+"genre": "Classical, Holiday",
+"key": "G major",
+"chordProgression": "G-D-Em-C",
+"instruments": "Piano, Violin, Sleigh Bells",
+"tempo": "Moderate, graceful",
+"rhythm": "Elegant waltz",
+"emotion": "Magical, Festive"
+},
+
+{
+"title": "Wild West Saloon Showdown",
+"genre": "Western, Action",
+"key": "D minor",
+"chordProgression": "Dm-Gm-Dm-A7",
+"instruments": "Banjo, Harmonica, Gunshots",
+"tempo": "Fast, intense",
+"rhythm": "Dramatic, like a duel",
+"emotion": "Tense, Exciting"
+},
+
+{
+"title": "Underwater Exploration",
+"genre": "Orchestral, Adventure",
+"key": "Unspecified",
+"chordProgression": "Mysterious Underwater",
+"instruments": "Strings, Flutes, Percussion",
+"tempo": "Moderate, mysterious",
+"rhythm": "Underwater, like a deep-sea journey",
+"emotion": "Mysterious, Sublime"
+},
+
+{
+"title": "Epic Viking Battle",
+"genre": "Epic, Nordic",
+"key": "Unspecified",
+"chordProgression": "Epic Nordic Battle",
+"instruments": "Horns, Drums, Viking Chants",
+"tempo": "Fast, heroic",
+"rhythm": "Heroic, like a Viking war",
+"emotion": "Epic, Valor"
+},
+
+{
+"title": "Jungle Adventure Quest",
+"genre": "Adventure, World",
+"key": "C major",
+"chordProgression": "C-G-Am-F",
+"instruments": "African Drums, Flutes, Jungle Sounds",
+"tempo": "Moderate, adventurous",
+"rhythm": "Exotic, like a jungle exploration",
+"emotion": "Adventurous, Wild"
+},
+
+{
+"title": "Romantic Parisian Cafe",
+"genre": "French, Romance",
+"key": "F major",
+"chordProgression": "F-Bb-C7-F",
+"instruments": "Accordion, Violin, Gypsy Guitar",
+"tempo": "Moderate, romantic",
+"rhythm": "Sensual, like a cafe in Paris",
+"emotion": "Romantic, Charming"
+},
+
+{
+"title": "Ethereal Space Travel",
+"genre": "Ambient, Space",
+"key": "Unspecified",
+"chordProgression": "Space Ambient Odyssey",
+"instruments": "Synthesizers, Celestial Sounds",
+"tempo": "Slow, otherworldly",
+"rhythm": "Spacey, like a journey through the cosmos",
+"emotion": "Ethereal, Cosmic"
+},
+
+{
+"title": "Salsa Fiesta",
+"genre": "Latin, Dance",
+"key": "A minor",
+"chordProgression": "Am-D7-G-C",
+"instruments": "Trumpet, Congas, Maracas",
+"tempo": "Fast, energetic",
+"rhythm": "Sizzling salsa groove",
+"emotion": "Vibrant, Fiery"
+},
+
+{
+"title": "Cinematic Spy Thriller",
+"genre": "Film Score, Thriller",
+"key": "Unspecified",
+"chordProgression": "Suspenseful Spy Theme",
+"instruments": "Strings, Brass, Percussion",
+"tempo": "Moderate, suspenseful",
+"rhythm": "Tense, like a spy mission",
+"emotion": "Suspenseful, Intriguing"
+},
+
+{
+"title": "Futuristic Cyberpunk City",
+"genre": "Electronic, Cyberpunk",
+"key": "Unspecified",
+"chordProgression": "Cyberpunk Synthscapes",
+"instruments": "Synthesizers, Futuristic FX",
+"tempo": "Fast, dystopian",
+"rhythm": "Cybernetic, like a neon-lit cityscape",
+"emotion": "Futuristic, Gritty"
+},
+
+{
+"title": "Magical Forest Encounter",
+"genre": "Fantasy, Adventure",
+"key": "D major",
+"chordProgression": "D-A-Bm-G",
+"instruments": "Flute, Harp, Forest Ambiance",
+"tempo": "Moderate, enchanting",
+"rhythm": "Enchanted, like a forest adventure",
+"emotion": "Magical, Whimsical"
+},
+
+{
+"title": "Rockabilly Rebel Ride",
+"genre": "Rockabilly, Upbeat",
+"key": "E major",
+"chordProgression": "E-A-B7-E",
+"instruments": "Rockabilly Band, Guitar Solos",
+"tempo": "Fast, rebellious",
+"rhythm": "Rockabilly groove",
+"emotion": "Energetic, Rebellious"
+},
+
+{
+"title": "Ancient Egyptian Mysteries",
+"genre": "World, Historical",
+"key": "Unspecified",
+"chordProgression": "Ancient Egyptian Vibes",
+"instruments": "Oud, Egyptian Flute, Percussion",
+"tempo": "Moderate, mysterious",
+"rhythm": "Ancient, like an Egyptian exploration",
+"emotion": "Mystical, Historical"
+},
+
+{
+"title": "Sci-Fi Battle in Outer Space",
+"genre": "Sci-Fi, Epic",
+"key": "Unspecified",
+"chordProgression": "Epic Space Battle",
+"instruments": "Synthesizers, Orchestral Hits",
+"tempo": "Fast, epic",
+"rhythm": "Intense, like a space battle",
+"emotion": "Epic, Galactic"
+},
+
+{
+"title": "Swinging 1920s Jazz Club",
+"genre": "Jazz, Roaring Twenties",
+"key": "C major",
+"chordProgression": "C-F-G-C",
+"instruments": "Trumpet, Clarinet, Piano",
+"tempo": "Fast, swinging",
+"rhythm": "Jazz Age swing",
+"emotion": "Joyful, Vintage"
+},
+
+{
+"title": "Mysterious Underworld Caverns",
+"genre": "Fantasy, Exploration",
+"key": "Unspecified",
+"chordProgression": "Mysterious Underground",
+"instruments": "Dulcimer, Echoing Drips",
+"tempo": "Slow, mysterious",
+"rhythm": "Cavernous, like an underground quest",
+"emotion": "Enigmatic, Subterranean"
+},
+
+{
+"title": "Funky Disco Fever",
+"genre": "Disco, Funk",
+"key": "A minor",
+"chordProgression": "Am7-Dm7-G7-C7",
+"instruments": "Disco Band, Funky Bassline",
+"tempo": "Fast, groovy",
+"rhythm": "Funky disco groove",
+"emotion": "Groovy, Danceable"
+},
+
+{
+"title": "Medieval Castle Siege",
+"genre": "Medieval, Action",
+"key": "Unspecified",
+"chordProgression": "Medieval Battle March",
+"instruments": "Medieval Instruments, War Drums",
+"tempo": "Fast, epic",
+"rhythm": "Medieval battle march",
+"emotion": "Epic, Battle"
+},
+
+{
+"title": "Surreal Dreamscape",
+"genre": "Experimental, Surreal",
+"key": "Unspecified",
+"chordProgression": "Surreal Soundscapes",
+"instruments": "Abstract Sound Design",
+"tempo": "Variable, dreamlike",
+"rhythm": "Surreal, like a dream world",
+"emotion": "Dreamy, Otherworldly"
+},
+
+{
+"title": "Haunted Carnival of Souls",
+"genre": "Horror, Carnival",
+"key": "Unspecified",
+"chordProgression": "Spooky Carnival",
+"instruments": "Calliope, Creepy Sounds",
+"tempo": "Slow, eerie",
+"rhythm": "Creepy carnival atmosphere",
+"emotion": "Haunted, Spine-Chilling"
+},
+{
+"title": "Mystical Arabian Bazaar",
+"genre": "World, Middle Eastern",
+"key": "Unspecified",
+"chord_progression": "Exotic Arabian Scales",
+"instruments": ["Oud, Darbuka, Ney"],
+"tempo": "Moderate",
+"rhythm": "Exotic",
+"emotion": "Enchanting, Adventurous"
+},
+
+{
+"title": "Pirate's Swashbuckling Adventure",
+"genre": "Pirate, Adventure",
+"key": "G Mixolydian",
+"chord_progression": "G-D7-Am-C",
+"instruments": ["Accordion, Violin, Ship Bells"],
+"tempo": "Fast",
+"rhythm": "Exciting",
+"emotion": "Thrilling, Nautical"
+},
+
+{
+"title": "Retro 8-Bit Arcade Quest",
+"genre": "Chiptune, Retro",
+"key": "Unspecified",
+"chord_progression": "Classic 8-Bit Patterns",
+"instruments": ["Square Waves, 8-Bit Drums"],
+"tempo": "Upbeat",
+"rhythm": "Pixelated",
+"emotion": "Playful, Retro"
+},
+
+{
+"title": "Haunted Victorian Mansion",
+"genre": "Horror, Gothic",
+"key": "C# minor",
+"chord_progression": "Eerie Organ and Choir",
+"instruments": ["Pipe Organ, Church Bells"],
+"tempo": "Slow",
+"rhythm": "Creepy",
+"emotion": "Spine-Chilling, Mysterious"
+},
+
+{
+"title": "Tropical Island Paradise",
+"genre": "Tropical, Relaxing",
+"key": "Unspecified",
+"chord_progression": "Calming Ukulele",
+"instruments": ["Ukulele, Steel Drums"],
+"tempo": "Slow to Moderate",
+"rhythm": "Relaxing",
+"emotion": "Serene, Sunny"
+},
+
+{
+"title": "Steampunk Mechanical Waltz",
+"genre": "Steampunk, Waltz",
+"key": "Eb major",
+"chord_progression": "Eb-Bb-Ab-Eb",
+"instruments": ["Clockwork Sounds, Brass"],
+"tempo": "3/4 waltz",
+"rhythm": "Steampunk",
+"emotion": "Quirky, Industrial"
+},
+
+{
+"title": "Underground Cyber Rebellion",
+"genre": "Cyberpunk, Rebellion",
+"key": "Unspecified",
+"chord_progression": "Industrial Synth Patterns",
+"instruments": ["Synthesizers, Electronic Drums"],
+"tempo": "Fast",
+"rhythm": "Rebellious",
+"emotion": "Aggressive, Futuristic"
+},
+
+{
+"title": "Enchanted Forest Creatures",
+"genre": "Fantasy, Whimsical",
+"key": "D major",
+"chord_progression": "D-G-A-D",
+"instruments": ["Flute, Celesta, Forest Sounds"],
+"tempo": "Moderate",
+"rhythm": "Whimsical",
+"emotion": "Playful, Enchanted"
+},
+
+{
+"title": "Sunny Italian Seaside",
+"genre": "Italian, Relaxing",
+"key": "Unspecified",
+"chord_progression": "Italian Guitar and Mandolin",
+"instruments": ["Guitar, Mandolin, Ocean Waves"],
+"tempo": "Slow to Moderate",
+"rhythm": "Relaxing",
+"emotion": "Romantic, Scenic"
+},
+
+{
+"title": "Epic Samurai Battle",
+"genre": "Japanese, Epic",
+"key": "Unspecified",
+"chord_progression": "Taiko Drums and Japanese Flute",
+"instruments": ["Taiko Drums, Shakuhachi, Koto"],
+"tempo": "Fast",
+"rhythm": "Epic",
+"emotion": "Heroic, Martial"
+}
+   ]

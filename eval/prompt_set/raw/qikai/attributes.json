@@ -1,0 +1,2067 @@
+[
+    {
+        "name": "Serenade Under the Moonlight",
+        "genre": "Classical",
+        "tempo": "Adagio",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Violin",
+            "Piano"
+        ],
+        "style": "Romantic",
+        "feeling": "Melancholic"
+    },
+    {
+        "name": "Summer Jazz Festival",
+        "genre": "Jazz",
+        "tempo": "Medium Swing",
+        "key": "C major",
+        "chord_progression": [
+            "Cmaj7",
+            "A7",
+            "Dm7",
+            "G7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Saxophone",
+            "Piano",
+            "Double Bass",
+            "Drums"
+        ],
+        "style": "Bebop",
+        "feeling": "Joyful"
+    },
+    {
+        "name": "Echoes of the Forgotten Forest",
+        "genre": "Ambient",
+        "tempo": "Lento",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 48,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synthesizer",
+            "Flute",
+            "Harp"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Mysterious"
+    },
+    {
+        "name": "Downtown Groove",
+        "genre": "Funk",
+        "tempo": "Fast",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m7",
+            "B7",
+            "E9",
+            "C#7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 5,
+        "instruments": [
+            "Electric Guitar",
+            "Bass Guitar",
+            "Drums",
+            "Trumpet",
+            "Saxophone"
+        ],
+        "style": "Groovy",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Whispers of the Ancient",
+        "genre": "World Music",
+        "tempo": "Moderato",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Bb",
+            "C"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 2,
+        "instruments": [
+            "Sitar",
+            "Tabla"
+        ],
+        "style": "Traditional",
+        "feeling": "Solemn"
+    },
+    {
+        "name": "Glacial Odyssey",
+        "genre": "New Age",
+        "tempo": "Andante",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 36,
+        "number_of_voices": 3,
+        "instruments": [
+            "Piano",
+            "Strings",
+            "Wind Chimes"
+        ],
+        "style": "Ethereal",
+        "feeling": "Peaceful"
+    },
+    {
+        "name": "Neon City Lights",
+        "genre": "Synthwave",
+        "tempo": "Moderate",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "C#m",
+            "A",
+            "B"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Synthesizer",
+            "Electric Drum Kit",
+            "Bass Synth"
+        ],
+        "style": "Retro",
+        "feeling": "Nostalgic"
+    },
+    {
+        "name": "Celtic Dawn",
+        "genre": "Celtic",
+        "tempo": "Allegro",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "Bm"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Fiddle",
+            "Tin Whistle",
+            "Bodhrán"
+        ],
+        "style": "Folk",
+        "feeling": "Uplifting"
+    },
+    {
+        "name": "Rooftop Rendezvous",
+        "genre": "Lo-fi Hip Hop",
+        "tempo": "Slow",
+        "key": "B minor",
+        "chord_progression": [
+            "Bm7",
+            "E9",
+            "Gmaj7",
+            "F#7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Sampled Beat",
+            "Rhodes Piano",
+            "Synth Bass"
+        ],
+        "style": "Chill",
+        "feeling": "Relaxed"
+    },
+    {
+        "name": "Desert Mirage",
+        "genre": "Middle Eastern",
+        "tempo": "Vivace",
+        "key": "F minor",
+        "chord_progression": [
+            "Fm",
+            "Ab",
+            "Db",
+            "C"
+        ],
+        "number_of_bars": 28,
+        "number_of_voices": 3,
+        "instruments": [
+            "Oud",
+            "Darbuka",
+            "Violin"
+        ],
+        "style": "Exotic",
+        "feeling": "Mysterious"
+    },
+    {
+        "name": "Midnight Blues Café",
+        "genre": "Blues",
+        "tempo": "Slow",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bb7",
+            "Eb7",
+            "Bb7",
+            "F7"
+        ],
+        "number_of_bars": 12,
+        "number_of_voices": 3,
+        "instruments": [
+            "Electric Guitar",
+            "Bass",
+            "Drums"
+        ],
+        "style": "Classic Blues",
+        "feeling": "Soulful"
+    },
+    {
+        "name": "Tropical Sunset Salsa",
+        "genre": "Latin",
+        "tempo": "Fast",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "D7",
+            "G",
+            "C"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Piano",
+            "Congas",
+            "Trumpet",
+            "Bass"
+        ],
+        "style": "Salsa",
+        "feeling": "Festive"
+    },
+    {
+        "name": "Renaissance Fair Minuet",
+        "genre": "Classical",
+        "tempo": "Moderato",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G7",
+            "Am",
+            "Em"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Harpsichord",
+            "Flute"
+        ],
+        "style": "Baroque",
+        "feeling": "Elegant"
+    },
+    {
+        "name": "Dreamy Indie Road Trip",
+        "genre": "Indie",
+        "tempo": "Medium",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Acoustic Guitar",
+            "Synth",
+            "Bass",
+            "Drums"
+        ],
+        "style": "Indie Pop",
+        "feeling": "Dreamy"
+    },
+    {
+        "name": "Highland Bagpipe Melody",
+        "genre": "Folk",
+        "tempo": "Lively",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "A",
+            "G",
+            "A"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Bagpipes"
+        ],
+        "style": "Scottish Folk",
+        "feeling": "Brave"
+    },
+    {
+        "name": "Arctic Electronica",
+        "genre": "Electronic",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Synthesizer",
+            "Electronic Drums",
+            "Bass Synth"
+        ],
+        "style": "Ambient Techno",
+        "feeling": "Cool"
+    },
+    {
+        "name": "Baroque Harpsichord Sonata",
+        "genre": "Classical",
+        "tempo": "Allegro",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "C",
+            "Dm",
+            "Bb"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 1,
+        "instruments": [
+            "Harpsichord"
+        ],
+        "style": "Baroque",
+        "feeling": "Refined"
+    },
+    {
+        "name": "Southern Gospel Choir",
+        "genre": "Gospel",
+        "tempo": "Slow",
+        "key": "A major",
+        "chord_progression": [
+            "A",
+            "E",
+            "F#m",
+            "D"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Piano",
+            "Organ",
+            "Choir"
+        ],
+        "style": "Traditional Gospel",
+        "feeling": "Inspirational"
+    },
+    {
+        "name": "Reggae Beach Vibes",
+        "genre": "Reggae",
+        "tempo": "Medium",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "C",
+            "D",
+            "Em"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Reggae Guitar",
+            "Bass",
+            "Drums"
+        ],
+        "style": "Roots Reggae",
+        "feeling": "Laid-back"
+    },
+    {
+        "name": "Urban Street Jazz",
+        "genre": "Jazz Fusion",
+        "tempo": "Fast",
+        "key": "Bb minor",
+        "chord_progression": [
+            "Bbm",
+            "Eb7",
+            "Abmaj7",
+            "Db7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 5,
+        "instruments": [
+            "Saxophone",
+            "Electric Piano",
+            "Bass Guitar",
+            "Drums",
+            "Trumpet"
+        ],
+        "style": "Fusion",
+        "feeling": "Vibrant"
+    },
+    {
+        "name": "Vintage Vinyl Swing",
+        "genre": "Swing",
+        "tempo": "Upbeat",
+        "key": "C major",
+        "chord_progression": [
+            "C6",
+            "A7",
+            "Dm7",
+            "G7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Big Band Brass",
+            "Upright Bass",
+            "Drums",
+            "Clarinet"
+        ],
+        "style": "Big Band",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Mystic Oriental Journey",
+        "genre": "World Music",
+        "tempo": "Moderate",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm",
+            "Dm",
+            "Am",
+            "Eb"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Erhu",
+            "Pipa",
+            "Dulcimer"
+        ],
+        "style": "Traditional Eastern",
+        "feeling": "Mystical"
+    },
+    {
+        "name": "Cyberpunk Cityscape",
+        "genre": "Electronic",
+        "tempo": "Fast",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Bb",
+            "F",
+            "C"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Synthesizers",
+            "Electronic Drums",
+            "Bass Synth"
+        ],
+        "style": "Cyberpunk",
+        "feeling": "Futuristic"
+    },
+    {
+        "name": "Acoustic Mountain Ballad",
+        "genre": "Folk",
+        "tempo": "Slow",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "B",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Acoustic Guitar",
+            "Harmonica"
+        ],
+        "style": "Americana",
+        "feeling": "Nostalgic"
+    },
+    {
+        "name": "Electro Funk Groove",
+        "genre": "Funk",
+        "tempo": "Medium",
+        "key": "F minor",
+        "chord_progression": [
+            "Fm7",
+            "Eb7",
+            "Abmaj7",
+            "Db7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Electric Guitar",
+            "Synth Bass",
+            "Drum Machine",
+            "Clavinet"
+        ],
+        "style": "Electronic Funk",
+        "feeling": "Groovy"
+    },
+    {
+        "name": "Epic Space Opera Symphony",
+        "genre": "Symphonic",
+        "tempo": "Grandioso",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm",
+            "G",
+            "Ab",
+            "Bb"
+        ],
+        "number_of_bars": 48,
+        "number_of_voices": 5,
+        "instruments": [
+            "Full Orchestra",
+            "Choir"
+        ],
+        "style": "Cinematic",
+        "feeling": "Epic"
+    },
+    {
+        "name": "Sunrise Flamenco",
+        "genre": "Flamenco",
+        "tempo": "Allegro",
+        "key": "A major",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Spanish Guitar",
+            "Cajon"
+        ],
+        "style": "Traditional Flamenco",
+        "feeling": "Passionate"
+    },
+    {
+        "name": "Deep Sea Ambient",
+        "genre": "Ambient",
+        "tempo": "Largo",
+        "key": "Bb minor",
+        "chord_progression": [
+            "Bbm",
+            "Db",
+            "Ab",
+            "Gb"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 1,
+        "instruments": [
+            "Synth Pads",
+            "Water Sounds"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Serene"
+    },
+    {
+        "name": "Retro Disco Revival",
+        "genre": "Disco",
+        "tempo": "Upbeat",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m",
+            "C#m",
+            "D",
+            "E"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Bass Guitar",
+            "Synth",
+            "Drums"
+        ],
+        "style": "Retro",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Viking Folk Tale",
+        "genre": "Nordic Folk",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nyckelharpa",
+            "Bodhrán"
+        ],
+        "style": "Ancient",
+        "feeling": "Mystical"
+    },
+    {
+        "name": "Breezy Caribbean Calypso",
+        "genre": "Calypso",
+        "tempo": "Moderato",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Steel Drums",
+            "Acoustic Guitar",
+            "Percussion"
+        ],
+        "style": "Tropical",
+        "feeling": "Joyful"
+    },
+    {
+        "name": "Autumnal Jazz Waltz",
+        "genre": "Jazz",
+        "tempo": "Waltz",
+        "key": "E minor",
+        "chord_progression": [
+            "Em7",
+            "Am7",
+            "B7",
+            "Em7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Piano",
+            "Saxophone",
+            "Upright Bass",
+            "Drums"
+        ],
+        "style": "Smooth Jazz",
+        "feeling": "Melancholic"
+    },
+    {
+        "name": "Ancient Asian Guzheng Melody",
+        "genre": "Traditional Asian",
+        "tempo": "Adagio",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm",
+            "Dm",
+            "Am",
+            "Gm"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Guzheng"
+        ],
+        "style": "Classical Eastern",
+        "feeling": "Peaceful"
+    },
+    {
+        "name": "Urban Hip-Hop Beat",
+        "genre": "Hip-Hop",
+        "tempo": "Moderate",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm7",
+            "Abmaj7",
+            "Eb7",
+            "G7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Beatbox",
+            "Synth Bass",
+            "Turntables"
+        ],
+        "style": "Urban",
+        "feeling": "Groovy"
+    },
+    {
+        "name": "Futuristic Synth Pop Odyssey",
+        "genre": "Synth Pop",
+        "tempo": "Fast",
+        "key": "A major",
+        "chord_progression": [
+            "A",
+            "E",
+            "F#m",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synthesizers",
+            "Electronic Drums",
+            "Vocoder"
+        ],
+        "style": "Futuristic",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Twilight Tango Passion",
+        "genre": "Tango",
+        "tempo": "Moderato",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "E7",
+            "G",
+            "Dm"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Bandoneon",
+            "Violin"
+        ],
+        "style": "Argentinian Tango",
+        "feeling": "Dramatic"
+    },
+    {
+        "name": "Soulful Gospel Choir Harmony",
+        "genre": "Gospel",
+        "tempo": "Slow",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "C",
+            "Em",
+            "D"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Choir",
+            "Organ",
+            "Drums"
+        ],
+        "style": "Traditional Gospel",
+        "feeling": "Uplifting"
+    },
+    {
+        "name": "Lunar Lullaby",
+        "genre": "Ambient",
+        "tempo": "Very Slow",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "G#m",
+            "A",
+            "B"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Soft Synth Pads",
+            "Celesta"
+        ],
+        "style": "Dreamy",
+        "feeling": "Soothing"
+    },
+    {
+        "name": "Fiery Flamenco Fusion",
+        "genre": "Flamenco Fusion",
+        "tempo": "Fast",
+        "key": "B minor",
+        "chord_progression": [
+            "Bm",
+            "A",
+            "G",
+            "F#"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 3,
+        "instruments": [
+            "Flamenco Guitar",
+            "Cajon",
+            "Bass Guitar"
+        ],
+        "style": "Modern Flamenco",
+        "feeling": "Intense"
+    },
+    {
+        "name": "Celtic Highlands Reel",
+        "genre": "Celtic",
+        "tempo": "Fast",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Fiddle",
+            "Tin Whistle",
+            "Bodhran"
+        ],
+        "style": "Irish Folk",
+        "feeling": "Joyous"
+    },
+    {
+        "name": "Underwater Synth Odyssey",
+        "genre": "Electronic",
+        "tempo": "Slow",
+        "key": "C# minor",
+        "chord_progression": [
+            "C#m",
+            "A",
+            "E",
+            "B"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Synth Pads",
+            "Electronic Percussion"
+        ],
+        "style": "Ambient",
+        "feeling": "Mysterious"
+    },
+    {
+        "name": "Bollywood Masala Mix",
+        "genre": "Bollywood",
+        "tempo": "Medium",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "C",
+            "D",
+            "Em"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Sitar",
+            "Tabla",
+            "Harmonium"
+        ],
+        "style": "Indian Pop",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Rustic Bluegrass Hoedown",
+        "genre": "Bluegrass",
+        "tempo": "Fast",
+        "key": "A major",
+        "chord_progression": [
+            "A",
+            "E",
+            "D",
+            "A"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Banjo",
+            "Fiddle",
+            "Mandolin",
+            "Upright Bass"
+        ],
+        "style": "Traditional",
+        "feeling": "Lively"
+    },
+    {
+        "name": "Afrobeat Sunset Groove",
+        "genre": "Afrobeat",
+        "tempo": "Moderate",
+        "key": "F minor",
+        "chord_progression": [
+            "Fm",
+            "Bbm",
+            "Eb",
+            "Ab"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Electric Guitar",
+            "Drums",
+            "Brass Section"
+        ],
+        "style": "Funky",
+        "feeling": "Vibrant"
+    },
+    {
+        "name": "Frosty Nordic Soundscape",
+        "genre": "Ambient",
+        "tempo": "Very Slow",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 1,
+        "instruments": [
+            "Synth Pads",
+            "Bowed Strings"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Ethereal"
+    },
+    {
+        "name": "Sunrise Reggae Fusion",
+        "genre": "Reggae Fusion",
+        "tempo": "Moderate",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "B",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Steel Drum",
+            "Electric Guitar",
+            "Bass"
+        ],
+        "style": "Contemporary Reggae",
+        "feeling": "Relaxed"
+    },
+    {
+        "name": "Ancient Roman Lyre Ballad",
+        "genre": "Ancient Music",
+        "tempo": "Lento",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Gm",
+            "A"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 1,
+        "instruments": [
+            "Lyre"
+        ],
+        "style": "Historical",
+        "feeling": "Melancholic"
+    },
+    {
+        "name": "Urban Electro Jazz",
+        "genre": "Electro Jazz",
+        "tempo": "Medium",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm7",
+            "C7",
+            "Fm7",
+            "Bb7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Saxophone",
+            "Synthesizer",
+            "Electric Bass",
+            "Drum Machine"
+        ],
+        "style": "Fusion",
+        "feeling": "Sophisticated"
+    },
+    {
+        "name": "Medieval Chant Odyssey",
+        "genre": "Medieval",
+        "tempo": "Adagio",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G",
+            "Am",
+            "F"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Choir",
+            "Organum"
+        ],
+        "style": "Gregorian Chant",
+        "feeling": "Spiritual"
+    },
+    {
+        "name": "Avant-Garde Jazz Exploration",
+        "genre": "Avant-Garde Jazz",
+        "tempo": "Free",
+        "key": "Atonal",
+        "chord_progression": "Free Form",
+        "number_of_bars": "Variable",
+        "number_of_voices": "Variable",
+        "instruments": [
+            "Saxophone",
+            "Piano",
+            "Bass",
+            "Percussion"
+        ],
+        "style": "Experimental",
+        "feeling": "Abstract"
+    },
+    {
+        "name": "Siberian Folk Dance",
+        "genre": "Folk",
+        "tempo": "Vivace",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m",
+            "D",
+            "E",
+            "C#m"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Balalaika",
+            "Accordion"
+        ],
+        "style": "Eastern European",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Digital Dreamwave",
+        "genre": "Synthwave",
+        "tempo": "Medium",
+        "key": "B major",
+        "chord_progression": [
+            "B",
+            "E",
+            "G#m",
+            "F#"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synthesizers",
+            "Drum Machine",
+            "Electric Guitar"
+        ],
+        "style": "Retrofuturistic",
+        "feeling": "Nostalgic"
+    },
+    {
+        "name": "Gypsy Jazz Jamboree",
+        "genre": "Jazz",
+        "tempo": "Allegro",
+        "key": "A minor",
+        "chord_progression": [
+            "Am6",
+            "D7",
+            "G6",
+            "E7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Gypsy Guitar",
+            "Violin",
+            "Double Bass",
+            "Accordion"
+        ],
+        "style": "Manouche Jazz",
+        "feeling": "Lively"
+    },
+    {
+        "name": "Soothing Rain Piano Meditation",
+        "genre": "New Age",
+        "tempo": "Largo",
+        "key": "D major",
+        "chord_progression": [
+            "Dmaj7",
+            "Gmaj7",
+            "A",
+            "F#m"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Piano",
+            "Synthetic Rain Sounds"
+        ],
+        "style": "Meditative",
+        "feeling": "Tranquil"
+    },
+    {
+        "name": "Afro-Cuban Rumba Rhythms",
+        "genre": "Latin",
+        "tempo": "Moderato",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm",
+            "Fm",
+            "G7",
+            "Cm"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Congas",
+            "Bongos",
+            "Trumpet"
+        ],
+        "style": "Afro-Cuban",
+        "feeling": "Vibrant"
+    },
+    {
+        "name": "Cosmic Ambient Odyssey",
+        "genre": "Ambient",
+        "tempo": "Slow",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "F",
+            "C",
+            "G"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 2,
+        "instruments": [
+            "Spacey Synth Pads",
+            "Electronic Effects"
+        ],
+        "style": "Space Ambient",
+        "feeling": "Ethereal"
+    },
+    {
+        "name": "Renaissance Court Dance",
+        "genre": "Classical",
+        "tempo": "Moderato",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "C",
+            "D",
+            "G"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Lute",
+            "Recorder",
+            "Harpsichord"
+        ],
+        "style": "Renaissance",
+        "feeling": "Formal"
+    },
+    {
+        "name": "Futuristic Trap Beat",
+        "genre": "Hip-Hop",
+        "tempo": "Fast",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "808 Bass",
+            "Snappy Snares",
+            "Hi-Hats"
+        ],
+        "style": "Trap",
+        "feeling": "Edgy"
+    },
+    {
+        "name": "Balkan Folk Festival",
+        "genre": "Folk",
+        "tempo": "Vivace",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "A",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Accordion",
+            "Violin",
+            "Tambura",
+            "Darbuka"
+        ],
+        "style": "Balkan Folk",
+        "feeling": "Joyful"
+    },
+    {
+        "name": "Cool Jazz Nightclub",
+        "genre": "Jazz",
+        "tempo": "Medium",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bbmaj7",
+            "Gm7",
+            "Cm7",
+            "F7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Saxophone",
+            "Piano",
+            "Double Bass"
+        ],
+        "style": "Cool Jazz",
+        "feeling": "Smooth"
+    },
+    {
+        "name": "Arabian Nights Fantasy",
+        "genre": "World Music",
+        "tempo": "Moderate",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m",
+            "C#m",
+            "Bm",
+            "E"
+        ],
+        "number_of_bars": 28,
+        "number_of_voices": 2,
+        "instruments": [
+            "Oud",
+            "Tabla",
+            "Kanun"
+        ],
+        "style": "Middle Eastern",
+        "feeling": "Exotic"
+    },
+    {
+        "name": "Electro Swing Party",
+        "genre": "Electro Swing",
+        "tempo": "Fast",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm",
+            "D7",
+            "Am7",
+            "E7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Brass Section",
+            "Electro Beats",
+            "Upright Bass"
+        ],
+        "style": "Modern Swing",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Soulful R&B Serenade",
+        "genre": "R&B",
+        "tempo": "Slow",
+        "key": "C major",
+        "chord_progression": [
+            "Cmaj7",
+            "Am7",
+            "Em7",
+            "Fmaj7"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 2,
+        "instruments": [
+            "Electric Piano",
+            "Smooth Bass",
+            "Snare Drum"
+        ],
+        "style": "Contemporary R&B",
+        "feeling": "Romantic"
+    },
+    {
+        "name": "Andean Mountain Echoes",
+        "genre": "Folk",
+        "tempo": "Moderato",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Pan Flute",
+            "Charango",
+            "Cajón"
+        ],
+        "style": "Andean Folk",
+        "feeling": "Melancholic"
+    },
+    {
+        "name": "Psychedelic Rock Journey",
+        "genre": "Rock",
+        "tempo": "Medium",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "C#m",
+            "B"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Electric Guitar",
+            "Bass Guitar",
+            "Drums",
+            "Organ"
+        ],
+        "style": "Psychedelic",
+        "feeling": "Trippy"
+    },
+    {
+        "name": "Highland Bagpipe March",
+        "genre": "Celtic",
+        "tempo": "March",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Bagpipes",
+            "Snare Drum"
+        ],
+        "style": "Scottish March",
+        "feeling": "Proud"
+    },
+    {
+        "name": "Delta Blues Revival",
+        "genre": "Blues",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "A7",
+            "B7",
+            "Em"
+        ],
+        "number_of_bars": 12,
+        "number_of_voices": 1,
+        "instruments": [
+            "Slide Guitar",
+            "Harmonica"
+        ],
+        "style": "Delta Blues",
+        "feeling": "Soulful"
+    },
+    {
+        "name": "Vintage French Chanson",
+        "genre": "World Music",
+        "tempo": "Slow",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "Am",
+            "Dm",
+            "G"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Accordion",
+            "Violin",
+            "Upright Bass"
+        ],
+        "style": "Chanson",
+        "feeling": "Nostalgic"
+    },
+    {
+        "name": "K-Pop Dance Craze",
+        "genre": "Pop",
+        "tempo": "Fast",
+        "key": "G# minor",
+        "chord_progression": [
+            "G#m",
+            "E",
+            "B",
+            "F#"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 5,
+        "instruments": [
+            "Synth",
+            "Bass",
+            "Drums",
+            "Vocals"
+        ],
+        "style": "K-Pop",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Appalachian Dulcimer Dreams",
+        "genre": "Folk",
+        "tempo": "Adagio",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Dulcimer"
+        ],
+        "style": "Appalachian",
+        "feeling": "Serene"
+    },
+    {
+        "name": "Bossa Nova Beach Vibes",
+        "genre": "Latin Jazz",
+        "tempo": "Slow",
+        "key": "A major",
+        "chord_progression": [
+            "Amaj7",
+            "Dmaj7",
+            "Gmaj7",
+            "C#m7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nylon Guitar",
+            "Percussion"
+        ],
+        "style": "Bossa Nova",
+        "feeling": "Relaxing"
+    },
+    {
+        "name": "Steampunk Industrial Symphony",
+        "genre": "Experimental",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 4,
+        "instruments": [
+            "Synths",
+            "Steam-Powered Percussion",
+            "Electric Guitar"
+        ],
+        "style": "Steampunk",
+        "feeling": "Inventive"
+    },
+    {
+        "name": "Turkish Classical Ode",
+        "genre": "World Music",
+        "tempo": "Moderato",
+        "key": "C# minor",
+        "chord_progression": [
+            "C#m",
+            "G#m",
+            "A",
+            "E"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Oud",
+            "Kanun",
+            "Violin"
+        ],
+        "style": "Ottoman Classical",
+        "feeling": "Majestic"
+    },
+    {
+        "name": "Retro Video Game Adventure",
+        "genre": "Chiptune",
+        "tempo": "Fast",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "G",
+            "Am",
+            "Bb"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "8-bit Synth",
+            "Electronic Drums"
+        ],
+        "style": "Video Game Music",
+        "feeling": "Playful"
+    },
+    {
+        "name": "Smooth Acid Jazz Evening",
+        "genre": "Jazz",
+        "tempo": "Moderate",
+        "key": "Eb minor",
+        "chord_progression": [
+            "Ebm7",
+            "Abm7",
+            "Db7",
+            "Gb7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Fender Rhodes",
+            "Saxophone",
+            "Electric Bass",
+            "Drum Kit"
+        ],
+        "style": "Acid Jazz",
+        "feeling": "Groovy"
+    },
+    {
+        "name": "Cajun Bayou Celebration",
+        "genre": "Cajun",
+        "tempo": "Lively",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "Bb",
+            "C",
+            "F"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Accordion",
+            "Fiddle",
+            "Washboard"
+        ],
+        "style": "Louisiana Cajun",
+        "feeling": "Joyous"
+    },
+    {
+        "name": "Arctic Ethereal Soundscape",
+        "genre": "Ambient",
+        "tempo": "Very Slow",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Gm",
+            "A"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 1,
+        "instruments": [
+            "Glass Harmonica",
+            "Synth Pads"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Mystical"
+    },
+    {
+        "name": "Baroque Chamber Recital",
+        "genre": "Classical",
+        "tempo": "Adagio",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Harpsichord",
+            "Violin"
+        ],
+        "style": "Baroque",
+        "feeling": "Elegant"
+    },
+    {
+        "name": "Tropical Soca Rhythm",
+        "genre": "Soca",
+        "tempo": "Fast",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G",
+            "Am",
+            "F"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Steel Pans",
+            "Bass Drum",
+            "Horns"
+        ],
+        "style": "Caribbean",
+        "feeling": "Festive"
+    },
+    {
+        "name": "Indie Folk Wanderlust",
+        "genre": "Indie Folk",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Acoustic Guitar",
+            "Mandolin",
+            "Cello"
+        ],
+        "style": "Indie",
+        "feeling": "Reflective"
+    },
+    {
+        "name": "Urban Smooth Jazz Nights",
+        "genre": "Smooth Jazz",
+        "tempo": "Slow",
+        "key": "A minor",
+        "chord_progression": [
+            "Am7",
+            "Dm7",
+            "G7",
+            "Cmaj7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Saxophone",
+            "Electric Piano",
+            "Upright Bass"
+        ],
+        "style": "Smooth Jazz",
+        "feeling": "Relaxing"
+    },
+    {
+        "name": "Mediterranean Acoustic Serenade",
+        "genre": "Folk",
+        "tempo": "Moderato",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "A",
+            "Bm",
+            "G"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Classical Guitar",
+            "Mandolin"
+        ],
+        "style": "Mediterranean Folk",
+        "feeling": "Warm"
+    },
+    {
+        "name": "Vintage Rockabilly Bash",
+        "genre": "Rockabilly",
+        "tempo": "Upbeat",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "B7",
+            "E"
+        ],
+        "number_of_bars": 12,
+        "number_of_voices": 3,
+        "instruments": [
+            "Electric Guitar",
+            "Double Bass",
+            "Drums"
+        ],
+        "style": "1950s Rock",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Bollywood Fusion Fantasy",
+        "genre": "Fusion",
+        "tempo": "Medium",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m",
+            "D",
+            "A",
+            "E"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Sitar",
+            "Tabla",
+            "Strings",
+            "Percussion"
+        ],
+        "style": "Bollywood Fusion",
+        "feeling": "Vibrant"
+    },
+    {
+        "name": "Contemporary Classical Piano",
+        "genre": "Classical",
+        "tempo": "Andante",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm",
+            "Ab",
+            "Eb",
+            "Bb"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 1,
+        "instruments": [
+            "Grand Piano"
+        ],
+        "style": "Modern Classical",
+        "feeling": "Emotive"
+    },
+    {
+        "name": "Progressive Trance Pulse",
+        "genre": "Trance",
+        "tempo": "Fast",
+        "key": "B minor",
+        "chord_progression": [
+            "Bm",
+            "G",
+            "D",
+            "A"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synth Leads",
+            "Electronic Drums",
+            "Bass"
+        ],
+        "style": "Progressive Trance",
+        "feeling": "Euphoric"
+    },
+    {
+        "name": "Bohemian Folk Revival",
+        "genre": "Folk",
+        "tempo": "Moderato",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "B",
+            "C#m",
+            "A"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Acoustic Guitar",
+            "Violin"
+        ],
+        "style": "Bohemian Folk",
+        "feeling": "Nostalgic"
+    },
+    {
+        "name": "African Highlife Adventure",
+        "genre": "Highlife",
+        "tempo": "Upbeat",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G",
+            "Am",
+            "F"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Guitar",
+            "Trumpets",
+            "Percussion"
+        ],
+        "style": "African Highlife",
+        "feeling": "Joyous"
+    },
+    {
+        "name": "Nordic Noir Soundtrack",
+        "genre": "Soundtrack",
+        "tempo": "Slow",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Gm",
+            "A"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Strings",
+            "Piano",
+            "Synth Pads"
+        ],
+        "style": "Cinematic",
+        "feeling": "Mysterious"
+    },
+    {
+        "name": "Latin Pop Fiesta",
+        "genre": "Latin Pop",
+        "tempo": "Medium",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Acoustic Guitar",
+            "Percussion",
+            "Horns"
+        ],
+        "style": "Latin Pop",
+        "feeling": "Vivacious"
+    },
+    {
+        "name": "Japanese Koto Reflections",
+        "genre": "Traditional Japanese",
+        "tempo": "Slow",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 1,
+        "instruments": [
+            "Koto"
+        ],
+        "style": "Traditional Japanese",
+        "feeling": "Peaceful"
+    },
+    {
+        "name": "Cuban Son Montuno",
+        "genre": "Son",
+        "tempo": "Medium",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "C",
+            "G7",
+            "Am"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Tres",
+            "Bongos",
+            "Trumpet"
+        ],
+        "style": "Cuban Son",
+        "feeling": "Lively"
+    },
+    {
+        "name": "Traditional Irish Reel",
+        "genre": "Irish Folk",
+        "tempo": "Fast",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Fiddle",
+            "Bodhrán"
+        ],
+        "style": "Traditional Irish",
+        "feeling": "Energetic"
+    },
+    {
+        "name": "Hawaiian Slack-Key Serenity",
+        "genre": "Hawaiian",
+        "tempo": "Slow",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Slack-Key Guitar"
+        ],
+        "style": "Hawaiian Slack-Key",
+        "feeling": "Relaxed"
+    },
+    {
+        "name": "Classic New Orleans Jazz",
+        "genre": "Jazz",
+        "tempo": "Medium",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bb",
+            "Eb7",
+            "F7",
+            "Bb"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Clarinet",
+            "Trumpet",
+            "Trombone",
+            "Banjo"
+        ],
+        "style": "New Orleans Jazz",
+        "feeling": "Vibrant"
+    },
+    {
+        "name": "Indian Classical Raga",
+        "genre": "Indian Classical",
+        "tempo": "Variable",
+        "key": "Raga-based",
+        "chord_progression": "Raga-specific",
+        "number_of_bars": "Variable",
+        "number_of_voices": 2,
+        "instruments": [
+            "Sitar",
+            "Tabla"
+        ],
+        "style": "Indian Classical",
+        "feeling": "Spiritual"
+    },
+    {
+        "name": "Swedish Folk Dance",
+        "genre": "Folk",
+        "tempo": "Moderate",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G",
+            "Am",
+            "F"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nyckelharpa",
+            "Accordion"
+        ],
+        "style": "Swedish Folk",
+        "feeling": "Joyful"
+    },
+    {
+        "name": "Gothic Symphonic Metal",
+        "genre": "Metal",
+        "tempo": "Fast",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Electric Guitar",
+            "Symphonic Orchestra",
+            "Drums"
+        ],
+        "style": "Symphonic Metal",
+        "feeling": "Dramatic"
+    },
+    {
+        "name": "Mongolian Throat Singing Odyssey",
+        "genre": "World Music",
+        "tempo": "Slow",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm",
+            "Dm",
+            "Cm",
+            "Gm"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 1,
+        "instruments": [
+            "Morin Khuur",
+            "Throat Singing"
+        ],
+        "style": "Mongolian Traditional",
+        "feeling": "Mystical"
+    },
+    {
+        "name": "Brazilian Bossa Nova Breeze",
+        "genre": "Bossa Nova",
+        "tempo": "Moderate",
+        "key": "A major",
+        "chord_progression": [
+            "Amaj7",
+            "Dmaj7",
+            "Gmaj7",
+            "C#m7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nylon-String Guitar",
+            "Percussion"
+        ],
+        "style": "Bossa Nova",
+        "feeling": "Soothing"
+    }
+]

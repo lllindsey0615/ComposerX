@@ -1,0 +1,2819 @@
+[
+    {
+        "prompt": "Vintage French Chanson: Create a nostalgic chanson piece in C major with a slow tempo. The chord progression will be C, Am, Dm, G, played over 16 bars. Utilize accordion, violin, and upright bass. The accordion should lead with its melodious and expressive sound, the violin should add a romantic and wistful quality, and the upright bass should provide a warm, supporting foundation. This composition should evoke the charm and sentimentality of a vintage French chanson.",
+        "name": "Vintage French Chanson",
+        "genre": "World Music",
+        "tempo": "Slow",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "Am",
+            "Dm",
+            "G"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Accordion",
+            "Violin",
+            "Upright Bass"
+        ],
+        "style": "Chanson",
+        "feeling": "Nostalgic"
+    },
+    {
+        "prompt": "Frostbitten Waltz: Create a classical waltz in the key of B minor, portraying a winter landscape. Use a traditional 3/4 rhythm with a progression of Bm-F#m-G-Em. Introduce a delicate piano melody that mimics the dance of snowflakes, complemented by soft, shimmering strings. The piece should have a crisp, cold feel yet maintain a certain elegance and grace.",
+        "title": "Frostbitten Waltz",
+        "genre": "Classical Waltz",
+        "key": "B minor",
+        "chord_progression": "Bm-F#m-G-Em",
+        "instruments": [
+            "Piano",
+            "Strings"
+        ],
+        "tempo": "Traditional 3/4 waltz",
+        "emotion": "Crisp, Elegant, Graceful"
+    },
+    {
+        "prompt": "Neon Streets Symphony: Develop a high-energy symphonic piece that reflects the vibrant life of a bustling city at night. Incorporate a mix of classical and electronic elements, with a chord progression of Cm-Ab-Bb-G. Use a fast tempo and a driving rhythm, featuring a blend of strings, brass, and synthesizers. The melody should capture the exhilaration of neon lights and urban adventures.",
+        "title": "Neon Streets Symphony",
+        "genre": "Symphonic with Electronic Elements",
+        "key": "C minor",
+        "chord_progression": "Cm-Ab-Bb-G",
+        "instruments": [
+            "Strings",
+            "Brass",
+            "Synthesizers"
+        ],
+        "tempo": "Fast",
+        "rhythm": "Driving",
+        "emotion": "Exhilarating"
+    },
+    {
+        "prompt": "Desert Mirage Dance: Develop a piece that captures the mysterious beauty of a desert at dusk. Use a Middle Eastern scale and a progression like Em-Am-Dm-G. Incorporate instruments like the oud and darbuka for authenticity, set to a medium tempo. The melody should be exotic and alluring, like a dance under the stars.",
+        "title": "Desert Mirage Dance",
+        "genre": "Middle Eastern",
+        "key": "E minor",
+        "chord_progression": "Em-Am-Dm-G",
+        "instruments": [
+            "Oud",
+            "Darbuka"
+        ],
+        "tempo": "Medium",
+        "emotion": "Exotic, Alluring"
+    },
+    {
+        "prompt": "Ballad of the Forgotten: Write a melancholic, soulful ballad in the key of F# minor. Use a chord progression like F#m-D-A-E and feature a solo cello or violin for the main melody. The tempo should be slow, with a rhythm that echoes the feeling of longing and remembrance. The piece should convey a sense of beauty in sadness, like an old, untold story.",
+        "title": "Ballad of the Forgotten",
+        "genre": "Ballad",
+        "key": "F# minor",
+        "chord_progression": "F#m-D-A-E",
+        "instruments": [
+            "Cello or Violin"
+        ],
+        "tempo": "Slow",
+        "emotion": "Melancholic, Soulful"
+    },
+    {
+        "prompt": "Appalachian Sunrise: Write a piece that brings to life the Appalachian mountains at dawn, using a banjo for a bright, twangy motif, supported by a fiddle and a dulcimer. Use a progression like G-C-Em-D, set to a gentle, rolling tempo that mirrors the tranquil beauty of a mountain morning.",
+        "title": "Appalachian Sunrise",
+        "genre": "Folk",
+        "key": "Unspecified",
+        "chord_progression": "G-C-Em-D",
+        "instruments": "Banjo, Fiddle, Dulcimer",
+        "tempo": "Gentle, Rolling",
+        "rhythm": "Tranquil",
+        "emotion": "Peaceful, Reflective"
+    },
+    {
+        "prompt": "Samba de Rio: Develop a lively Brazilian samba featuring the pandeiro and cuica for an authentic rhythm. Use a festive motif with a progression like Dm-A7-Gm-A7. Add in brass for melodic highlights, and set the tempo fast to capture the vibrant energy of Rio's streets.",
+        "title": "Samba de Rio",
+        "genre": "Samba, Brazilian",
+        "key": "Unspecified",
+        "chord_progression": "Dm-A7-Gm-A7",
+        "instruments": "Pandeiro, Cuica, Brass",
+        "tempo": "Fast",
+        "rhythm": "Festive",
+        "emotion": "Vibrant, Energetic"
+    },
+    {
+        "prompt": "Saharan Sands: Create a composition that evokes the vastness of the Sahara Desert, using a motif of repetitive, hypnotic rhythms and a progression like Am-G-F-E. Incorporate instruments like the oud and hand drums, set to a moderate tempo, to create a sense of endless, undulating dunes.",
+        "title": "Saharan Sands",
+        "genre": "Middle Eastern, Ambient",
+        "key": "Unspecified",
+        "chord_progression": "Am-G-F-E",
+        "instruments": "Oud, Hand drums",
+        "tempo": "Moderate",
+        "rhythm": "Repetitive, Hypnotic",
+        "emotion": "Mysterious, Vast"
+    },
+    {
+        "prompt": "Japanese Koto Elegance: Develop a piece centered around the koto, a traditional Japanese stringed instrument, creating a delicate and refined motif. Accompany this with a shakuhachi flute, using a progression like Dm-Gm-C-Am. The tempo should be slow and contemplative, embodying the elegance of Japanese culture.",
+        "title": "Japanese Koto Elegance",
+        "genre": "Traditional Japanese",
+        "key": "Unspecified",
+        "chord_progression": "Dm-Gm-C-Am",
+        "instruments": "Koto, Shakuhachi flute",
+        "tempo": "Slow",
+        "rhythm": "Contemplative",
+        "emotion": "Elegant, Refined"
+    },
+    {
+        "prompt": "African Djembe Rhythms: Write a piece that focuses on the energetic rhythms of the African djembe drum. Accompany this with other African instruments like the balafon and kora, using a motif that's rhythmic and vibrant, with a progression like G-C-D-G. Set the tempo to be lively, reflecting the spirit and energy of African music traditions.",
+        "title": "African Djembe Rhythms",
+        "genre": "African, Traditional",
+        "key": "Unspecified",
+        "chord_progression": "G-C-D-G",
+        "instruments": "Djembe, Balafon, Kora",
+        "tempo": "Lively",
+        "rhythm": "Rhythmic, Vibrant",
+        "emotion": "Energetic, Spirited"
+    },
+    {
+        "prompt": "River Journey: Develop a composition that follows the flow of a river, using a motif of fluid, meandering melodies and a progression like C-G-Am-Em. Incorporate sounds that mimic the gurgling water and wildlife along the riverbank, set to a tempo that's both tranquil and lively.",
+        "title": "River Journey",
+        "genre": "Nature-Inspired",
+        "key": "C major",
+        "chordProgression": "C-G-Am-Em",
+        "instruments": [
+            "Sounds mimicking water and wildlife"
+        ],
+        "tempo": "Tranquil yet lively",
+        "rhythm": "Fluid, meandering",
+        "emotion": "Peaceful, Dynamic"
+    },
+    {
+        "prompt": "Afrobeat Awakening: Craft an Afrobeat composition with a vibrant chord progression like F7-Bb7-Eb7-Ab7. Integrate traditional African rhythms at a lively tempo. Utilize instruments like the djembe and shekere to enhance the authenticity, and incorporate a brass section for a powerful, energetic melody.",
+        "title": "Afrobeat Awakening",
+        "genre": "Afrobeat",
+        "key": "Unspecified",
+        "chordProgression": "F7-Bb7-Eb7-Ab7",
+        "instruments": [
+            "Djembe",
+            "Shekere",
+            "Brass"
+        ],
+        "tempo": "Lively",
+        "rhythm": "Traditional African",
+        "emotion": "Energetic, Authentic"
+    },
+    {
+        "prompt": "Southeast Asian Serenity: Compose a piece inspired by the traditional music of Southeast Asia, using a pentatonic scale and a progression like C-Dm-G-Am. Incorporate instruments like the gamelan and pipa, set to a gentle tempo, to create a melody that's both peaceful and intricate.",
+        "title": "Southeast Asian Serenity",
+        "genre": "Southeast Asian",
+        "key": "C major",
+        "chordProgression": "C-Dm-G-Am",
+        "instruments": [
+            "Gamelan",
+            "Pipa"
+        ],
+        "tempo": "Gentle",
+        "rhythm": "Peaceful",
+        "emotion": "Tranquil, Intricate"
+    },
+    {
+        "prompt": "Caribbean Carnival Rhythm: Create a lively Caribbean piece with a progression like C-F-G-Am, reflecting the vibrant energy of a carnival. Use steel pans and calypso rhythms at a fast tempo, and weave in a melody that's joyful and dance-inducing.",
+        "title": "Caribbean Carnival Rhythm",
+        "genre": "Caribbean",
+        "key": "C major",
+        "chordProgression": "C-F-G-Am",
+        "instruments": [
+            "Steel pans",
+            "Calypso rhythms"
+        ],
+        "tempo": "Fast",
+        "rhythm": "Joyful",
+        "emotion": "Vibrant, Energetic"
+    },
+    {
+        "prompt": "Cosmic Odyssey: Create an ambient, space-themed track using a progression like Fmaj7-Gm7-Am7-Bb. The tempo should be slow, evoking the vastness of space. Use synthesizers to create a soundscape that feels both expansive and intimate, like a journey through the stars.",
+        "title": "Cosmic Odyssey",
+        "genre": "Ambient, Space-themed",
+        "key": "Unspecified",
+        "chordProgression": "Fmaj7-Gm7-Am7-Bb",
+        "instruments": "Synthesizers",
+        "tempo": "Slow",
+        "emotion": "Expansive, Intimate"
+    },
+    {
+        "prompt": "Celestial Voyage: Compose a symphonic piece in the key of D major, embodying the vastness of space. Utilize a slow tempo with a 4/4 rhythm, focusing on long, sustained notes from string instruments. The melody should evoke a sense of wonder and the unknown, with a clear motif of ascending scales to represent a journey among the stars.",
+        "title": "Celestial Voyage",
+        "genre": "Symphonic",
+        "key": "D major",
+        "chordProgression": "Unspecified",
+        "instruments": "String instruments",
+        "tempo": "Slow",
+        "rhythm": "4/4",
+        "emotion": "Wonder, Unknown"
+    },
+    {
+        "prompt": "Romantic Parisian Cafe: Create a romantic French piece in F major, following the chord progression F-Bb-C7-F. Use instruments like the accordion, violin, and gypsy guitar to set a moderate and romantic tempo. The rhythm should be sensual, much like the ambiance of a cafe in Paris, capturing the romantic and charming essence of the city of love.",
+        "title": "Romantic Parisian Cafe",
+        "genre": "French, Romance",
+        "key": "F major",
+        "chordProgression": "F-Bb-C7-F",
+        "instruments": "Accordion, Violin, Gypsy Guitar",
+        "tempo": "Moderate, romantic",
+        "rhythm": "Sensual, like a cafe in Paris",
+        "emotion": "Romantic, Charming"
+    },
+    {
+        "prompt": "Salsa Fiesta: Craft a vibrant Latin dance piece in A minor, following the chord progression Am-D7-G-C. Trumpet, congas, and maracas should be the featured instruments, driving a fast and energetic tempo. The rhythm should sizzle with a groovy salsa groove, evoking feelings of vibrancy and fiery passion.",
+        "title": "Salsa Fiesta",
+        "genre": "Latin, Dance",
+        "key": "A minor",
+        "chordProgression": "Am-D7-G-C",
+        "instruments": "Trumpet, Congas, Maracas",
+        "tempo": "Fast, energetic",
+        "rhythm": "Sizzling salsa groove",
+        "emotion": "Vibrant, Fiery"
+    },
+    {
+        "prompt": "Futuristic Cyberpunk City: Create a gritty cyberpunk piece in an unspecified key using futuristic synthscapes. Synthesizers and futuristic FX should dominate, setting a fast and dystopian tempo. The rhythm should be cybernetic, resembling a neon-lit cityscape in a dystopian future, evoking a sense of futuristic grittiness.",
+        "title": "Futuristic Cyberpunk City",
+        "genre": "Electronic, Cyberpunk",
+        "key": "Unspecified",
+        "chordProgression": "Cyberpunk Synthscapes",
+        "instruments": "Synthesizers, Futuristic FX",
+        "tempo": "Fast, dystopian",
+        "rhythm": "Cybernetic, like a neon-lit cityscape",
+        "emotion": "Futuristic, Gritty"
+    },
+    {
+        "prompt": "Arabian Nights Fantasy: Dive into an exotic and enchanting Middle Eastern fantasy with a composition in F# minor. The chord progression should be F#m-D-E-C#, and the instruments should include the oud, percussion, and flute. Set a mystical tempo and infuse a hypnotic rhythm that transports the listener to the world of Arabian Nights. The emotion should be exotic and enchanting.",
+        "title": "Arabian Nights Fantasy",
+        "genre": "Middle Eastern",
+        "key": "F# minor",
+        "chord_progression": "F#m-D-E-C#",
+        "instruments": [
+            "Oud",
+            "Percussion",
+            "Flute"
+        ],
+        "tempo": "Mystical",
+        "rhythm": "Hypnotic",
+        "emotion": "Exotic, Enchanting"
+    },
+    {
+        "prompt": "Echoes of the Lost Empire: Write a historical-themed piece in D major, evoking the grandeur and mystery of an ancient, lost civilization. Use a progression like D-A-Bm-G and incorporate traditional instruments like the lyre or harp. The tempo should be moderate, with a melody that alternates between a sense of awe and melancholy, reflecting the empire's rise and fall.",
+        "title": "Echoes of the Lost Empire",
+        "genre": "Historical",
+        "key": "D major",
+        "chord_progression": "D-A-Bm-G",
+        "instruments": [
+            "Lyre or Harp"
+        ],
+        "tempo": "Moderate",
+        "emotion": "Awe, Melancholy"
+    },
+    {
+        "prompt": "Ocean Odyssey: Compose a nautical-themed piece in the key of E major, capturing the vastness and majesty of the ocean. Use a chord progression like E-C#m-A-B and feature instruments like the accordion and violin to evoke a seafaring spirit. The tempo should be lively, with a rhythm that mimics the rolling waves and the adventurous spirit of sailors.",
+        "title": "Ocean Odyssey",
+        "genre": "Nautical-themed",
+        "key": "E major",
+        "chord_progression": "E-C#m-A-B",
+        "instruments": [
+            "Accordion",
+            "Violin"
+        ],
+        "tempo": "Lively",
+        "rhythm": "Mimicking rolling waves",
+        "emotion": "Majestic, Adventurous"
+    },
+    {
+        "prompt": "Sunrise Serenade: Create a gentle, uplifting piece in G major that mimics the peacefulness of a sunrise. Use a chord progression like G-Em-C-D, and feature a soft flute melody accompanied by acoustic guitar. The tempo should be slow to moderate, with a rhythm that feels like the gradual light of dawn spreading across the land.",
+        "title": "Sunrise Serenade",
+        "genre": "Uplifting",
+        "key": "G major",
+        "chord_progression": "G-Em-C-D",
+        "instruments": [
+            "Flute",
+            "Acoustic Guitar"
+        ],
+        "tempo": "Slow to Moderate",
+        "emotion": "Peaceful, Gradual"
+    },
+    {
+        "prompt": "Rhythms of the Rainforest: Write a piece inspired by the lively ecosystem of a rainforest. Use a variety of percussion instruments to create complex, interlocking rhythms. The key should be C minor, with a progression like Cm-Gm-Ab-Bb. Incorporate sounds that mimic wildlife, crafting a melody that is both vibrant and organic.",
+        "title": "Rhythms of the Rainforest",
+        "genre": "Nature-inspired",
+        "key": "C minor",
+        "chord_progression": "Cm-Gm-Ab-Bb",
+        "instruments": [
+            "Various Percussion"
+        ],
+        "tempo": "Varied",
+        "emotion": "Vibrant, Organic"
+    },
+    {
+        "prompt": "Journey Through the Highlands: Compose a piece that reflects the rugged beauty of the Scottish Highlands. Use a bagpipe lead with a chord progression of A-D-E-A. The tempo should be brisk, with a rhythm that feels like a spirited walk through rolling hills and green valleys. Incorporate the sounds of nature to enhance the outdoor ambiance.",
+        "title": "Journey Through the Highlands",
+        "genre": "Scottish",
+        "key": "Varied",
+        "chord_progression": "A-D-E-A",
+        "instruments": [
+            "Bagpipes"
+        ],
+        "tempo": "Brisk",
+        "rhythm": "Spirited",
+        "emotion": "Rugged, Natural"
+    },
+    {
+        "prompt": "Regal Fanfare: Compose a majestic piece reminiscent of a royal procession, featuring a brass ensemble with trumpets leading the melody. Use a triumphant motif with a progression like D-G-Bm-A. The timpani and snare drums should add a sense of grandeur, set to a bold, marching tempo.",
+        "title": "Regal Fanfare",
+        "genre": "Classical, Ceremonial",
+        "key": "Unspecified",
+        "chord_progression": "D-G-Bm-A",
+        "instruments": "Brass ensemble, Trumpets, Timpani, Snare drums",
+        "tempo": "Marching",
+        "rhythm": "Bold, Grand",
+        "emotion": "Majestic, Triumphant"
+    },
+    {
+        "prompt": "Island Breeze Calypso: Create a Caribbean-inspired calypso tune using steel drums as the primary instrument, complemented by marimba and conga drums. The motif should be upbeat and rhythmic, with a progression like F-C-Dm-Bb. Set this to a lively tempo, capturing the carefree spirit of island life.",
+        "title": "Island Breeze Calypso",
+        "genre": "Calypso, Caribbean",
+        "key": "Unspecified",
+        "chord_progression": "F-C-Dm-Bb",
+        "instruments": "Steel drums, Marimba, Conga drums",
+        "tempo": "Lively",
+        "rhythm": "Upbeat, Rhythmic",
+        "emotion": "Carefree, Joyful"
+    },
+    {
+        "prompt": "Venetian Gondola Serenade: Compose a romantic piece using a classical guitar and a mandolin, evoking the charm of a Venetian canal. The motif should be sweet and flowing, with a progression like Am-E7-F-C. Set this to a moderate tempo, perfect for a leisurely gondola ride.",
+        "title": "Venetian Gondola Serenade",
+        "genre": "Romantic, Classical",
+        "key": "Unspecified",
+        "chord_progression": "Am-E7-F-C",
+        "instruments": "Classical guitar, Mandolin",
+        "tempo": "Moderate",
+        "rhythm": "Flowing, Sweet",
+        "emotion": "Romantic, Charming"
+    },
+    {
+        "prompt": "Balkan Brass Extravaganza: Write a piece inspired by Balkan brass bands, featuring trumpets, tubas, and trombones. Use a lively motif with an asymmetric time signature, and a progression like E7-Am7-D7-G7. The tempo should be fast and energetic, reflecting the exuberance of Balkan music.",
+        "title": "Balkan Brass Extravaganza",
+        "genre": "Balkan, Brass Band",
+        "key": "Unspecified",
+        "chord_progression": "E7-Am7-D7-G7",
+        "instruments": "Trumpets, Tubas, Trombones",
+        "tempo": "Fast",
+        "rhythm": "Energetic, Asymmetric",
+        "emotion": "Exuberant, Lively"
+    },
+    {
+        "prompt": "Flamenco Fury: Compose a fiery flamenco piece using a classical guitar as the main instrument, complemented by palmas (hand clapping) and caj\u00f3n for rhythm. The motif should be passionate and quick, with a progression like Am-G-F-E. Set the tempo fast, with a lot of rhythmic intensity and flair.",
+        "title": "Flamenco Fury",
+        "genre": "Flamenco",
+        "key": "Unspecified",
+        "chord_progression": "Am-G-F-E",
+        "instruments": "Classical guitar, Palmas, Caj\u00f3n",
+        "tempo": "Fast",
+        "rhythm": "Intense, Rhythmic",
+        "emotion": "Passionate, Fiery"
+    },
+    {
+        "prompt": "Lunar Lullaby: Imagine a gentle, soothing piece inspired by the moon, with a motif of soft, ascending arpeggios that mimic moonlight shimmering on water. Use a chord progression like Cmaj7-Am7-Dm7-G7, and a tempo that's calm and steady, like the slow rise of the moon in a clear night sky.",
+        "title": "Lunar Lullaby",
+        "genre": "Ambient, Lullaby",
+        "key": "Unspecified",
+        "chord_progression": "Cmaj7-Am7-Dm7-G7",
+        "instruments": "Unspecified",
+        "tempo": "Calm, Steady",
+        "rhythm": "Gentle, Ascending",
+        "emotion": "Soothing, Tranquil"
+    },
+    {
+        "prompt": "Urban Pulse: Develop a piece that captures the dynamic energy of city life, with a motif of sharp, syncopated beats and a progression like Em-Bm-C-D. Use electronic sounds and urban beats to reflect the bustling streets and neon lights, set to a fast tempo.",
+        "title": "Urban Pulse",
+        "genre": "Electronic, Urban",
+        "key": "Unspecified",
+        "chord_progression": "Em-Bm-C-D",
+        "instruments": "Electronic sounds, Urban beats",
+        "tempo": "Fast",
+        "rhythm": "Sharp, Syncopated",
+        "emotion": "Dynamic, Energetic"
+    },
+    {
+        "prompt": "Tropical Rainforest Rhapsody: Compose a piece inspired by the lushness of a tropical rainforest, using a motif of intricate, layered rhythms and a progression like Dm-C-Bb-A. Include sounds that mimic raindrops and wildlife, creating a rich tapestry of natural harmony, set to a medium tempo.",
+        "title": "Tropical Rainforest Rhapsody",
+        "genre": "Nature-inspired",
+        "key": "Unspecified",
+        "chord_progression": "Dm-C-Bb-A",
+        "instruments": "Unspecified",
+        "tempo": "Medium",
+        "rhythm": "Layered, Intricate",
+        "emotion": "Vibrant, Lush"
+    },
+    {
+        "prompt": "Arctic Solitude: Write a composition that conveys the isolation and beauty of the Arctic, using a sparse, echoing motif and a progression like Gm-Eb-Bb-F. Integrate sounds that mimic the howling wind and cracking ice, set to a slow, reflective tempo.",
+        "title": "Arctic Solitude",
+        "genre": "Ambient",
+        "key": "G minor",
+        "chordProgression": "Gm-Eb-Bb-F",
+        "instruments": [
+            "Sounds mimicking wind and ice"
+        ],
+        "tempo": "Slow",
+        "rhythm": "Reflective, echoing",
+        "emotion": "Isolation, Beauty"
+    },
+    {
+        "prompt": "Mountain Echoes: Craft a piece inspired by the echoes in a mountain range, using a motif of repeating, cascading notes and a progression like Am-F-C-G. Use instruments like flutes and strings to mimic the sound of echoes bouncing off mountain walls, set to a tempo that varies like the unpredictable mountain winds.",
+        "title": "Mountain Echoes",
+        "genre": "Nature-Inspired",
+        "key": "A minor",
+        "chordProgression": "Am-F-C-G",
+        "instruments": [
+            "Flutes",
+            "Strings"
+        ],
+        "tempo": "Variable",
+        "rhythm": "Cascading, echoing",
+        "emotion": "Majestic, Mysterious"
+    },
+    {
+        "prompt": "Ancient Temple Mystery: Compose a piece that evokes the mystery of ancient temples, using a motif of deep, resonant tones and a progression like Dm-Am-E-Am. Incorporate instruments like gongs and chimes to add to the aura of mystery, set to a tempo that's slow and contemplative.",
+        "title": "Ancient Temple Mystery",
+        "genre": "Mystical",
+        "key": "D minor",
+        "chordProgression": "Dm-Am-E-Am",
+        "instruments": [
+            "Gongs",
+            "Chimes"
+        ],
+        "tempo": "Slow",
+        "rhythm": "Contemplative",
+        "emotion": "Mysterious, Ancient"
+    },
+    {
+        "prompt": "Urban Jazz Nights: Write a jazz piece that captures the essence of a vibrant city at night, using a motif of smooth, flowing lines and a progression like Fm7-Bb7-Ebmaj7-Abmaj7. Use a saxophone to lead the melody, set to a medium swing tempo, reflecting the rhythmic pulse of city nightlife.",
+        "title": "Urban Jazz Nights",
+        "genre": "Jazz",
+        "key": "F minor",
+        "chordProgression": "Fm7-Bb7-Ebmaj7-Abmaj7",
+        "instruments": [
+            "Saxophone"
+        ],
+        "tempo": "Medium",
+        "rhythm": "Swing",
+        "emotion": "Vibrant, Urbane"
+    },
+    {
+        "prompt": "Andean Dreamscape: Compose a piece inspired by South American Andean music, using a progression such as Am-G-F-E. Incorporate pan flutes and charangos to maintain cultural authenticity, set to a medium tempo that mirrors the tranquil yet mysterious landscape of the Andes.",
+        "title": "Andean Dreamscape",
+        "genre": "South American",
+        "key": "A minor",
+        "chordProgression": "Am-G-F-E",
+        "instruments": [
+            "Pan flutes",
+            "Charangos"
+        ],
+        "tempo": "Medium",
+        "rhythm": "Tranquil",
+        "emotion": "Mysterious, Cultural"
+    },
+    {
+        "prompt": "Japanese Zen Garden: Write a piece inspired by the tranquility of a Japanese Zen garden, using a progression like F#m-E-D-C#m. Include traditional Japanese instruments like the koto and shakuhachi, and set the piece at a very slow tempo, with a melody that flows as calmly as a gently raked sand garden.",
+        "title": "Japanese Zen Garden",
+        "genre": "Japanese",
+        "key": "F# minor",
+        "chordProgression": "F#m-E-D-C#m",
+        "instruments": [
+            "Koto",
+            "Shakuhachi"
+        ],
+        "tempo": "Very slow",
+        "rhythm": "Calm",
+        "emotion": "Tranquil, Elegant"
+    },
+    {
+        "prompt": "Autumnal Reflections: Create an acoustic guitar piece with a melancholic feel, using a chord progression of Am7-Fmaj7-C-G. The tempo should be moderate, allowing each chord to resonate with the changing colors of fall. Emphasize fingerpicking to bring out the nuances in each chord, crafting a sound that's reflective and introspective.",
+        "title": "Autumnal Reflections",
+        "genre": "Acoustic",
+        "key": "A minor",
+        "chordProgression": "Am7-Fmaj7-C-G",
+        "instruments": [
+            "Acoustic guitar"
+        ],
+        "tempo": "Moderate",
+        "rhythm": "Reflective",
+        "emotion": "Melancholic, Introspective"
+    },
+    {
+        "prompt": "Jazz Lounge Reverie: Develop a smooth jazz composition featuring a complex chord progression like Dm7-G7-Cmaj7-Am7. Utilize a relaxed tempo with a subtle swing rhythm. Highlight the progression with a soulful saxophone melody, evoking the laid-back atmosphere of a dimly lit jazz lounge.",
+        "title": "Jazz Lounge Reverie",
+        "genre": "Jazz",
+        "key": "D minor",
+        "chordProgression": "Dm7-G7-Cmaj7-Am7",
+        "instruments": [
+            "Saxophone"
+        ],
+        "tempo": "Relaxed",
+        "rhythm": "Swing",
+        "emotion": "Laid-back, Soulful"
+    },
+    {
+        "prompt": "Sunny Day Groove: Compose an upbeat, pop-inspired tune with a simple and catchy chord progression such as C-G-Am-F. Maintain a lively tempo and incorporate a cheerful melody, ideally for a vocal lead. This tune should evoke the carefree joy of a sunny day, suitable for a sing-along.",
+        "title": "Sunny Day Groove",
+        "genre": "Pop",
+        "key": "C major",
+        "chordProgression": "C-G-Am-F",
+        "instruments": [
+            "Vocal lead"
+        ],
+        "tempo": "Lively",
+        "rhythm": "Upbeat",
+        "emotion": "Carefree, Joyful"
+    },
+    {
+        "prompt": "Blues Alley Tale: Write a classic 12-bar blues in the key of E, using the standard I-IV-V progression (E7-A7-B7). Keep the tempo moderate to slow, allowing each chord to carry the emotional weight of the blues narrative. Add a soulful harmonica or guitar melody to enhance the storytelling aspect of the music.",
+        "title": "Blues Alley Tale",
+        "genre": "Blues",
+        "key": "E major",
+        "chordProgression": "12-bar blues (E7-A7-B7)",
+        "instruments": [
+            "Harmonica",
+            "Guitar"
+        ],
+        "tempo": "Moderate to slow",
+        "rhythm": "Bluesy",
+        "emotion": "Soulful, Narrative"
+    },
+    {
+        "prompt": "Festival of Lights: Create a piece inspired by traditional Indian music, but with a Western twist, using a chord progression like Cmaj7-Dm7-G7. Incorporate instruments like the sitar or tabla for authenticity, set to a medium tempo. The melody should intertwine with the chord progression, creating a celebratory and vibrant atmosphere.",
+        "title": "Festival of Lights",
+        "genre": "Indian Fusion",
+        "key": "C major",
+        "chordProgression": "Cmaj7-Dm7-G7",
+        "instruments": [
+            "Sitar",
+            "Tabla"
+        ],
+        "tempo": "Medium",
+        "rhythm": "Celebratory",
+        "emotion": "Vibrant, Joyful"
+    },
+    {
+        "prompt": "Enchanted Forest Waltz: Imagine a waltz set in a mystical forest, using a chord progression of Em-B7-Am-D. The 3/4 time signature should set a graceful tempo, with a melody that dances atop the progression like leaves in a gentle breeze. Use strings and woodwinds to evoke an ethereal, magical quality.",
+        "title": "Enchanted Forest Waltz",
+        "genre": "Waltz",
+        "key": "E minor",
+        "chordProgression": "Em-B7-Am-D",
+        "instruments": [
+            "Strings",
+            "Woodwinds"
+        ],
+        "tempo": "3/4 time",
+        "rhythm": "Graceful",
+        "emotion": "Ethereal, Magical"
+    },
+    {
+        "prompt": "Mediterranean Sunset: Compose a piece that captures the essence of a Mediterranean evening, using a chord progression like Am-G-F-E7. The tempo should be moderate, with a rhythm that sways like the sea. Integrate classical guitar to emphasize the romantic and nostalgic feel of a sunset by the sea.",
+        "title": "Mediterranean Sunset",
+        "genre": "Unspecified",
+        "key": "Unspecified",
+        "chordProgression": "Am-G-F-E7",
+        "instruments": "Classical guitar",
+        "tempo": "Moderate",
+        "rhythm": "Sways like the sea",
+        "emotion": "Romantic, Nostalgic"
+    },
+    {
+        "prompt": "Ancient Echoes: Compose a piece that combines traditional Eastern instruments with a modern electronic beat. Use a pentatonic scale and a medium tempo. The melody should be played on a koto or erhu, accompanied by a deep electronic bassline. The piece should consist of 32 bars, creating a bridge between ancient and contemporary sounds.",
+        "title": "Ancient Echoes",
+        "genre": "Fusion",
+        "key": "Unspecified",
+        "chordProgression": "Unspecified",
+        "instruments": "Koto or Erhu, Electronic bassline",
+        "tempo": "Medium",
+        "number_of_bars": "32",
+        "emotion": "Ancient, Contemporary"
+    },
+    {
+        "prompt": "Ocean's Lullaby: Write a soothing melody in the key of C major, intended for a solo piano. The tempo should be very slow, with a rhythm that mimics the gentle ebb and flow of ocean waves. Use arpeggios and soft dynamics to create a calming, lullaby-like feel, perfect for relaxation or meditation.",
+        "title": "Ocean's Lullaby",
+        "genre": "Unspecified",
+        "key": "C major",
+        "chordProgression": "Unspecified",
+        "instruments": "Solo piano",
+        "tempo": "Very slow",
+        "rhythm": "Mimics ocean waves",
+        "emotion": "Calming, Soothing"
+    },
+    {
+        "prompt": "Highland Warrior: Craft a powerful, energetic piece in a minor key, with a fast tempo and a strong 4/4 beat. Combine traditional Scottish bagpipes with modern rock instruments like electric guitar and drums. The melody should be bold and straightforward, evoking images of ancient highland battles and bravery.",
+        "title": "Highland Warrior",
+        "genre": "Unspecified",
+        "key": "Minor",
+        "chordProgression": "Unspecified",
+        "instruments": "Scottish bagpipes, Electric guitar, Drums",
+        "tempo": "Fast",
+        "rhythm": "Strong 4/4 beat",
+        "emotion": "Bold, Brave"
+    },
+    {
+        "prompt": "Raindrop Serenade: Imagine a classical piece for a string quartet, evoking the sound and rhythm of raindrops. The key should be G minor, with a moderate tempo and a rhythm that alternates between pizzicato and legato, mimicking the varying intensity of a rain shower. The melody should be light and flowing, like water cascading down a windowpane.",
+        "title": "Raindrop Serenade",
+        "genre": "Classical",
+        "key": "G minor",
+        "chordProgression": "Unspecified",
+        "instruments": "String quartet",
+        "tempo": "Moderate",
+        "rhythm": "Alternates between pizzicato and legato",
+        "emotion": "Light, Flowing"
+    },
+    {
+        "prompt": "Neon Groove: Design a funky, upbeat track with a strong backbeat and a bright brass section. Set the piece in the key of F major and a tempo that's perfect for dancing. Use a catchy, syncopated melody and a chord progression that's both groovy and sophisticated, capturing the vibrant energy of a night out in the city.",
+        "title": "Neon Groove",
+        "genre": "Funky, Upbeat",
+        "key": "F major",
+        "chordProgression": "Unspecified",
+        "instruments": "Brass section",
+        "tempo": "Perfect for dancing",
+        "rhythm": "Strong backbeat",
+        "emotion": "Vibrant, Energetic"
+    },
+    {
+        "prompt": "Winter's Whisper: Compose a delicate, minimalist piece for solo flute, capturing the serene beauty of a snowy landscape. Use a slow tempo and a simple, repeating melody in the key of B flat major. The rhythm should be subtle, with plenty of space between notes, evoking the quiet and peacefulness of a winter's day.",
+        "title": "Winter's Whisper",
+        "genre": "Minimalist",
+        "key": "B flat major",
+        "chordProgression": "Unspecified",
+        "instruments": "Solo flute",
+        "tempo": "Slow",
+        "rhythm": "Subtle",
+        "emotion": "Quiet, Peaceful"
+    },
+    {
+        "prompt": "Midnight Jazz in Paris: Create a romantic and nostalgic jazz composition set in the enchanting streets of Paris. The piece should be in A minor with a chord progression of Am7-Dm7-G7-Cmaj7. Utilize the saxophone, piano, and double bass to bring out the romance. Keep the tempo moderate and infuse a swinging rhythm that captures the essence of a Parisian night.",
+        "title": "Midnight Jazz in Paris",
+        "genre": "Jazz",
+        "key": "A minor",
+        "chord_progression": "Am7-Dm7-G7-Cmaj7",
+        "instruments": [
+            "Saxophone",
+            "Piano",
+            "Double Bass"
+        ],
+        "tempo": "Moderate",
+        "rhythm": "Swinging",
+        "emotion": "Romantic, Nostalgic"
+    },
+    {
+        "prompt": "Underwater Dreamscape: Craft an ambient electronic track that takes the listener on a mysterious and calming journey through an underwater dreamscape. The key is E major with a chord progression of E-B-A-C#m. Use synthesizers and an electronic harp to create a fluid and ethereal atmosphere. Set the tempo slow and let the rhythm flow like water, evoking a sense of calm and mystery.",
+        "title": "Underwater Dreamscape",
+        "genre": "Ambient, Electronic",
+        "key": "E major",
+        "chord_progression": "E-B-A-C#m",
+        "instruments": [
+            "Synthesizers",
+            "Electronic Harp"
+        ],
+        "tempo": "Slow",
+        "rhythm": "Fluid, Ethereal",
+        "emotion": "Mysterious, Calming"
+    },
+    {
+        "prompt": "Galactic Odyssey: Embark on an adventurous and majestic space opera with a composition in D minor. The chord progression should follow Dm-C-Bb-A, featuring a full orchestra and a choir. Set an epic tempo and create a grandiose rhythm that transports the audience to the vastness of outer space. The emotion should be filled with a sense of adventure and majesty.",
+        "title": "Galactic Odyssey",
+        "genre": "Space Opera",
+        "key": "D minor",
+        "chord_progression": "Dm-C-Bb-A",
+        "instruments": [
+            "Full Orchestra",
+            "Choir"
+        ],
+        "tempo": "Epic",
+        "rhythm": "Grandiose",
+        "emotion": "Adventurous, Majestic"
+    },
+    {
+        "prompt": "Renaissance Faire Dance: Take a step back in time to a cheerful and historical Renaissance faire dance in G major. The chord progression should be G-C-D-G, highlighting instruments like the lute, recorder, and viola da gamba. Set a lively tempo and create a dance-like rhythm that captures the spirit of a Renaissance celebration. The emotion should be cheerful and historical.",
+        "title": "Renaissance Faire Dance",
+        "genre": "Renaissance",
+        "key": "G major",
+        "chord_progression": "G-C-D-G",
+        "instruments": [
+            "Lute",
+            "Recorder",
+            "Viola da Gamba"
+        ],
+        "tempo": "Lively",
+        "rhythm": "Dance-like",
+        "emotion": "Cheerful, Historical"
+    },
+    {
+        "prompt": "Sunset Serenata: Compose a melancholic and beautiful classical guitar piece in C minor. The chord progression should follow Cm-Gm-Ab-Bb, featuring the classical guitar as the sole instrument. Set a moderate tempo and focus on creating a melodic and emotive rhythm. The emotion should evoke a sense of melancholic beauty, like a serenade at sunset.",
+        "title": "Sunset Serenata",
+        "genre": "Classical Guitar",
+        "key": "C minor",
+        "chord_progression": "Cm-Gm-Ab-Bb",
+        "instruments": [
+            "Classical Guitar"
+        ],
+        "tempo": "Moderate",
+        "rhythm": "Melodic",
+        "emotion": "Melancholic, Beautiful"
+    },
+    {
+        "prompt": "Polar Aurora Symphony: Craft an awe-inspiring and serene orchestral symphony in Bb major. The chord progression should follow Bb-F-Gm-Eb, featuring strings, celesta, and woodwinds. Set the tempo to vary from slow to moderate and create a luminous, flowing rhythm that captures the beauty of a polar aurora. The emotion should be one of awe and serenity, like witnessing the northern lights.",
+        "title": "Polar Aurora Symphony",
+        "genre": "Orchestral",
+        "key": "Bb major",
+        "chord_progression": "Bb-F-Gm-Eb",
+        "instruments": [
+            "Strings",
+            "Celesta",
+            "Woodwinds"
+        ],
+        "tempo": "Slow to Moderate",
+        "rhythm": "Luminous, Flowing",
+        "emotion": "Awe-inspiring, Serene"
+    },
+    {
+        "prompt": "Carnival in Rio Samba: Immerse your audience in the vibrant world of Rio's carnival with a fast-paced Samba track in A major. The chord progression should follow A-D-E-A, featuring a dynamic percussion ensemble and a lively brass section. Set the tempo to fast and infuse the rhythm with the joyful and energetic spirit of the carnival.",
+        "title": "Carnival in Rio Samba",
+        "genre": "Samba",
+        "key": "A major",
+        "chord_progression": "A-D-E-A",
+        "instruments": [
+            "Percussion Ensemble",
+            "Brass Section"
+        ],
+        "tempo": "Fast",
+        "rhythm": "Vibrant",
+        "emotion": "Joyful, Energetic"
+    },
+    {
+        "prompt": "Haunted Gothic Organ: Transport your listeners to a mysterious and somber realm with a slow, dramatic classical composition in D minor. Utilize the haunting tones of a pipe organ to create an atmosphere of mystery. The rhythm should be dramatic, capturing the eerie essence of a gothic setting.",
+        "title": "Haunted Gothic Organ",
+        "genre": "Classical",
+        "key": "D minor",
+        "chord_progression": "Dm-A-C-G",
+        "instruments": [
+            "Pipe Organ"
+        ],
+        "tempo": "Slow",
+        "rhythm": "Dramatic",
+        "emotion": "Mysterious, Somber"
+    },
+    {
+        "prompt": "Enchanted Winter Waltz: Create a magical and festive atmosphere with a graceful waltz in G major. The chord progression should follow G-D-Em-C, featuring the elegance of the piano, the warmth of the violin, and the shimmer of sleigh bells. Set a moderate tempo and compose an elegant waltz that captures the enchantment of a winter wonderland.",
+        "title": "Enchanted Winter Waltz",
+        "genre": "Classical, Holiday",
+        "key": "G major",
+        "chordProgression": "G-D-Em-C",
+        "instruments": "Piano, Violin, Sleigh Bells",
+        "tempo": "Moderate, graceful",
+        "rhythm": "Elegant waltz",
+        "emotion": "Magical, Festive"
+    },
+    {
+        "prompt": "Wild West Saloon Showdown: Transport your audience to the heart of the Wild West with a fast and intense Western action piece in D minor. The chord progression should follow Dm-Gm-Dm-A7, featuring the twang of the banjo, the soulful harmonica, and the thunderous sound of gunshots. Infuse the rhythm with dramatic elements reminiscent of a high-stakes duel, creating a tense and exciting atmosphere.",
+        "title": "Wild West Saloon Showdown",
+        "genre": "Western, Action",
+        "key": "D minor",
+        "chordProgression": "Dm-Gm-Dm-A7",
+        "instruments": "Banjo, Harmonica, Gunshots",
+        "tempo": "Fast, intense",
+        "rhythm": "Dramatic, like a duel",
+        "emotion": "Tense, Exciting"
+    },
+    {
+        "prompt": "Underwater Exploration: Take your listeners on a mysterious and sublime deep-sea journey with an orchestral adventure composition. The key is unspecified, but the music should evoke a sense of underwater exploration. Utilize strings, flutes, and percussion to create a moderate and mysterious tempo that captures the enigmatic beauty of the deep sea.",
+        "title": "Underwater Exploration",
+        "genre": "Orchestral, Adventure",
+        "key": "Unspecified",
+        "chordProgression": "Mysterious Underwater",
+        "instruments": "Strings, Flutes, Percussion",
+        "tempo": "Moderate, mysterious",
+        "rhythm": "Underwater, like a deep-sea journey",
+        "emotion": "Mysterious, Sublime"
+    },
+    {
+        "prompt": "Epic Viking Battle: Compose an epic Nordic piece that transports the listener to a fierce Viking battle. The key is unspecified, but it should have a chord progression reminiscent of an epic Nordic battle. Instruments include horns, drums, and Viking chants, creating a fast-paced and heroic tempo. The rhythm should be powerful, much like a Viking war, invoking feelings of epic valor.",
+        "title": "Epic Viking Battle",
+        "genre": "Epic, Nordic",
+        "key": "Unspecified",
+        "chordProgression": "Epic Nordic Battle",
+        "instruments": "Horns, Drums, Viking Chants",
+        "tempo": "Fast, heroic",
+        "rhythm": "Heroic, like a Viking war",
+        "emotion": "Epic, Valor"
+    },
+    {
+        "prompt": "Jungle Adventure Quest: Craft an adventurous world music piece in the key of C major, using a chord progression of C-G-Am-F. Utilize African drums, flutes, and jungle sounds to create a moderate and adventurous tempo. The rhythm should be exotic, like embarking on a jungle exploration. This composition should evoke the wild and adventurous spirit of the jungle.",
+        "title": "Jungle Adventure Quest",
+        "genre": "Adventure, World",
+        "key": "C major",
+        "chordProgression": "C-G-Am-F",
+        "instruments": "African Drums, Flutes, Jungle Sounds",
+        "tempo": "Moderate, adventurous",
+        "rhythm": "Exotic, like a jungle exploration",
+        "emotion": "Adventurous, Wild"
+    },
+    {
+        "prompt": "Cinematic Spy Thriller: Compose a suspenseful film score piece with an unspecified key but a chord progression that feels like a suspenseful spy theme. Utilize strings, brass, and percussion to set a moderate and suspenseful tempo. The rhythm should be tense, much like a spy mission, creating an intriguing and suspenseful atmosphere.",
+        "title": "Cinematic Spy Thriller",
+        "genre": "Film Score, Thriller",
+        "key": "Unspecified",
+        "chordProgression": "Suspenseful Spy Theme",
+        "instruments": "Strings, Brass, Percussion",
+        "tempo": "Moderate, suspenseful",
+        "rhythm": "Tense, like a spy mission",
+        "emotion": "Suspenseful, Intriguing"
+    },
+    {
+        "prompt": "Ancient Egyptian Mysteries: Craft a mysterious historical piece with an unspecified key but evoking ancient Egyptian vibes. Use instruments like the oud, Egyptian flute, and percussion to create a moderate and mysterious tempo. The rhythm should be ancient, like an Egyptian exploration, inviting the listener to delve into the mystical and historical mysteries of ancient Egypt.",
+        "title": "Ancient Egyptian Mysteries",
+        "genre": "World, Historical",
+        "key": "Unspecified",
+        "chordProgression": "Ancient Egyptian Vibes",
+        "instruments": "Oud, Egyptian Flute, Percussion",
+        "tempo": "Moderate, mysterious",
+        "rhythm": "Ancient, like an Egyptian exploration",
+        "emotion": "Mystical, Historical"
+    },
+    {
+        "prompt": "Sci-Fi Battle in Outer Space: Create a fast-paced, epic sci-fi composition set in outer space. The key is unspecified, but it should feel like an epic space battle. Use synthesizers and orchestral hits to evoke a sense of grandeur and intensity. The tempo is fast, and the rhythm should be intense, reminiscent of a space battle. The emotion should be epic and evoke a galactic scale.",
+        "title": "Sci-Fi Battle in Outer Space",
+        "genre": "Sci-Fi, Epic",
+        "key": "Unspecified",
+        "chordProgression": "Epic Space Battle",
+        "instruments": "Synthesizers, Orchestral Hits",
+        "tempo": "Fast, epic",
+        "rhythm": "Intense, like a space battle",
+        "emotion": "Epic, Galactic"
+    },
+    {
+        "prompt": "Swinging 1920s Jazz Club: Transport the listener to a 1920s jazz club with a fast-paced, swinging composition in C major. The chord progression should follow C-F-G-C. Feature instruments like the trumpet, clarinet, and piano to capture the joyful and vintage essence of the Roaring Twenties. The rhythm should groove with a Jazz Age swing, creating a sense of joy and nostalgia.",
+        "title": "Swinging 1920s Jazz Club",
+        "genre": "Jazz, Roaring Twenties",
+        "key": "C major",
+        "chordProgression": "C-F-G-C",
+        "instruments": "Trumpet, Clarinet, Piano",
+        "tempo": "Fast, swinging",
+        "rhythm": "Jazz Age swing",
+        "emotion": "Joyful, Vintage"
+    },
+    {
+        "prompt": "Funky Disco Fever: Craft a fast and groovy disco-funk piece in A minor, following the chord progression Am7-Dm7-G7-C7. Feature a disco band and a funky bassline to create a groovy and danceable atmosphere. The rhythm should groove with a funky disco vibe, and the emotion should be all about getting down on the dancefloor with a sense of grooviness.",
+        "title": "Funky Disco Fever",
+        "genre": "Disco, Funk",
+        "key": "A minor",
+        "chordProgression": "Am7-Dm7-G7-C7",
+        "instruments": "Disco Band, Funky Bassline",
+        "tempo": "Fast, groovy",
+        "rhythm": "Funky disco groove",
+        "emotion": "Groovy, Danceable"
+    },
+    {
+        "prompt": "Pirate's Swashbuckling Adventure: Set the stage for a thrilling pirate's adventure with music in the key of G Mixolydian. Develop a chord progression of G-D7-Am-C, and incorporate instruments like the accordion, violin, and ship bells. The tempo should be fast, creating an exciting and nautical atmosphere that ignites the spirit of high-seas escapades.",
+        "title": "Pirate's Swashbuckling Adventure",
+        "genre": "Pirate, Adventure",
+        "key": "G Mixolydian",
+        "chord_progression": "G-D7-Am-C",
+        "instruments": [
+            "Accordion, Violin, Ship Bells"
+        ],
+        "tempo": "Fast",
+        "rhythm": "Exciting",
+        "emotion": "Thrilling, Nautical"
+    },
+    {
+        "prompt": "Retro 8-Bit Arcade Quest: Dive into the world of retro gaming with a chiptune composition, capturing the essence of classic 8-bit patterns. The key can be unspecified, allowing for creative exploration. Employ instruments like square waves and 8-bit drums to infuse the composition with an upbeat and pixelated feel. The music should be playful and retro, inviting gamers on a nostalgic quest.",
+        "title": "Retro 8-Bit Arcade Quest",
+        "genre": "Chiptune, Retro",
+        "key": "Unspecified",
+        "chord_progression": "Classic 8-Bit Patterns",
+        "instruments": [
+            "Square Waves, 8-Bit Drums"
+        ],
+        "tempo": "Upbeat",
+        "rhythm": "Pixelated",
+        "emotion": "Playful, Retro"
+    },
+    {
+        "prompt": "Haunted Victorian Mansion: Craft an eerie and spine-chilling composition in C# minor, featuring an unsettling chord progression of eerie organ and choir. Utilize instruments such as the pipe organ and church bells to create a slow and creepy tempo. The rhythm should be unsettling, enveloping listeners in the mysterious and haunting atmosphere of a Victorian mansion plagued by ghosts.",
+        "title": "Haunted Victorian Mansion",
+        "genre": "Horror, Gothic",
+        "key": "C# minor",
+        "chord_progression": "Eerie Organ and Choir",
+        "instruments": [
+            "Pipe Organ, Church Bells"
+        ],
+        "tempo": "Slow",
+        "rhythm": "Creepy",
+        "emotion": "Spine-Chilling, Mysterious"
+    },
+    {
+        "prompt": "Tropical Island Paradise: Transport listeners to a tranquil tropical paradise with music in an unspecified key. Create a calming ukulele chord progression that embodies the serenity of the island. Instruments like the ukulele and steel drums should set the tempo to slow to moderate, with a relaxing and sunny rhythm that immerses the audience in the scenic beauty of the tropics.",
+        "title": "Tropical Island Paradise",
+        "genre": "Tropical, Relaxing",
+        "key": "Unspecified",
+        "chord_progression": "Calming Ukulele",
+        "instruments": [
+            "Ukulele, Steel Drums"
+        ],
+        "tempo": "Slow to Moderate",
+        "rhythm": "Relaxing",
+        "emotion": "Serene, Sunny"
+    },
+    {
+        "prompt": "Steampunk Mechanical Waltz: Conjure the whimsy of a steampunk world with music in Eb major. Develop a waltz-style composition with the chord progression Eb-Bb-Ab-Eb. Employ unique instruments like clockwork sounds and brass to maintain a 3/4 waltz tempo. The rhythm should be quirky and industrial, inviting dancers to waltz through a fantastical, gear-driven world.",
+        "title": "Steampunk Mechanical Waltz",
+        "genre": "Steampunk, Waltz",
+        "key": "Eb major",
+        "chord_progression": "Eb-Bb-Ab-Eb",
+        "instruments": [
+            "Clockwork Sounds, Brass"
+        ],
+        "tempo": "3/4 waltz",
+        "rhythm": "Steampunk",
+        "emotion": "Quirky, Industrial"
+    },
+    {
+        "prompt": "Underground Cyber Rebellion: Immerse listeners in the futuristic dystopia of a cyberpunk rebellion with music in an unspecified key. Create an industrial soundscape with synthesizers and electronic drums, utilizing fast tempos and rebellious rhythms. The music should evoke an aggressive and futuristic atmosphere, setting the stage for a rebellion against the digital overlords.",
+        "title": "Underground Cyber Rebellion",
+        "genre": "Cyberpunk, Rebellion",
+        "key": "Unspecified",
+        "chord_progression": "Industrial Synth Patterns",
+        "instruments": [
+            "Synthesizers, Electronic Drums"
+        ],
+        "tempo": "Fast",
+        "rhythm": "Rebellious",
+        "emotion": "Aggressive, Futuristic"
+    },
+    {
+        "prompt": "Sunny Italian Seaside: Set the scene for a romantic escape to the Italian seaside with music in an unspecified key. Develop an Italian-inspired chord progression featuring guitar and mandolin. Utilize instruments like the guitar, mandolin, and ocean waves to maintain a slow to moderate tempo. The rhythm should be relaxing and scenic, creating a serene backdrop for a coastal getaway.",
+        "title": "Sunny Italian Seaside",
+        "genre": "Italian, Relaxing",
+        "key": "Unspecified",
+        "chord_progression": "Italian Guitar and Mandolin",
+        "instruments": [
+            "Guitar, Mandolin, Ocean Waves"
+        ],
+        "tempo": "Slow to Moderate",
+        "rhythm": "Relaxing",
+        "emotion": "Romantic, Scenic"
+    },
+    {
+        "prompt": "Serenade Under the Moonlight: Craft a classical piece in the romantic style, conveying a melancholic mood. Set the composition in the key of A minor and maintain an adagio tempo, reflecting a slow, expressive pace. The chord progression should consist of Am, G, F, and E, spanning across 32 bars. The piece will feature two voices. Use a violin and a piano as the instruments, with the violin carrying a heartfelt, expressive melody. The piano should complement this with rich, resonant chords, enhancing the introspective and reflective nature of the piece. This composition should evoke the essence of a serene, moonlit night, filled with deep emotion and contemplation.",
+        "name": "Serenade Under the Moonlight",
+        "genre": "Classical",
+        "tempo": "Adagio",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Violin",
+            "Piano"
+        ],
+        "style": "Romantic",
+        "feeling": "Melancholic"
+    },
+    {
+        "prompt": "Summer Jazz Festival: Compose a lively and joyful jazz piece in the bebop style. The key should be C major, with a medium swing tempo to capture the energetic spirit of a summer festival. The chord progression will be Cmaj7, A7, Dm7, G7, played over 16 bars. Utilize four voices in the ensemble, consisting of saxophone, piano, double bass, and drums. The saxophone should take the lead with a spirited and improvisational melody, while the piano provides rhythmic and harmonic support. Implement a walking bass line on the double bass to drive the piece forward. The drums are responsible for maintaining a swinging rhythm, accentuating the upbeat and celebratory mood. This composition should evoke the lively atmosphere of a summer jazz festival.",
+        "name": "Summer Jazz Festival",
+        "genre": "Jazz",
+        "tempo": "Medium Swing",
+        "key": "C major",
+        "chord_progression": [
+            "Cmaj7",
+            "A7",
+            "Dm7",
+            "G7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Saxophone",
+            "Piano",
+            "Double Bass",
+            "Drums"
+        ],
+        "style": "Bebop",
+        "feeling": "Joyful"
+    },
+    {
+        "prompt": "Echoes of the Forgotten Forest: Design an ambient piece with an atmospheric style, conveying a mysterious feeling. The key of the composition should be E minor, and it should proceed at a lento tempo, fostering a slow, ethereal ambiance. The chord progression is Em, C, G, D, and it should be structured over 48 bars. The arrangement will include three voices, featuring a synthesizer, flute, and harp. The synthesizer should create a layered, textured backdrop, simulating the dense and enigmatic atmosphere of a long-forgotten forest. The flute will contribute haunting, whisper-like melodies, enhancing the mystique of the setting. The harp should provide a delicate, ethereal accompaniment, further deepening the mysterious and otherworldly feel of the piece. Overall, this composition should evoke a sense of ancient, hidden mysteries nestled within the heart of a forgotten forest.",
+        "name": "Echoes of the Forgotten Forest",
+        "genre": "Ambient",
+        "tempo": "Lento",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 48,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synthesizer",
+            "Flute",
+            "Harp"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Mysterious"
+    },
+    {
+        "prompt": "Downtown Groove: Construct an energetic funk piece with a groovy style. Set this composition in F# minor and maintain a fast tempo to capture the bustling energy of downtown. The chord progression should be F#m7, B7, E9, C#7, and it should be played over 24 bars. Incorporate five voices in the ensemble, featuring electric guitar, bass guitar, drums, trumpet, and saxophone. The electric guitar should lay down a rhythmic, funky groove, while the bass guitar provides a tight, driving foundation. The drums are key to maintaining the energetic, danceable beat. The trumpet and saxophone should add vibrant, punchy horn lines, bringing the piece to life with their dynamic and spirited melodies. This composition should embody the lively and vibrant atmosphere of a downtown scene, brimming with groove and energy.",
+        "name": "Downtown Groove",
+        "genre": "Funk",
+        "tempo": "Fast",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m7",
+            "B7",
+            "E9",
+            "C#7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 5,
+        "instruments": [
+            "Electric Guitar",
+            "Bass Guitar",
+            "Drums",
+            "Trumpet",
+            "Saxophone"
+        ],
+        "style": "Groovy",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Glacial Odyssey: Create a peaceful New Age composition with an ethereal style. The key should be G major, with an andante tempo, offering a steady, walking pace that embodies tranquility. The chord progression will be G, D, Em, C, distributed across 36 bars. The piece should incorporate three voices, using piano, strings, and wind chimes. The piano should play a central role, delivering serene and flowing melodies that mimic the gentle movement of glaciers. The strings should provide a lush, harmonic backdrop, adding to the expansive and tranquil atmosphere. Wind chimes should be used sparingly to add a delicate, shimmering texture, evoking the crystalline beauty of a glacial landscape. This composition should transport the listener on a peaceful odyssey through pristine, icy realms, emphasizing the majesty and serenity of nature.",
+        "name": "Glacial Odyssey",
+        "genre": "New Age",
+        "tempo": "Andante",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 36,
+        "number_of_voices": 3,
+        "instruments": [
+            "Piano",
+            "Strings",
+            "Wind Chimes"
+        ],
+        "style": "Ethereal",
+        "feeling": "Peaceful"
+    },
+    {
+        "prompt": "Neon City Lights: Craft a nostalgic synthwave piece with a retro style. Set the composition in E major and use a moderate tempo to capture the essence of neon-soaked cityscapes. The chord progression should be E, C#m, A, B, spanning 32 bars. Include four voices in the arrangement, featuring synthesizer, electric drum kit, and bass synth. The synthesizer should be the dominant instrument, creating lush, layered melodies that evoke a sense of 80s nostalgia and the vibrant energy of neon lights. The electric drum kit should provide a steady, rhythmic pulse reminiscent of classic synthwave beats. Utilize the bass synth to lay down a groovy, driving baseline that underpins the piece. This composition should transport the listener to a vibrant, neon-lit city, filled with the retro charm and wistful nostalgia of the synthwave genre.",
+        "name": "Neon City Lights",
+        "genre": "Synthwave",
+        "tempo": "Moderate",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "C#m",
+            "A",
+            "B"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Synthesizer",
+            "Electric Drum Kit",
+            "Bass Synth"
+        ],
+        "style": "Retro",
+        "feeling": "Nostalgic"
+    },
+    {
+        "prompt": "Rooftop Rendezvous: Compose a relaxed, chill lo-fi hip hop track set in B minor. The tempo should be slow, creating a laid-back, easygoing atmosphere. Utilize a chord progression of Bm7, E9, Gmaj7, F#7 over 16 bars. The composition should feature a single, cohesive voice, blending together sampled beats, Rhodes piano, and synth bass. Use a sampled beat as the foundation, providing a steady, mellow rhythm that underpins the track. The Rhodes piano should be central, delivering smooth, warm chords that define the relaxed, intimate vibe of a rooftop rendezvous. Complement this with a synth bass, adding depth and groove to the track. This piece should encapsulate the essence of a peaceful evening on a rooftop, with a calm and soothing ambience.",
+        "name": "Rooftop Rendezvous",
+        "genre": "Lo-fi Hip Hop",
+        "tempo": "Slow",
+        "key": "B minor",
+        "chord_progression": [
+            "Bm7",
+            "E9",
+            "Gmaj7",
+            "F#7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": "unspecified",
+        "instruments": [
+            "Sampled Beat",
+            "Rhodes Piano",
+            "Synth Bass"
+        ],
+        "style": "Chill",
+        "feeling": "Relaxed"
+    },
+    {
+        "prompt": "Midnight Blues Caf\u00e9: Craft a soulful classic blues piece set in Bb major. The tempo should be slow, reflecting the introspective and emotional depth of the blues genre. The chord progression will follow the traditional blues sequence of Bb7, Eb7, Bb7, F7, arranged in a 12-bar pattern. The ensemble should consist of three voices, featuring electric guitar, bass, and drums. The electric guitar should take the lead with expressive, bending notes and soulful solos, capturing the essence of a late-night blues caf\u00e9. The bass should provide a steady, rhythmic foundation, underpinning the guitar with smooth, walking lines. The drums should maintain a laid-back groove, with a focus on the snare and hi-hat, adding to the relaxed yet emotive atmosphere. This composition should evoke the ambiance of a dimly lit caf\u00e9 at midnight, filled with the rich, heartfelt strains of classic blues.",
+        "name": "Midnight Blues Caf\u00e9",
+        "genre": "Blues",
+        "tempo": "Slow",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bb7",
+            "Eb7",
+            "Bb7",
+            "F7"
+        ],
+        "number_of_bars": 12,
+        "number_of_voices": 3,
+        "instruments": [
+            "Electric Guitar",
+            "Bass",
+            "Drums"
+        ],
+        "style": "Classic Blues",
+        "feeling": "Soulful"
+    },
+    {
+        "prompt": "Tropical Sunset Salsa: Develop a festive salsa piece in the Latin genre, set in A minor. The tempo should be fast, infusing the composition with energetic and vibrant rhythms typical of salsa music. The chord progression will be Am, D7, G, C, and should be executed over 32 bars. The piece should include four voices, featuring piano, congas, trumpet, and bass. The piano should lead with rhythmic, percussive chords and melodic runs, embodying the lively spirit of salsa. The congas are essential for providing the characteristic salsa rhythms, adding a layer of complex, dance-inducing beats. The trumpet should offer bright, bold melodies, enhancing the festive and joyful mood of a tropical sunset. The bass should underpin the ensemble with a strong, rhythmic foundation, driving the dance rhythm forward. This composition should capture the essence of a tropical celebration, filled with the warmth and exuberance of a salsa dance at sunset.",
+        "name": "Tropical Sunset Salsa",
+        "genre": "Latin",
+        "tempo": "Fast",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "D7",
+            "G",
+            "C"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Piano",
+            "Congas",
+            "Trumpet",
+            "Bass"
+        ],
+        "style": "Salsa",
+        "feeling": "Festive"
+    },
+    {
+        "prompt": "Renaissance Fair Minuet: Create an elegant Baroque-style classical piece set in C major. The tempo should be moderato, reflecting the stately and dignified pace of a minuet. The chord progression will be C, G7, Am, Em, arranged in a 16-bar structure. The piece should feature two voices, incorporating a harpsichord and flute. The harpsichord should form the backbone of the composition, providing a refined and intricate harmonic and rhythmic structure, typical of the Baroque period. The flute should intertwine with the harpsichord, offering a light, airy melody that complements the harpsichord\u2019s rich texture. This composition should capture the grandeur and formality of a Renaissance fair, transporting the listener to a time of courtly dances and opulent celebrations, all encapsulated within the elegant framework of a Baroque minuet.",
+        "name": "Renaissance Fair Minuet",
+        "genre": "Classical",
+        "tempo": "Moderato",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G7",
+            "Am",
+            "Em"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Harpsichord",
+            "Flute"
+        ],
+        "style": "Baroque",
+        "feeling": "Elegant"
+    },
+    {
+        "prompt": "Dreamy Indie Road Trip: Compose a dreamy indie pop piece in G major. The tempo should be medium, creating a relaxed and contemplative mood suitable for a road trip. The chord progression will be G, D, Em, C, and should unfold over 24 bars. The ensemble should include four voices, featuring acoustic guitar, synth, bass, and drums. The acoustic guitar should be the primary melodic driver, offering gentle, rhythmic strumming that evokes the feeling of a leisurely journey. The synth should add a layer of dreaminess, with ethereal pads or soft, melodic lines that enhance the song's contemplative nature. The bass should provide a solid, yet unobtrusive foundation, grounding the composition while allowing the other instruments to shine. Drums should maintain a steady, simple beat, echoing the steady pace of a road trip. This composition should encapsulate the essence of a dreamy, introspective journey, perfect for long drives along scenic routes.",
+        "name": "Dreamy Indie Road Trip",
+        "genre": "Indie",
+        "tempo": "Medium",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Acoustic Guitar",
+            "Synth",
+            "Bass",
+            "Drums"
+        ],
+        "style": "Indie Pop",
+        "feeling": "Dreamy"
+    },
+    {
+        "prompt": "Arctic Electronica: Craft a cool, ambient techno piece in the electronic genre, set in E minor. The tempo should be moderate, capturing the crisp and sleek essence of Arctic-inspired sounds. The chord progression will be Em, C, G, D, extending over 32 bars. Utilize two voices in the composition, employing synthesizer, electronic drums, and bass synth. The synthesizer should be used to create icy, atmospheric textures and melodic lines, evoking the vast and chilly landscapes of the Arctic. Electronic drums should provide a steady, yet unobtrusive rhythm, complementing the ambient nature of the track. The bass synth should add depth and a subtle drive, underpinning the other elements with a cool, understated groove. This composition should encapsulate the feeling of a serene, icy environment, blending the chill of the Arctic with the warmth of electronic beats.",
+        "name": "Arctic Electronica",
+        "genre": "Electronic",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Synthesizer",
+            "Electronic Drums",
+            "Bass Synth"
+        ],
+        "style": "Ambient Techno",
+        "feeling": "Cool"
+    },
+    {
+        "prompt": "Baroque Harpsichord Sonata: Compose a refined piece in the Baroque style for solo harpsichord, set in F major. The tempo should be allegro, lending the composition a lively and spirited character typical of the Baroque era. The chord progression will be F, C, Dm, Bb, arranged over 24 bars. The piece should focus on a single voice, highlighting the intricate and ornate capabilities of the harpsichord. Emphasize the characteristic elements of Baroque music, such as complex counterpoints, ornamental flourishes, and precise, articulate playing. The harpsichord should be used to its full potential, showcasing both its bright, resonant tones and its capacity for delicate, nuanced expression. This composition should convey the elegance and sophistication of the Baroque period, reflecting the refined and intricate nature of harpsichord sonatas.",
+        "name": "Baroque Harpsichord Sonata",
+        "genre": "Classical",
+        "tempo": "Allegro",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "C",
+            "Dm",
+            "Bb"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 1,
+        "instruments": [
+            "Harpsichord"
+        ],
+        "style": "Baroque",
+        "feeling": "Refined"
+    },
+    {
+        "prompt": "Southern Gospel Choir: Create an inspirational traditional gospel piece set in A major. The tempo should be slow, allowing for a deep and soulful expression. The chord progression will be A, E, F#m, D, spanning 16 bars. The composition should feature four voices, incorporating piano, organ, and a choir. The piano should provide a strong harmonic foundation with rich chords and occasional embellishments, while the organ adds depth and resonance, enhancing the spiritual atmosphere. The choir is the centerpiece of this piece, with harmonious and powerful vocal arrangements that convey a sense of upliftment and inspiration. Focus on creating dynamic contrasts and expressive phrasing in the choir, ensuring that the lyrics and melodies resonate with emotional depth. This piece should capture the essence of Southern gospel music, offering a heartfelt and moving experience that uplifts and inspires the listener.",
+        "name": "Southern Gospel Choir",
+        "genre": "Gospel",
+        "tempo": "Slow",
+        "key": "A major",
+        "chord_progression": [
+            "A",
+            "E",
+            "F#m",
+            "D"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Piano",
+            "Organ",
+            "Choir"
+        ],
+        "style": "Traditional Gospel",
+        "feeling": "Inspirational"
+    },
+    {
+        "prompt": "Urban Street Jazz: Compose a vibrant jazz fusion piece in Bb minor. The tempo should be fast, reflecting the dynamic and lively energy of urban streets. The chord progression will be Bbm, Eb7, Abmaj7, Db7, spanning 32 bars. The arrangement should incorporate five voices, featuring saxophone, electric piano, bass guitar, drums, and trumpet. The saxophone and trumpet should alternate and intertwine with lead melodies and improvisations, embodying the expressive and spirited nature of jazz. The electric piano should provide harmonic richness and rhythmic comping, supporting the wind instruments. The bass guitar should lay down a groovy, walking bass line, driving the piece with a sense of momentum. Drums are crucial for maintaining a complex, engaging rhythm, blending jazz intricacies with the punch of fusion. This composition should capture the essence of a bustling city environment, where the fusion of jazz elements creates a lively, urban atmosphere.",
+        "name": "Urban Street Jazz",
+        "genre": "Jazz Fusion",
+        "tempo": "Fast",
+        "key": "Bb minor",
+        "chord_progression": [
+            "Bbm",
+            "Eb7",
+            "Abmaj7",
+            "Db7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 5,
+        "instruments": [
+            "Saxophone",
+            "Electric Piano",
+            "Bass Guitar",
+            "Drums",
+            "Trumpet"
+        ],
+        "style": "Fusion",
+        "feeling": "Vibrant"
+    },
+    {
+        "prompt": "Vintage Vinyl Swing: Create an energetic big band swing piece in C major. The tempo should be upbeat, capturing the lively and spirited essence of classic swing music. The chord progression will be C6, A7, Dm7, G7, and it should be played over 32 bars. The ensemble should feature four voices, including big band brass, upright bass, drums, and clarinet. The big band brass should be the highlight, delivering powerful and vibrant horn sections typical of swing music. The upright bass should provide a rhythmic and melodic foundation with a walking bass line, driving the piece with a sense of swing and bounce. Drums are crucial for maintaining the upbeat swing rhythm, with a focus on the ride cymbal and snare. The clarinet should add a layer of melody and improvisation, complementing the brass with its distinct, lively sound. This composition should evoke the golden era of swing, reminiscent of a dance hall filled with the timeless grooves of a vintage vinyl record.",
+        "name": "Vintage Vinyl Swing",
+        "genre": "Swing",
+        "tempo": "Upbeat",
+        "key": "C major",
+        "chord_progression": [
+            "C6",
+            "A7",
+            "Dm7",
+            "G7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Big Band Brass",
+            "Upright Bass",
+            "Drums",
+            "Clarinet"
+        ],
+        "style": "Big Band",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Mystic Oriental Journey: Compose a mystical traditional Eastern piece in the world music genre, set in G minor. The tempo should be moderate, allowing for a reflective and immersive musical experience. The chord progression will be Gm, Dm, Am, Eb, spanning 24 bars. The ensemble should include three voices, featuring the erhu, pipa, and dulcimer. The erhu, a traditional Chinese two-stringed fiddle, should lead with its haunting and expressive melodies, capturing the enigmatic essence of the East. The pipa, a four-stringed Chinese lute, should provide intricate plucked accompaniment, adding depth and texture to the melody. The dulcimer should offer a gentle, resonant harmonic foundation, complementing the other instruments with its unique timbre. This composition should transport the listener on a mystical journey through Oriental landscapes, evoking the rich cultural heritage and mysterious beauty of the East.",
+        "name": "Mystic Oriental Journey",
+        "genre": "World Music",
+        "tempo": "Moderate",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm",
+            "Dm",
+            "Am",
+            "Eb"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Erhu",
+            "Pipa",
+            "Dulcimer"
+        ],
+        "style": "Traditional Eastern",
+        "feeling": "Mystical"
+    },
+    {
+        "prompt": "Cyberpunk Cityscape: Develop a futuristic electronic piece in the cyberpunk style, set in D minor. The tempo should be fast, reflecting the high-energy and dynamic nature of a cyberpunk cityscape. The chord progression will be Dm, Bb, F, C, played over 32 bars. Utilize two voices in the composition, featuring synthesizers, electronic drums, and bass synth. The synthesizers should create a dense, layered atmosphere, with pulsating melodies and textured soundscapes that evoke a high-tech, neon-lit urban environment. The electronic drums should provide a driving, relentless rhythm, embodying the relentless pace of cyberpunk life. The bass synth should add depth and momentum with a heavy, throbbing line, underscoring the overall futuristic and edgy feel of the track. This composition should transport the listener to the heart of a cyberpunk metropolis, alive with electronic sounds and the pulse of a dystopian future.",
+        "name": "Cyberpunk Cityscape",
+        "genre": "Electronic",
+        "tempo": "Fast",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Bb",
+            "F",
+            "C"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Synthesizers",
+            "Electronic Drums",
+            "Bass Synth"
+        ],
+        "style": "Cyberpunk",
+        "feeling": "Futuristic"
+    },
+    {
+        "prompt": "Acoustic Mountain Ballad: Compose a nostalgic Americana folk piece in E major, with a slow tempo. Use a chord progression of E, A, B, E over 16 bars. The composition should feature an acoustic guitar and harmonica. The guitar should provide a warm, melodic foundation, while the harmonica adds a soulful, nostalgic layer to the melody. This piece should evoke the serene beauty and timeless charm of mountain landscapes.",
+        "name": "Acoustic Mountain Ballad",
+        "genre": "Folk",
+        "tempo": "Slow",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "B",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Acoustic Guitar",
+            "Harmonica"
+        ],
+        "style": "Americana",
+        "feeling": "Nostalgic"
+    },
+    {
+        "prompt": "Electro Funk Groove: Develop a groovy electronic funk piece in F minor, with a medium tempo. The chord progression should be Fm7, Eb7, Abmaj7, Db7, spanning 24 bars. Utilize electric guitar, synth bass, drum machine, and clavinet. The electric guitar should lay down funky rhythms, the synth bass should provide a deep, groovy undertone, the drum machine should offer a steady funk beat, and the clavinet should add a distinctive, rhythmic punch. This track should encapsulate the essence of modern funk with an electronic twist.",
+        "name": "Electro Funk Groove",
+        "genre": "Funk",
+        "tempo": "Medium",
+        "key": "F minor",
+        "chord_progression": [
+            "Fm7",
+            "Eb7",
+            "Abmaj7",
+            "Db7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Electric Guitar",
+            "Synth Bass",
+            "Drum Machine",
+            "Clavinet"
+        ],
+        "style": "Electronic Funk",
+        "feeling": "Groovy"
+    },
+    {
+        "prompt": "Epic Space Opera Symphony: Create an epic, cinematic symphonic piece in C minor, with a grandioso tempo. The chord progression will be Cm, G, Ab, Bb, arranged over 48 bars. Feature a full orchestra and choir. The orchestra should deliver a powerful and sweeping sound, while the choir adds a grand, ethereal dimension. This composition should convey the vastness and majesty of space, with a sense of grandeur and awe.",
+        "name": "Epic Space Opera Symphony",
+        "genre": "Symphonic",
+        "tempo": "Grandioso",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm",
+            "G",
+            "Ab",
+            "Bb"
+        ],
+        "number_of_bars": 48,
+        "number_of_voices": 5,
+        "instruments": [
+            "Full Orchestra",
+            "Choir"
+        ],
+        "style": "Cinematic",
+        "feeling": "Epic"
+    },
+    {
+        "prompt": "Sunrise Flamenco: Craft a passionate traditional flamenco piece in A major, with an allegro tempo. The chord progression should be Am, G, F, E, played over 16 bars. The ensemble should include a Spanish guitar and cajon. The guitar should provide rapid, intricate flamenco rhythms and melodies, while the cajon adds percussive depth. This piece should capture the fiery spirit of flamenco, evoking the beauty of a sunrise with its vibrant and energetic rhythms.",
+        "name": "Sunrise Flamenco",
+        "genre": "Flamenco",
+        "tempo": "Allegro",
+        "key": "A major",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Spanish Guitar",
+            "Cajon"
+        ],
+        "style": "Traditional Flamenco",
+        "feeling": "Passionate"
+    },
+    {
+        "prompt": "Deep Sea Ambient: Develop a serene, atmospheric ambient piece in Bb minor, with a largo tempo. The chord progression will be Bbm, Db, Ab, Gb, spanning 40 bars. Use synth pads and water sounds to create a tranquil and immersive underwater soundscape. The synth pads should offer a deep, soothing texture, while the water sounds add a natural, calming element. This composition should evoke the peaceful and mysterious depths of the ocean.",
+        "name": "Deep Sea Ambient",
+        "genre": "Ambient",
+        "tempo": "Largo",
+        "key": "Bb minor",
+        "chord_progression": [
+            "Bbm",
+            "Db",
+            "Ab",
+            "Gb"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 1,
+        "instruments": [
+            "Synth Pads",
+            "Water Sounds"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Serene"
+    },
+    {
+        "prompt": "Retro Disco Revival: Create an energetic retro disco piece in F# minor with an upbeat tempo. Use the chord progression F#m, C#m, D, E over 32 bars. The ensemble should include bass guitar, synth, and drums. The bass guitar should lay down a groovy, driving line, the synth should provide vibrant, catchy melodies, and the drums should keep an energetic disco beat. This track should capture the essence of the disco era with a modern twist.",
+        "name": "Retro Disco Revival",
+        "genre": "Disco",
+        "tempo": "Upbeat",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m",
+            "C#m",
+            "D",
+            "E"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Bass Guitar",
+            "Synth",
+            "Drums"
+        ],
+        "style": "Retro",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Viking Folk Tale: Compose a mystical Nordic folk piece in E minor with a moderate tempo. The chord progression will be Em, C, G, D, spanning 24 bars. Use traditional instruments like the nyckelharpa and bodhr\u00e1n. The nyckelharpa should lead with haunting melodies, while the bodhr\u00e1n provides a rhythmic, earthy pulse. This piece should evoke the ancient and mysterious atmosphere of Viking tales.",
+        "name": "Viking Folk Tale",
+        "genre": "Nordic Folk",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nyckelharpa",
+            "Bodhr\u00e1n"
+        ],
+        "style": "Ancient",
+        "feeling": "Mystical"
+    },
+    {
+        "prompt": "Breezy Caribbean Calypso: Develop a joyful tropical calypso piece in D major with a moderato tempo. The chord progression should be D, G, A, D, played over 16 bars. Feature steel drums, acoustic guitar, and percussion. The steel drums should carry the melody with their bright, resonant tones, the acoustic guitar should add rhythmic harmony, and the percussion should provide a lively, danceable beat. This composition should embody the carefree and sunny vibe of the Caribbean.",
+        "name": "Breezy Caribbean Calypso",
+        "genre": "Calypso",
+        "tempo": "Moderato",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Steel Drums",
+            "Acoustic Guitar",
+            "Percussion"
+        ],
+        "style": "Tropical",
+        "feeling": "Joyful"
+    },
+    {
+        "prompt": "Autumnal Jazz Waltz: Craft a melancholic smooth jazz waltz in E minor. The tempo should be set to a waltz rhythm, and the chord progression will be Em7, Am7, B7, Em7, over 24 bars. Include piano, saxophone, upright bass, and drums. The piano should provide melodic and harmonic structure, the saxophone should add soulful improvisations, the upright bass should offer a warm, rhythmic foundation, and the drums should maintain a gentle waltz beat. This piece should capture the reflective and nostalgic mood of autumn.",
+        "name": "Autumnal Jazz Waltz",
+        "genre": "Jazz",
+        "tempo": "Waltz",
+        "key": "E minor",
+        "chord_progression": [
+            "Em7",
+            "Am7",
+            "B7",
+            "Em7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Piano",
+            "Saxophone",
+            "Upright Bass",
+            "Drums"
+        ],
+        "style": "Smooth Jazz",
+        "feeling": "Melancholic"
+    },
+    {
+        "prompt": "Ancient Asian Guzheng Melody: Create a peaceful classical Eastern piece featuring a guzheng in G minor with an adagio tempo. The chord progression will be Gm, Dm, Am, Gm, structured over 16 bars. The guzheng should be the sole instrument, showcasing its rich, harp-like qualities through a melody that is both intricate and serene. This composition should evoke a sense of tranquility and the timeless beauty of traditional Asian music.",
+        "name": "Ancient Asian Guzheng Melody",
+        "genre": "Traditional Asian",
+        "tempo": "Adagio",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm",
+            "Dm",
+            "Am",
+            "Gm"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Guzheng"
+        ],
+        "style": "Classical Eastern",
+        "feeling": "Peaceful"
+    },
+    {
+        "prompt": "Urban Hip-Hop Beat: Create a groovy hip-hop piece in C minor with a moderate tempo. The chord progression will be Cm7, Abmaj7, Eb7, G7, played over 16 bars. Include beatbox, synth bass, and turntables in the ensemble. The beatbox should provide a rhythmic foundation, the synth bass should add depth and groove, and the turntables should bring in a unique urban flair with scratching and mixing techniques. This composition should embody the essence of urban hip-hop culture.",
+        "name": "Urban Hip-Hop Beat",
+        "genre": "Hip-Hop",
+        "tempo": "Moderate",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm7",
+            "Abmaj7",
+            "Eb7",
+            "G7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Beatbox",
+            "Synth Bass",
+            "Turntables"
+        ],
+        "style": "Urban",
+        "feeling": "Groovy"
+    },
+    {
+        "prompt": "Futuristic Synth Pop Odyssey: Develop an energetic synth pop piece in A major with a fast tempo. The chord progression should be A, E, F#m, D, spanning 32 bars. Utilize synthesizers, electronic drums, and vocoder. The synthesizers should create a vibrant, futuristic soundscape, the electronic drums should drive the rhythm forward, and the vocoder should add a distinct, robotic vocal effect. This track should capture the excitement and dynamism of a futuristic odyssey.",
+        "name": "Futuristic Synth Pop Odyssey",
+        "genre": "Synth Pop",
+        "tempo": "Fast",
+        "key": "A major",
+        "chord_progression": [
+            "A",
+            "E",
+            "F#m",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synthesizers",
+            "Electronic Drums",
+            "Vocoder"
+        ],
+        "style": "Futuristic",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Twilight Tango Passion: Compose a dramatic Argentinian tango piece in A minor with a moderato tempo. The chord progression will be Am, E7, G, Dm, arranged over 32 bars. Feature bandoneon and violin. The bandoneon should deliver the traditional, passionate tango rhythms, while the violin adds dramatic and expressive melodies. This piece should evoke the intense and passionate atmosphere of a twilight tango.",
+        "name": "Twilight Tango Passion",
+        "genre": "Tango",
+        "tempo": "Moderato",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "E7",
+            "G",
+            "Dm"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Bandoneon",
+            "Violin"
+        ],
+        "style": "Argentinian Tango",
+        "feeling": "Dramatic"
+    },
+    {
+        "prompt": "Soulful Gospel Choir Harmony: Craft an uplifting traditional gospel piece in G major with a slow tempo. The chord progression should be G, C, Em, D, over 24 bars. The ensemble should include a choir, organ, and drums. The choir should be the focal point with rich, harmonious vocals, the organ should provide a warm, spiritual background, and the drums should add a subtle, supportive rhythm. This composition should be soulful and heartening, reflecting the spirit of gospel music.",
+        "name": "Soulful Gospel Choir Harmony",
+        "genre": "Gospel",
+        "tempo": "Slow",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "C",
+            "Em",
+            "D"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Choir",
+            "Organ",
+            "Drums"
+        ],
+        "style": "Traditional Gospel",
+        "feeling": "Uplifting"
+    },
+    {
+        "prompt": "Lunar Lullaby: Create a soothing ambient piece in E major with a very slow tempo. The chord progression will be E, G#m, A, B, played over 16 bars. Use soft synth pads and celesta for instrumentation. The synth pads should offer a gentle, dreamy backdrop, while the celesta should add a delicate, lullaby-like melody. This piece should be tranquil and comforting, like a lullaby under the moonlight.",
+        "name": "Lunar Lullaby",
+        "genre": "Ambient",
+        "tempo": "Very Slow",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "G#m",
+            "A",
+            "B"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Soft Synth Pads",
+            "Celesta"
+        ],
+        "style": "Dreamy",
+        "feeling": "Soothing"
+    },
+    {
+        "prompt": "Fiery Flamenco Fusion: Create an intense modern flamenco fusion piece in B minor with a fast tempo. The chord progression will be Bm, A, G, F#, played over 20 bars. Include flamenco guitar, cajon, and bass guitar. The flamenco guitar should lead with rapid, passionate strumming and picking, the cajon should provide rhythmic support with its percussive beats, and the bass guitar should add depth and drive. This piece should combine traditional flamenco intensity with modern fusion elements.",
+        "name": "Fiery Flamenco Fusion",
+        "genre": "Flamenco Fusion",
+        "tempo": "Fast",
+        "key": "B minor",
+        "chord_progression": [
+            "Bm",
+            "A",
+            "G",
+            "F#"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 3,
+        "instruments": [
+            "Flamenco Guitar",
+            "Cajon",
+            "Bass Guitar"
+        ],
+        "style": "Modern Flamenco",
+        "feeling": "Intense"
+    },
+    {
+        "prompt": "Celtic Highlands Reel: Compose a joyous Irish folk piece in D major with a fast tempo. The chord progression should be D, G, A, D, spanning 32 bars. Use fiddle, tin whistle, and bodhran. The fiddle should deliver lively, melodic lines, the tin whistle should add a bright, cheerful dimension, and the bodhran should give a solid rhythmic foundation. This composition should capture the spirited and celebratory feel of a Celtic highlands reel.",
+        "name": "Celtic Highlands Reel",
+        "genre": "Celtic",
+        "tempo": "Fast",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Fiddle",
+            "Tin Whistle",
+            "Bodhran"
+        ],
+        "style": "Irish Folk",
+        "feeling": "Joyous"
+    },
+    {
+        "prompt": "Underwater Synth Odyssey: Develop a mysterious ambient electronic piece in C# minor with a slow tempo. The chord progression will be C#m, A, E, B, arranged over 32 bars. Feature synth pads and electronic percussion. The synth pads should create a deep, immersive underwater soundscape, while the electronic percussion adds a subtle, rhythmic pulse. This track should evoke the mysterious and serene depths of an underwater world.",
+        "name": "Underwater Synth Odyssey",
+        "genre": "Electronic",
+        "tempo": "Slow",
+        "key": "C# minor",
+        "chord_progression": [
+            "C#m",
+            "A",
+            "E",
+            "B"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Synth Pads",
+            "Electronic Percussion"
+        ],
+        "style": "Ambient",
+        "feeling": "Mysterious"
+    },
+    {
+        "prompt": "Rustic Bluegrass Hoedown: Create a lively traditional bluegrass piece in A major with a fast tempo. The chord progression will be A, E, D, A, spanning 32 bars. Use banjo, fiddle, mandolin, and upright bass. The banjo should drive the piece with its characteristic picking style, the fiddle should add fast-paced melodies, the mandolin should provide rhythmic chopping, and the upright bass should anchor the ensemble with a steady beat. This piece should embody the fun and spirited nature of a rustic bluegrass hoedown.",
+        "name": "Rustic Bluegrass Hoedown",
+        "genre": "Bluegrass",
+        "tempo": "Fast",
+        "key": "A major",
+        "chord_progression": [
+            "A",
+            "E",
+            "D",
+            "A"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Banjo",
+            "Fiddle",
+            "Mandolin",
+            "Upright Bass"
+        ],
+        "style": "Traditional",
+        "feeling": "Lively"
+    },
+    {
+        "prompt": "Frosty Nordic Soundscape: Develop an ethereal ambient piece in E minor with a very slow tempo. The chord progression should be Em, C, G, D, over 40 bars. Use synth pads and bowed strings for instrumentation. The synth pads should create a wide, atmospheric backdrop, while the bowed strings add a haunting, resonant quality, evoking the serene and expansive Nordic landscapes.",
+        "name": "Frosty Nordic Soundscape",
+        "genre": "Ambient",
+        "tempo": "Very Slow",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 1,
+        "instruments": [
+            "Synth Pads",
+            "Bowed Strings"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Ethereal"
+    },
+    {
+        "prompt": "Sunrise Reggae Fusion: Compose a relaxed contemporary reggae fusion piece in E major with a moderate tempo. The chord progression will be E, A, B, E, played over 16 bars. Feature steel drum, electric guitar, and bass. The steel drum should lead with its distinctive tropical melodies, the electric guitar should provide a laid-back rhythm, and the bass should underpin the arrangement with a smooth, groovy line. This track should capture the peaceful yet invigorating vibe of a sunrise.",
+        "name": "Sunrise Reggae Fusion",
+        "genre": "Reggae Fusion",
+        "tempo": "Moderate",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "B",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Steel Drum",
+            "Electric Guitar",
+            "Bass"
+        ],
+        "style": "Contemporary Reggae",
+        "feeling": "Relaxed"
+    },
+    {
+        "prompt": "Ancient Roman Lyre Ballad: Craft a melancholic historical piece set in ancient Rome, using a lyre in D minor with a lento tempo. The chord progression should be Dm, Am, Gm, A, arranged over 20 bars. The lyre, as the sole instrument, should weave a reflective and soulful melody, capturing the depth and emotion of ancient Roman music, evoking a sense of historical reverence and nostalgia.",
+        "name": "Ancient Roman Lyre Ballad",
+        "genre": "Ancient Music",
+        "tempo": "Lento",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Gm",
+            "A"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 1,
+        "instruments": [
+            "Lyre"
+        ],
+        "style": "Historical",
+        "feeling": "Melancholic"
+    },
+    {
+        "prompt": "Ancient Roman Lyre Ballad: Craft a melancholic historical piece set in ancient Rome, using a lyre in D minor with a lento tempo. The chord progression should be Dm, Am, Gm, A, arranged over 20 bars. The lyre, as the sole instrument, should weave a reflective and soulful melody, capturing the depth and emotion of ancient Roman music, evoking a sense of historical reverence and nostalgia.",
+        "name": "Ancient Roman Lyre Ballad",
+        "genre": "Ancient Music",
+        "tempo": "Lento",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Gm",
+            "A"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 1,
+        "instruments": [
+            "Lyre"
+        ],
+        "style": "Historical",
+        "feeling": "Melancholic"
+    },
+    {
+        "prompt": "Medieval Chant Odyssey: Compose a spiritual Gregorian chant piece in C major with an adagio tempo. The chord progression will be C, G, Am, F, spanning 24 bars. Feature a choir and organum. The choir should sing in unison or in simple harmonies, reflecting the meditative and solemn nature of medieval chants, while the organum should provide a subtle, supportive harmonic background. This piece should evoke the spiritual and contemplative atmosphere of medieval ecclesiastical music.",
+        "name": "Medieval Chant Odyssey",
+        "genre": "Medieval",
+        "tempo": "Adagio",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G",
+            "Am",
+            "F"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 4,
+        "instruments": [
+            "Choir",
+            "Organum"
+        ],
+        "style": "Gregorian Chant",
+        "feeling": "Spiritual"
+    },
+    {
+        "prompt": "Avant-Garde Jazz Exploration: Create an abstract, experimental avant-garde jazz piece with a free tempo and atonal key. The composition should be in free form, with variable numbers of bars and voices. Utilize saxophone, piano, bass, and percussion. Encourage improvisation and unconventional techniques to express an abstract and exploratory soundscape, challenging traditional jazz structures and creating an innovative musical experience.",
+        "name": "Avant-Garde Jazz Exploration",
+        "genre": "Avant-Garde Jazz",
+        "tempo": "Free",
+        "key": "Atonal",
+        "chord_progression": "Free Form",
+        "number_of_bars": "Variable",
+        "number_of_voices": "Variable",
+        "instruments": [
+            "Saxophone",
+            "Piano",
+            "Bass",
+            "Percussion"
+        ],
+        "style": "Experimental",
+        "feeling": "Abstract"
+    },
+    {
+        "prompt": "Siberian Folk Dance: Develop an energetic Eastern European folk dance piece in F# minor with a vivace tempo. The chord progression should be F#m, D, E, C#m, played over 32 bars. Include balalaika and accordion. The balalaika should provide a lively, rhythmic melody, while the accordion adds depth and a driving force. This piece should capture the vibrant and spirited nature of Siberian folk dances.",
+        "name": "Siberian Folk Dance",
+        "genre": "Folk",
+        "tempo": "Vivace",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m",
+            "D",
+            "E",
+            "C#m"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Balalaika",
+            "Accordion"
+        ],
+        "style": "Eastern European",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Digital Dreamwave: Craft a nostalgic retrofuturistic synthwave piece in B major with a medium tempo. The chord progression will be B, E, G#m, F#, spanning 24 bars. Feature synthesizers, drum machine, and electric guitar. The synthesizers should create lush, atmospheric layers, the drum machine should provide a steady, pulsating rhythm, and the electric guitar should add melodic lines or solos. This composition should evoke the feel of a digital dreamscape, blending 80s nostalgia with modern synth sounds.",
+        "name": "Digital Dreamwave",
+        "genre": "Synthwave",
+        "tempo": "Medium",
+        "key": "B major",
+        "chord_progression": [
+            "B",
+            "E",
+            "G#m",
+            "F#"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synthesizers",
+            "Drum Machine",
+            "Electric Guitar"
+        ],
+        "style": "Retrofuturistic",
+        "feeling": "Nostalgic"
+    },
+    {
+        "prompt": "Gypsy Jazz Jamboree: Create a lively Manouche jazz piece in A minor with an allegro tempo. The chord progression will be Am6, D7, G6, E7, over 32 bars. Incorporate a gypsy guitar, violin, double bass, and accordion. The gypsy guitar should lead with fast, intricate picking, the violin should add expressive melodies, the double bass should provide a rhythmic foundation, and the accordion should enhance the harmonies. This piece should exude the joyful and energetic spirit of gypsy jazz.",
+        "name": "Gypsy Jazz Jamboree",
+        "genre": "Jazz",
+        "tempo": "Allegro",
+        "key": "A minor",
+        "chord_progression": [
+            "Am6",
+            "D7",
+            "G6",
+            "E7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Gypsy Guitar",
+            "Violin",
+            "Double Bass",
+            "Accordion"
+        ],
+        "style": "Manouche Jazz",
+        "feeling": "Lively"
+    },
+    {
+        "prompt": "Soothing Rain Piano Meditation: Compose a tranquil New Age meditative piece in D major with a largo tempo. The chord progression will be Dmaj7, Gmaj7, A, F#m, over 16 bars. Feature piano and synthetic rain sounds. The piano should play gentle, flowing melodies, creating a serene and contemplative atmosphere, while the synthetic rain sounds add a calming, natural element, enhancing the meditative quality of the piece.",
+        "name": "Soothing Rain Piano Meditation",
+        "genre": "New Age",
+        "tempo": "Largo",
+        "key": "D major",
+        "chord_progression": [
+            "Dmaj7",
+            "Gmaj7",
+            "A",
+            "F#m"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Piano",
+            "Synthetic Rain Sounds"
+        ],
+        "style": "Meditative",
+        "feeling": "Tranquil"
+    },
+    {
+        "prompt": "Afro-Cuban Rumba Rhythms: Create a vibrant Afro-Cuban piece in C minor with a moderato tempo. The chord progression should be Cm, Fm, G7, Cm, spanning 24 bars. Use congas, bongos, and trumpet. The congas and bongos should provide a rhythmic and energetic Afro-Cuban beat, while the trumpet adds melodic lines and improvisations, capturing the lively and spirited essence of Rumba music.",
+        "name": "Afro-Cuban Rumba Rhythms",
+        "genre": "Latin",
+        "tempo": "Moderato",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm",
+            "Fm",
+            "G7",
+            "Cm"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Congas",
+            "Bongos",
+            "Trumpet"
+        ],
+        "style": "Afro-Cuban",
+        "feeling": "Vibrant"
+    },
+    {
+        "prompt": "Cosmic Ambient Odyssey: Develop an ethereal space ambient piece in A minor with a slow tempo. The chord progression will be Am, F, C, G, arranged over 40 bars. Feature spacey synth pads and electronic effects. The synth pads should create a vast, cosmic soundscape, while the electronic effects add depth and texture, evoking the mysterious and expansive nature of the cosmos.",
+        "name": "Cosmic Ambient Odyssey",
+        "genre": "Ambient",
+        "tempo": "Slow",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "F",
+            "C",
+            "G"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 2,
+        "instruments": [
+            "Spacey Synth Pads",
+            "Electronic Effects"
+        ],
+        "style": "Space Ambient",
+        "feeling": "Ethereal"
+    },
+    {
+        "prompt": "Renaissance Court Dance: Craft a formal Renaissance classical piece in G major with a moderato tempo. The chord progression should be G, C, D, G, played over 24 bars. Include lute, recorder, and harpsichord. The lute should provide the main melodic structure, the recorder should add a light, airy dimension, and the harpsichord should offer a rich, harmonic background. This composition should capture the elegance and courtly grace of Renaissance dance music.",
+        "name": "Renaissance Court Dance",
+        "genre": "Classical",
+        "tempo": "Moderato",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "C",
+            "D",
+            "G"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Lute",
+            "Recorder",
+            "Harpsichord"
+        ],
+        "style": "Renaissance",
+        "feeling": "Formal"
+    },
+    {
+        "prompt": "Cool Jazz Nightclub: Craft a smooth cool jazz piece in Bb major with a medium tempo. The chord progression should be Bbmaj7, Gm7, Cm7, F7, played over 32 bars. Include saxophone, piano, and double bass. The saxophone should lead with mellow, expressive melodies, the piano should provide sophisticated harmonic and rhythmic support, and the double bass should lay down a smooth, walking bass line. This track should evoke the relaxed and stylish atmosphere of a cool jazz nightclub.",
+        "name": "Cool Jazz Nightclub",
+        "genre": "Jazz",
+        "tempo": "Medium",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bbmaj7",
+            "Gm7",
+            "Cm7",
+            "F7"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Saxophone",
+            "Piano",
+            "Double Bass"
+        ],
+        "style": "Cool Jazz",
+        "feeling": "Smooth"
+    },
+    {
+        "prompt": "Electro Swing Party: Compose an energetic modern swing piece in G minor with a fast tempo. The chord progression should be Gm, D7, Am7, E7, spanning 16 bars. Feature brass section, electro beats, and upright bass. The brass section should deliver punchy, vibrant melodies, the electro beats should provide a lively, danceable rhythm, and the upright bass should add a groovy, swinging foundation. This track should bring together the classic swing era with modern electronic elements for a high-energy electro swing party.",
+        "name": "Electro Swing Party",
+        "genre": "Electro Swing",
+        "tempo": "Fast",
+        "key": "G minor",
+        "chord_progression": [
+            "Gm",
+            "D7",
+            "Am7",
+            "E7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Brass Section",
+            "Electro Beats",
+            "Upright Bass"
+        ],
+        "style": "Modern Swing",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Soulful R&B Serenade: Create a romantic contemporary R&B piece in C major with a slow tempo. The chord progression will be Cmaj7, Am7, Em7, Fmaj7, over 20 bars. Utilize electric piano, smooth bass, and snare drum. The electric piano should play soulful chords and melodic lines, the smooth bass should offer a warm, emotive foundation, and the snare drum should provide a gentle, rhythmic beat. This composition should evoke a sense of romance and intimacy, perfect for a soulful R&B serenade.",
+        "name": "Soulful R&B Serenade",
+        "genre": "R&B",
+        "tempo": "Slow",
+        "key": "C major",
+        "chord_progression": [
+            "Cmaj7",
+            "Am7",
+            "Em7",
+            "Fmaj7"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 2,
+        "instruments": [
+            "Electric Piano",
+            "Smooth Bass",
+            "Snare Drum"
+        ],
+        "style": "Contemporary R&B",
+        "feeling": "Romantic"
+    },
+    {
+        "prompt": "Andean Mountain Echoes: Compose a melancholic Andean folk piece in A minor with a moderato tempo. The chord progression will be Am, G, F, E, spanning 24 bars. Feature pan flute, charango, and caj\u00f3n. The pan flute should deliver haunting, echoing melodies that mimic the mountainous landscapes, the charango should provide a rhythmic and melodic undercurrent, and the caj\u00f3n should add depth with its percussive beats. This piece should evoke the somber yet beautiful essence of the Andean mountains.",
+        "name": "Andean Mountain Echoes",
+        "genre": "Folk",
+        "tempo": "Moderato",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Pan Flute",
+            "Charango",
+            "Caj\u00f3n"
+        ],
+        "style": "Andean Folk",
+        "feeling": "Melancholic"
+    },
+    {
+        "prompt": "Psychedelic Rock Journey: Create a trippy psychedelic rock piece in E major with a medium tempo. The chord progression should be E, A, C#m, B, played over 32 bars. Use electric guitar, bass guitar, drums, and organ. The electric guitar should lead with expressive, distorted solos, the bass guitar should lay down a groovy foundation, the drums should drive the rhythm forward, and the organ should add a layer of psychedelic texture. This track should capture the experimental and mind-bending spirit of psychedelic rock.",
+        "name": "Psychedelic Rock Journey",
+        "genre": "Rock",
+        "tempo": "Medium",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "C#m",
+            "B"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Electric Guitar",
+            "Bass Guitar",
+            "Drums",
+            "Organ"
+        ],
+        "style": "Psychedelic",
+        "feeling": "Trippy"
+    },
+    {
+        "prompt": "Highland Bagpipe March: Develop a proud Scottish march piece in Bb major with a marching tempo. The chord progression will be Bb, Eb, F, Bb, arranged over 32 bars. Feature bagpipes and snare drum. The bagpipes should play bold, resonant melodies typical of Scottish music, while the snare drum provides a steady, marching rhythm. This composition should convey the pride and tradition of a Highland bagpipe march.",
+        "name": "Highland Bagpipe March",
+        "genre": "Celtic",
+        "tempo": "March",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bb",
+            "Eb",
+            "F",
+            "Bb"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Bagpipes",
+            "Snare Drum"
+        ],
+        "style": "Scottish March",
+        "feeling": "Proud"
+    },
+    {
+        "prompt": "Delta Blues Revival: Craft a soulful Delta blues piece in E minor with a moderate tempo. The chord progression should be Em, A7, B7, Em, structured as a 12-bar blues. Include slide guitar and harmonica. The slide guitar should express the raw emotion of the blues with bending notes and slides, and the harmonica should add a heartfelt, soulful quality. This track should capture the deep-rooted spirit and expressiveness of Delta blues.",
+        "name": "Delta Blues Revival",
+        "genre": "Blues",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "A7",
+            "B7",
+            "Em"
+        ],
+        "number_of_bars": 12,
+        "number_of_voices": 1,
+        "instruments": [
+            "Slide Guitar",
+            "Harmonica"
+        ],
+        "style": "Delta Blues",
+        "feeling": "Soulful"
+    },
+    {
+        "prompt": "Appalachian Dulcimer Dreams: Craft a serene Appalachian folk piece in D major with an adagio tempo. The chord progression will be D, G, A, D, played over 16 bars. Feature the dulcimer as the sole instrument. The dulcimer should play a gentle, melodic tune that evokes the tranquil and soothing essence of Appalachian music. This composition should create a peaceful and dreamy soundscape.",
+        "name": "Appalachian Dulcimer Dreams",
+        "genre": "Folk",
+        "tempo": "Adagio",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Dulcimer"
+        ],
+        "style": "Appalachian",
+        "feeling": "Serene"
+    },
+    {
+        "prompt": "Bossa Nova Beach Vibes: Create a relaxing Bossa Nova piece in A major with a slow tempo. The chord progression should be Amaj7, Dmaj7, Gmaj7, C#m7, spanning 16 bars. Utilize nylon guitar and percussion. The nylon guitar should lead with smooth, rhythmic chords and melodies characteristic of Bossa Nova, while the percussion adds a soft, subtle rhythm. This track should convey the laid-back and soothing atmosphere of a beach setting.",
+        "name": "Bossa Nova Beach Vibes",
+        "genre": "Latin Jazz",
+        "tempo": "Slow",
+        "key": "A major",
+        "chord_progression": [
+            "Amaj7",
+            "Dmaj7",
+            "Gmaj7",
+            "C#m7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nylon Guitar",
+            "Percussion"
+        ],
+        "style": "Bossa Nova",
+        "feeling": "Relaxing"
+    },
+    {
+        "prompt": "Steampunk Industrial Symphony: Develop an inventive experimental piece in E minor with a moderate tempo. The chord progression will be Em, C, G, D, arranged over 40 bars. Incorporate synths, steam-powered percussion, and electric guitar. The synths should create a unique, mechanical soundscape, the steam-powered percussion should add an industrial rhythm, and the electric guitar should contribute with imaginative, edgy melodies. This composition should capture the innovative and mechanical world of steampunk.",
+        "name": "Steampunk Industrial Symphony",
+        "genre": "Experimental",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 4,
+        "instruments": [
+            "Synths",
+            "Steam-Powered Percussion",
+            "Electric Guitar"
+        ],
+        "style": "Steampunk",
+        "feeling": "Inventive"
+    },
+    {
+        "prompt": "Turkish Classical Ode: Compose a majestic Ottoman classical piece in C# minor with a moderato tempo. The chord progression should be C#m, G#m, A, E, spanning 24 bars. Feature oud, kanun, and violin. The oud should provide intricate, melodic lines, the kanun should offer a rich, harmonic texture, and the violin should add emotional depth and expressiveness. This track should reflect the grandeur and elegance of Turkish classical music.",
+        "name": "Turkish Classical Ode",
+        "genre": "World Music",
+        "tempo": "Moderato",
+        "key": "C# minor",
+        "chord_progression": [
+            "C#m",
+            "G#m",
+            "A",
+            "E"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Oud",
+            "Kanun",
+            "Violin"
+        ],
+        "style": "Ottoman Classical",
+        "feeling": "Majestic"
+    },
+    {
+        "prompt": "Retro Video Game Adventure: Develop a playful chiptune piece in F major with a fast tempo. The chord progression should be F, G, Am, Bb, spanning 32 bars. Use 8-bit synth and electronic drums. The 8-bit synth should provide nostalgic, catchy melodies reminiscent of classic video games, while the electronic drums should add a rhythmic, upbeat backing. This track should evoke the excitement and adventure of retro video gaming.",
+        "name": "Retro Video Game Adventure",
+        "genre": "Chiptune",
+        "tempo": "Fast",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "G",
+            "Am",
+            "Bb"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "8-bit Synth",
+            "Electronic Drums"
+        ],
+        "style": "Video Game Music",
+        "feeling": "Playful"
+    },
+    {
+        "prompt": "Smooth Acid Jazz Evening: Create a groovy acid jazz piece in Eb minor with a moderate tempo. The chord progression will be Ebm7, Abm7, Db7, Gb7, played over 16 bars. Incorporate Fender Rhodes, saxophone, electric bass, and drum kit. The Fender Rhodes should lay down smooth, lush chords, the saxophone should deliver soulful, improvisational melodies, the electric bass should provide a groovy foundation, and the drum kit should add a sophisticated jazz rhythm. This composition should capture the relaxed yet vibrant atmosphere of a smooth acid jazz evening.",
+        "name": "Smooth Acid Jazz Evening",
+        "genre": "Jazz",
+        "tempo": "Moderate",
+        "key": "Eb minor",
+        "chord_progression": [
+            "Ebm7",
+            "Abm7",
+            "Db7",
+            "Gb7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Fender Rhodes",
+            "Saxophone",
+            "Electric Bass",
+            "Drum Kit"
+        ],
+        "style": "Acid Jazz",
+        "feeling": "Groovy"
+    },
+    {
+        "prompt": "Cajun Bayou Celebration: Craft a joyous Louisiana Cajun piece in F major with a lively tempo. The chord progression should be F, Bb, C, F, spanning 32 bars. Feature accordion, fiddle, and washboard. The accordion should lead with energetic, melodic lines, the fiddle should add fast-paced, spirited tunes, and the washboard should provide a rhythmic, percussive texture. This track should embody the festive and lively spirit of a Cajun bayou celebration.",
+        "name": "Cajun Bayou Celebration",
+        "genre": "Cajun",
+        "tempo": "Lively",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "Bb",
+            "C",
+            "F"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Accordion",
+            "Fiddle",
+            "Washboard"
+        ],
+        "style": "Louisiana Cajun",
+        "feeling": "Joyous"
+    },
+    {
+        "prompt": "Arctic Ethereal Soundscape: Develop a mystical ambient piece in D minor with a very slow tempo. The chord progression will be Dm, Am, Gm, A, arranged over 40 bars. Utilize glass harmonica and synth pads. The glass harmonica should create haunting, ethereal melodies, while the synth pads should add a wide, atmospheric backdrop, evoking the mysterious and serene beauty of the Arctic.",
+        "name": "Arctic Ethereal Soundscape",
+        "genre": "Ambient",
+        "tempo": "Very Slow",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Gm",
+            "A"
+        ],
+        "number_of_bars": 40,
+        "number_of_voices": 1,
+        "instruments": [
+            "Glass Harmonica",
+            "Synth Pads"
+        ],
+        "style": "Atmospheric",
+        "feeling": "Mystical"
+    },
+    {
+        "prompt": "Baroque Chamber Recital: Compose an elegant Baroque classical piece in G major with an adagio tempo. The chord progression should be G, D, Em, C, played over 24 bars. Include harpsichord and violin. The harpsichord should provide a refined harmonic structure, while the violin should add expressive, ornate melodies. This composition should reflect the sophistication and grace of a Baroque chamber recital.",
+        "name": "Baroque Chamber Recital",
+        "genre": "Classical",
+        "tempo": "Adagio",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Harpsichord",
+            "Violin"
+        ],
+        "style": "Baroque",
+        "feeling": "Elegant"
+    },
+    {
+        "prompt": "Tropical Soca Rhythm: Develop a festive Soca piece in C major with a fast tempo. The chord progression will be C, G, Am, F, played over 16 bars. Use steel pans, bass drum, and horns. The steel pans should lead with vibrant, melodic rhythms, the bass drum should provide a strong, driving beat, and the horns should add bright, celebratory flourishes. This track should embody the lively and joyous spirit of Caribbean soca music.",
+        "name": "Tropical Soca Rhythm",
+        "genre": "Soca",
+        "tempo": "Fast",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G",
+            "Am",
+            "F"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Steel Pans",
+            "Bass Drum",
+            "Horns"
+        ],
+        "style": "Caribbean",
+        "feeling": "Festive"
+    },
+    {
+        "prompt": "Indie Folk Wanderlust: Craft a reflective indie folk piece in E minor with a moderate tempo. The chord progression should be Em, C, G, D, spanning 32 bars. Feature acoustic guitar, mandolin, and cello. The acoustic guitar should provide a rhythmic and melodic foundation, the mandolin should add intricate, high-pitched melodies, and the cello should bring depth with its resonant, emotive tones. This composition should evoke the introspective and adventurous essence of indie folk wanderlust.",
+        "name": "Indie Folk Wanderlust",
+        "genre": "Indie Folk",
+        "tempo": "Moderate",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Acoustic Guitar",
+            "Mandolin",
+            "Cello"
+        ],
+        "style": "Indie",
+        "feeling": "Reflective"
+    },
+    {
+        "prompt": "Urban Smooth Jazz Nights: Create a relaxing smooth jazz piece in A minor with a slow tempo. The chord progression will be Am7, Dm7, G7, Cmaj7, arranged over 24 bars. Utilize saxophone, electric piano, and upright bass. The saxophone should deliver smooth, sultry melodies, the electric piano should provide a lush harmonic backdrop, and the upright bass should offer a mellow, groovy foundation. This track should capture the laid-back and sophisticated atmosphere of urban smooth jazz nights.",
+        "name": "Urban Smooth Jazz Nights",
+        "genre": "Smooth Jazz",
+        "tempo": "Slow",
+        "key": "A minor",
+        "chord_progression": [
+            "Am7",
+            "Dm7",
+            "G7",
+            "Cmaj7"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 3,
+        "instruments": [
+            "Saxophone",
+            "Electric Piano",
+            "Upright Bass"
+        ],
+        "style": "Smooth Jazz",
+        "feeling": "Relaxing"
+    },
+    {
+        "prompt": "Mediterranean Acoustic Serenade: Develop a warm Mediterranean folk piece in D major with a moderato tempo. The chord progression should be D, A, Bm, G, played over 16 bars. Include classical guitar and mandolin. The classical guitar should play soft, melodic lines, while the mandolin adds a bright, crisp texture. This composition should evoke the warmth and charm of a Mediterranean acoustic serenade.",
+        "name": "Mediterranean Acoustic Serenade",
+        "genre": "Folk",
+        "tempo": "Moderato",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "A",
+            "Bm",
+            "G"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Classical Guitar",
+            "Mandolin"
+        ],
+        "style": "Mediterranean Folk",
+        "feeling": "Warm"
+    },
+    {
+        "prompt": "Vintage Rockabilly Bash: Compose an energetic rockabilly piece in E major with an upbeat tempo. The chord progression will be E, A, B7, E, structured as a 12-bar blues. Feature electric guitar, double bass, and drums. The electric guitar should lead with lively, twangy riffs, the double bass should provide a rhythmic slap bass line, and the drums should drive the upbeat rhythm. This track should capture the high-energy and fun spirit of a 1950s vintage rockabilly bash.",
+        "name": "Vintage Rockabilly Bash",
+        "genre": "Rockabilly",
+        "tempo": "Upbeat",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "A",
+            "B7",
+            "E"
+        ],
+        "number_of_bars": 12,
+        "number_of_voices": 3,
+        "instruments": [
+            "Electric Guitar",
+            "Double Bass",
+            "Drums"
+        ],
+        "style": "1950s Rock",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Bollywood Fusion Fantasy: Create a vibrant Bollywood fusion piece in F# minor with a medium tempo. The chord progression will be F#m, D, A, E, spanning 32 bars. Use sitar, tabla, strings, and percussion. The sitar should lead with its distinctive melodic lines, the tabla should offer intricate rhythmic patterns, the strings should provide a lush harmonic background, and the percussion should add additional rhythmic complexity. This track should blend traditional Indian music with modern fusion elements, capturing the colorful and dynamic spirit of Bollywood.",
+        "name": "Bollywood Fusion Fantasy",
+        "genre": "Fusion",
+        "tempo": "Medium",
+        "key": "F# minor",
+        "chord_progression": [
+            "F#m",
+            "D",
+            "A",
+            "E"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Sitar",
+            "Tabla",
+            "Strings",
+            "Percussion"
+        ],
+        "style": "Bollywood Fusion",
+        "feeling": "Vibrant"
+    },
+    {
+        "prompt": "Contemporary Classical Piano: Develop an emotive modern classical piece in C minor with an andante tempo. The chord progression should be Cm, Ab, Eb, Bb, played over 20 bars. Feature a grand piano as the sole instrument. The piano should explore a range of dynamics and expressions, weaving through the chords with emotive and intricate melodies. This composition should convey deep emotions, reflecting the complexity and richness of contemporary classical music.",
+        "name": "Contemporary Classical Piano",
+        "genre": "Classical",
+        "tempo": "Andante",
+        "key": "C minor",
+        "chord_progression": [
+            "Cm",
+            "Ab",
+            "Eb",
+            "Bb"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 1,
+        "instruments": [
+            "Grand Piano"
+        ],
+        "style": "Modern Classical",
+        "feeling": "Emotive"
+    },
+    {
+        "prompt": "Progressive Trance Pulse: Craft a euphoric progressive trance piece in B minor with a fast tempo. The chord progression will be Bm, G, D, A, arranged over 32 bars. Include synth leads, electronic drums, and bass. The synth leads should deliver driving, melodic lines, the electronic drums should provide a powerful, danceable beat, and the bass should add depth and momentum. This track should encapsulate the energetic and uplifting nature of progressive trance music.",
+        "name": "Progressive Trance Pulse",
+        "genre": "Trance",
+        "tempo": "Fast",
+        "key": "B minor",
+        "chord_progression": [
+            "Bm",
+            "G",
+            "D",
+            "A"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 3,
+        "instruments": [
+            "Synth Leads",
+            "Electronic Drums",
+            "Bass"
+        ],
+        "style": "Progressive Trance",
+        "feeling": "Euphoric"
+    },
+    {
+        "prompt": "Bohemian Folk Revival: Create a nostalgic Bohemian folk piece in E major with a moderato tempo. The chord progression should be E, B, C#m, A, spanning 24 bars. Use acoustic guitar and violin. The acoustic guitar should offer a rhythmic and melodic foundation, while the violin adds lyrical, expressive melodies. This composition should evoke the romantic and free-spirited essence of Bohemian folk music.",
+        "name": "Bohemian Folk Revival",
+        "genre": "Folk",
+        "tempo": "Moderato",
+        "key": "E major",
+        "chord_progression": [
+            "E",
+            "B",
+            "C#m",
+            "A"
+        ],
+        "number_of_bars": 24,
+        "number_of_voices": 2,
+        "instruments": [
+            "Acoustic Guitar",
+            "Violin"
+        ],
+        "style": "Bohemian Folk",
+        "feeling": "Nostalgic"
+    },
+    {
+        "prompt": "Nordic Noir Soundtrack: Craft a mysterious cinematic soundtrack piece in D minor with a slow tempo. The chord progression will be Dm, Am, Gm, A, played over 16 bars. Use strings, piano, and synth pads. The strings should provide a dark, tense atmosphere, the piano should add suspenseful and emotive melodies, and the synth pads should create a brooding, atmospheric background. This composition should encapsulate the moody and enigmatic essence typical of Nordic noir.",
+        "name": "Nordic Noir Soundtrack",
+        "genre": "Soundtrack",
+        "tempo": "Slow",
+        "key": "D minor",
+        "chord_progression": [
+            "Dm",
+            "Am",
+            "Gm",
+            "A"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Strings",
+            "Piano",
+            "Synth Pads"
+        ],
+        "style": "Cinematic",
+        "feeling": "Mysterious"
+    },
+    {
+        "prompt": "Latin Pop Fiesta: Develop a vivacious Latin pop piece in A minor with a medium tempo. The chord progression should be Am, G, F, E, spanning 16 bars. Feature acoustic guitar, percussion, and horns. The acoustic guitar should play rhythmic, upbeat chords, the percussion should provide a lively Latin beat, and the horns should add vibrant, festive melodies. This track should capture the celebratory and dynamic spirit of a Latin pop fiesta.",
+        "name": "Latin Pop Fiesta",
+        "genre": "Latin Pop",
+        "tempo": "Medium",
+        "key": "A minor",
+        "chord_progression": [
+            "Am",
+            "G",
+            "F",
+            "E"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Acoustic Guitar",
+            "Percussion",
+            "Horns"
+        ],
+        "style": "Latin Pop",
+        "feeling": "Vivacious"
+    },
+    {
+        "prompt": "Japanese Koto Reflections: Create a peaceful traditional Japanese piece in G major with a slow tempo. The chord progression will be G, D, Em, C, arranged over 20 bars. Utilize the koto as the sole instrument. The koto should deliver delicate and serene melodies, reflecting the traditional and tranquil beauty of Japanese music. This composition should evoke a sense of calm and reflection.",
+        "name": "Japanese Koto Reflections",
+        "genre": "Traditional Japanese",
+        "tempo": "Slow",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 20,
+        "number_of_voices": 1,
+        "instruments": [
+            "Koto"
+        ],
+        "style": "Traditional Japanese",
+        "feeling": "Peaceful"
+    },
+    {
+        "prompt": "Cuban Son Montuno: Compose a lively Cuban Son piece in F major with a medium tempo. The chord progression should be F, C, G7, Am, played over 16 bars. Include tres, bongos, and trumpet. The tres should lead with rhythmic and melodic lines, the bongos should add a Cuban rhythmic flair, and the trumpet should interject with bright, engaging melodies. This track should embody the vibrant and rhythmic energy of Cuban Son Montuno.",
+        "name": "Cuban Son Montuno",
+        "genre": "Son",
+        "tempo": "Medium",
+        "key": "F major",
+        "chord_progression": [
+            "F",
+            "C",
+            "G7",
+            "Am"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 3,
+        "instruments": [
+            "Tres",
+            "Bongos",
+            "Trumpet"
+        ],
+        "style": "Cuban Son",
+        "feeling": "Lively"
+    },
+    {
+        "prompt": "Traditional Irish Reel: Develop an energetic Irish folk piece in D major with a fast tempo. The chord progression will be D, G, A, D, spanning 32 bars. Use fiddle and bodhr\u00e1n. The fiddle should play fast-paced, lively melodies, typical of Irish reels, while the bodhr\u00e1n should provide a driving, rhythmic pulse. This composition should convey the spirited and lively atmosphere of a traditional Irish reel.",
+        "name": "Traditional Irish Reel",
+        "genre": "Irish Folk",
+        "tempo": "Fast",
+        "key": "D major",
+        "chord_progression": [
+            "D",
+            "G",
+            "A",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Fiddle",
+            "Bodhr\u00e1n"
+        ],
+        "style": "Traditional Irish",
+        "feeling": "Energetic"
+    },
+    {
+        "prompt": "Hawaiian Slack-Key Serenity: Create a relaxed Hawaiian slack-key guitar piece in G major with a slow tempo. The chord progression will be G, D, Em, C, spanning 16 bars. Feature the slack-key guitar as the sole instrument. It should provide a gentle, melodious flow with characteristic open tunings, evoking the serene and tranquil ambiance of the Hawaiian landscape. This composition should capture the peaceful and laid-back spirit of Hawaiian slack-key music.",
+        "name": "Hawaiian Slack-Key Serenity",
+        "genre": "Hawaiian",
+        "tempo": "Slow",
+        "key": "G major",
+        "chord_progression": [
+            "G",
+            "D",
+            "Em",
+            "C"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 1,
+        "instruments": [
+            "Slack-Key Guitar"
+        ],
+        "style": "Hawaiian Slack-Key",
+        "feeling": "Relaxed"
+    },
+    {
+        "prompt": "Classic New Orleans Jazz: Develop a vibrant New Orleans jazz piece in Bb major with a medium tempo. The chord progression should be Bb, Eb7, F7, Bb, played over 16 bars. Use clarinet, trumpet, trombone, and banjo. The clarinet should lead with lively melodies, the trumpet and trombone should add brassy, bright harmonies and solos, and the banjo should provide rhythmic chordal support. This track should embody the festive and energetic atmosphere of classic New Orleans jazz.",
+        "name": "Classic New Orleans Jazz",
+        "genre": "Jazz",
+        "tempo": "Medium",
+        "key": "Bb major",
+        "chord_progression": [
+            "Bb",
+            "Eb7",
+            "F7",
+            "Bb"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 4,
+        "instruments": [
+            "Clarinet",
+            "Trumpet",
+            "Trombone",
+            "Banjo"
+        ],
+        "style": "New Orleans Jazz",
+        "feeling": "Vibrant"
+    },
+    {
+        "prompt": "Indian Classical Raga: Craft a spiritual Indian classical piece based on a specific raga, with a variable tempo and structure. Utilize sitar and tabla as the main instruments. The sitar should explore the raga's melodic patterns and intricacies, while the tabla provides the rhythmic cycle (tala). This composition should reflect the deep spiritual essence and complex beauty of Indian classical music, where improvisation plays a significant role.",
+        "name": "Indian Classical Raga",
+        "genre": "Indian Classical",
+        "tempo": "Variable",
+        "key": "Raga-based",
+        "chord_progression": "Raga-specific",
+        "number_of_bars": "Variable",
+        "number_of_voices": 2,
+        "instruments": [
+            "Sitar",
+            "Tabla"
+        ],
+        "style": "Indian Classical",
+        "feeling": "Spiritual"
+    },
+    {
+        "prompt": "Swedish Folk Dance: Compose a joyful Swedish folk dance piece in C major with a moderate tempo. The chord progression will be C, G, Am, F, arranged over 32 bars. Feature nyckelharpa and accordion. The nyckelharpa should deliver distinct, resonant melodies, while the accordion adds a layer of harmonic richness and rhythmic drive. This track should capture the lively and cheerful spirit of Swedish folk dancing.",
+        "name": "Swedish Folk Dance",
+        "genre": "Folk",
+        "tempo": "Moderate",
+        "key": "C major",
+        "chord_progression": [
+            "C",
+            "G",
+            "Am",
+            "F"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nyckelharpa",
+            "Accordion"
+        ],
+        "style": "Swedish Folk",
+        "feeling": "Joyful"
+    },
+    {
+        "prompt": "Gothic Symphonic Metal: Create a dramatic symphonic metal piece in E minor with a fast tempo. The chord progression should be Em, C, G, D, spanning 32 bars. Use electric guitar, a symphonic orchestra, and drums. The electric guitar should provide powerful riffs and solos, the symphonic orchestra should add a grand, epic layer with strings, brass, and other orchestral elements, and the drums should drive the piece with intense, heavy beats. This composition should blend the raw energy of metal with the grandeur of symphonic music, creating a dramatic and powerful gothic atmosphere.",
+        "name": "Gothic Symphonic Metal",
+        "genre": "Metal",
+        "tempo": "Fast",
+        "key": "E minor",
+        "chord_progression": [
+            "Em",
+            "C",
+            "G",
+            "D"
+        ],
+        "number_of_bars": 32,
+        "number_of_voices": 4,
+        "instruments": [
+            "Electric Guitar",
+            "Symphonic Orchestra",
+            "Drums"
+        ],
+        "style": "Symphonic Metal",
+        "feeling": "Dramatic"
+    },
+    {
+        "prompt": "Brazilian Bossa Nova Breeze: Craft a soothing Bossa Nova piece in A major with a moderate tempo. The chord progression should be Amaj7, Dmaj7, Gmaj7, C#m7, played over 16 bars. Utilize a nylon-string guitar and percussion. The nylon-string guitar should play smooth, melodic bossa nova rhythms and chords, while the percussion adds a light, syncopated beat. This track should evoke the relaxed and laid-back atmosphere of Brazilian Bossa Nova, bringing a sense of calm and breezy elegance.",
+        "name": "Brazilian Bossa Nova Breeze",
+        "genre": "Bossa Nova",
+        "tempo": "Moderate",
+        "key": "A major",
+        "chord_progression": [
+            "Amaj7",
+            "Dmaj7",
+            "Gmaj7",
+            "C#m7"
+        ],
+        "number_of_bars": 16,
+        "number_of_voices": 2,
+        "instruments": [
+            "Nylon-String Guitar",
+            "Percussion"
+        ],
+        "style": "Bossa Nova",
+        "feeling": "Soothing"
+    }
+]

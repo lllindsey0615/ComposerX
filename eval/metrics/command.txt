@@ -1,0 +1,1 @@
+python metrics.py --data_path ../../data/midData/ --output_path ../../output/

@@ -1,0 +1,5 @@
+pyautogen~=0.2.0b4
+cohere
+openai==0.28
+midi2audio
+

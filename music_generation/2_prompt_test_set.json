@@ -1,0 +1,25 @@
+[
+    {
+        "prompt": "Balkan Brass Extravaganza: Write a piece inspired by Balkan brass bands, featuring trumpets, tubas, and trombones. Use a lively motif with an asymmetric time signature, and a progression like E7-Am7-D7-G7. The tempo should be fast and energetic, reflecting the exuberance of Balkan music.",
+        "title": "Balkan Brass Extravaganza",
+        "genre": "Balkan, Brass Band",
+        "key": "Unspecified",
+        "chord_progression": "E7-Am7-D7-G7",
+        "instruments": "Trumpets, Tubas, Trombones",
+        "tempo": "Fast",
+        "rhythm": "Energetic, Asymmetric",
+        "emotion": "Exuberant, Lively"
+    },
+    {
+        "prompt": "Flamenco Fury: Compose a fiery flamenco piece using a classical guitar as the main instrument, complemented by palmas (hand clapping) and caj\u00f3n for rhythm. The motif should be passionate and quick, with a progression like Am-G-F-E. Set the tempo fast, with a lot of rhythmic intensity and flair.",
+        "title": "Flamenco Fury",
+        "genre": "Flamenco",
+        "key": "Unspecified",
+        "chord_progression": "Am-G-F-E",
+        "instruments": "Classical guitar, Palmas, Caj\u00f3n",
+        "tempo": "Fast",
+        "rhythm": "Intense, Rhythmic",
+        "emotion": "Passionate, Fiery"
+    }
+
+]
