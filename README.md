@@ -25,22 +25,22 @@ eval/prompt_set/prompt_set.json contains the curated prompt set and correspondin
 
 
 ## Generate your music
-Prepare your MuseScore
+Prepare your MuseScore:
 
 ```
 python prepare_musescore.py convert_abc_to_wav.py "your local musescore4 path"
 ```
 
-Prepare your API
+Prepare your API:
 
 In music_generation/OAI_CONFIG_LIST, replace the API model and key with your own
 
-For one-time prompt input, run
+For one-time prompt input, run:
 ```
 python multi_agent_pipe.py -p "input your prompt here" -o "directory to store the results"
 ```
 
-For multiple-time prompts input, run
+For multiple-time prompts input, run:
 ```
 set_pipe.py -p "path to your JSON file that contains multiple prompts" -o "directory to store the results"
 ```
