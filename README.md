@@ -21,7 +21,7 @@ Download and install abc2midi [here](https://abcplus.sourceforge.net/) and add i
 Download AutoGen here: [here](https://github.com/microsoft/autogen)
 
 ## Curated prompt set:
-prompt_set.json contains the curated prompt set using self-instruct
+eval/prompt_set/prompt_set.json contains the curated prompt set and corresponding musical attributes using self-instruct
 
 
 ## Generate your music
