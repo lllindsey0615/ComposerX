@@ -6,7 +6,7 @@ ComposerX is a multi-agent-based text-to-music generation system powered by GPT 
 
 This is code for paper "ComposerX: Multi-Agent Symbolic Music Composition with LLMs[here](paper link)
 
-This is our demo page[here](https://lllindsey0615.github.io/ComposerX_demo/)
+This is our demo page:[here](https://glossy-scowl-a33.notion.site/ComposerX-Demo-e53b59f17540401785437f3bee38c308)
 
 This is out demo video [here](link to demo video)
 
