@@ -8,7 +8,7 @@ This is code for paper "ComposerX: Multi-Agent Symbolic Music Composition with L
 
 This is our demo page:[here](https://lllindsey0615.github.io/ComposerX_demo/)
 
-This is out demo video [here](link to demo video)
+This is out demo video [here](https://www.youtube.com/watch?v=ObukjN-6yD8))
 
 
 ## Preparation
@@ -47,3 +47,4 @@ set_pipe.py -p "path to your JSON file that contains multiple prompts" -o "direc
 
 ## Acknoledgements
 
+We would like to express our gratitude to [Multimodal Art Projection(M-A-P)](https://m-a-p.ai/) and Hong Kong University of Science and Technology (HKUST) for fund this project.
